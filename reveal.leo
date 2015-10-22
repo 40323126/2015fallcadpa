@@ -19,7 +19,7 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -54,7 +54,7 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="123.20151022140839.1"><vh>@path 9999</vh>
+<v t="123.20151022140839.1" a="E"><vh>@path 9999</vh>
 <v t="123.20151022140839.2"><vh>以下為投影片 ------------</vh></v>
 <v t="123.20151022140839.3"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="123.20151022140839.4" a="E"><vh>@path pelican</vh>
@@ -96,7 +96,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022140632.1"><vh>@path 40323123</vh>
+<v t="leo.20151022140632.1" a="E"><vh>@path 40323123</vh>
 <v t="leo.20151022140632.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151022140632.3"><vh>@edit 40323123_cp_w1_p.html</vh></v>
 <v t="leo.20151022140632.4" a="E"><vh>@path pelican</vh>
