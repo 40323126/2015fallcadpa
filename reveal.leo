@@ -66,7 +66,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151026231828.1" a="E"><vh>@path 40323143</vh>
+<v t="leo.20151026231828.1"><vh>@path 40323143</vh>
 <v t="leo.20151026231828.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151026231828.3"><vh>@edit 40323143_cp_w1_p.html</vh></v>
 <v t="leo.20151026231828.4" a="E"><vh>@path pelican</vh>
@@ -78,7 +78,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151026231833.1" a="E"><vh>@path 40323145</vh>
+<v t="leo.20151026231833.1"><vh>@path 40323145</vh>
 <v t="leo.20151026231833.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151026231833.3"><vh>@edit 40323145_cp_w1_p.html</vh></v>
 <v t="leo.20151026231833.4" a="E"><vh>@path pelican</vh>
@@ -90,7 +90,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 40323131</vh>
+<v t="amd.20151021114504.1"><vh>@path 40323131</vh>
 <v t="amd.20151021213523.1"><vh>以下為投影片 ------------</vh></v>
 <v t="amd.20151021114639.1"><vh>@edit 40323131_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
@@ -105,8 +105,14 @@
 </v>
 <v t="123.20151022143546.1" a="E"><vh>@path 40323116</vh>
 <v t="123.20151022143546.2"><vh>以下為投影片 ------------</vh></v>
-<v t="123.20151022143546.3"><vh>@edit 40323116_cp_w1_p.html</vh></v>
-<v t="123.20151022143546.4" a="E"><vh>@path pelican</vh>
+<v t=".20151029140247.1" a="E"><vh>@edit 40323116_cp_w1_p.html</vh>
+<v t=".20151029140247.2"><vh>week1</vh></v>
+<v t=".20151029140247.3"><vh>week2</vh></v>
+<v t=".20151029140247.4"><vh>week3</vh></v>
+<v t=".20151029140247.5"><vh>week4</vh></v>
+</v>
+<v t=".20151029140136.1"><vh>newHeadline</vh></v>
+<v t="123.20151022143546.4"><vh>@path pelican</vh>
 <v t="123.20151022143546.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="123.20151022143546.6"><vh>@edit publishconf.py</vh></v>
 <v t="123.20151022143546.7" a="E"><vh>@path content</vh>
@@ -115,7 +121,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022140632.1" a="E"><vh>@path 40323123</vh>
+<v t="leo.20151022140632.1"><vh>@path 40323123</vh>
 <v t="leo.20151022140632.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151022140632.3"><vh>@edit 40323123_cp_w1_p.html</vh></v>
 <v t="leo.20151022140632.4" a="E"><vh>@path pelican</vh>
@@ -144,6 +150,117 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx=".20151029140136.1"></t>
+<t tx=".20151029140247.1">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029140247.2">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;section&gt;
+
+
+    &lt;section&gt;
+         &lt;h1&gt;電腦輔助設計實習1&lt;/h1&gt;
+         &lt;p&gt;40323116 10/1&lt;/p&gt;		
+    
+    &lt;/section&gt;
+
+    &lt;section&gt;
+        &lt;h1&gt;week1&lt;/h1&gt;
+         &lt;p&gt;使用 Git 在 Github 與 Bitbucket 管理個人, 分組與班上倉儲資        
+              料: http://backlogtool.com/git-guide/tw/intro/intro1_1.html 與 Leo   
+              Editor Tutorial 與 What Engineers do?, 作業內容: 看完說明, 利
+              用 
+              Leo Editor 摘要重點, 建立個人 Github 課程倉儲&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;week1心得&lt;/h1&gt;
+        &lt;p&gt;好難啊 老師也教很快不知道在教啥 自評分數70&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
+<t tx=".20151029140247.3">&lt;section&gt;
+    &lt;section id="hw-task-one"&gt;
+        &lt;h1&gt;電腦輔助設計實習2&lt;/h1&gt;
+         &lt;p&gt;40323116 10/8&lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section id="hw-task-one"&gt;
+        &lt;h1&gt;week2&lt;/h1&gt;
+        &lt;p&gt;展示如何使用 Ana3_lite2 (啟動, 關閉, 模組配置, 其他 Python3 
+              模組安裝與管理)
+              展示如何利用 https://github.com/coursemdetw/reveal 倉儲 (gh- 
+              pages 分支), 來管理各週作業內容.
+              利用 http://solvespace.com/tutorial.pl 說明 Solvespace 基本用法.
+              利用 https://copy.com/97ZkQ0UqfVUPTxn8 說明Creo Parametric    
+              基本用法.&lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section id="hw-task-one"&gt;
+        &lt;h1&gt;week2心得&lt;/h1&gt;
+        &lt;p&gt;聽著老師的教學慢慢的把東西弄出來但是一直404 自評分數
+        70&lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+   
+&lt;/section&gt;
+
+
+
+				
+</t>
+<t tx=".20151029140247.4">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;電腦輔助設計實習3&lt;/h1&gt;
+         &lt;p&gt;40323116 10/8&lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;week3&lt;/h1&gt;
+        &lt;p&gt;pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages 分
+             支
+            Solvespace 基本操作: http://solvespace.com/tutorial.pl &lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;				
+    &lt;section&gt;
+        &lt;h1&gt;week3心得&lt;/h1&gt;
+        &lt;p&gt;發現一直404的原因是github信箱沒去認證 難怪都做不出來 自評分數70&lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;   </t>
+<t tx=".20151029140247.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;section&gt;
+
+
+    &lt;section&gt;
+         &lt;h1&gt;電腦輔助設計實習4&lt;/h1&gt;
+         &lt;p&gt;40323116 10/15&lt;/p&gt;		
+    &lt;/section&gt;
+
+    &lt;section&gt;
+        &lt;h1&gt;week4&lt;/h1&gt;
+        Solvespace 基本練習
+        &lt;img src=https://copy.com/Mt1u8dKyROoJyJNZ&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;week4心得&lt;/h1&gt;
+        &lt;p&gt;今天除了繼續弄之前的進度外還外加了畫圖 這軟體還蠻像autocad的 自評分 
+              數70&lt;/p&gt;
+        &lt;p&gt;&lt;/a&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+</t>
 <t tx="123.20151022140839.1"></t>
 <t tx="123.20151022140839.2"></t>
 <t tx="123.20151022140839.4"></t>
