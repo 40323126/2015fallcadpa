@@ -105,13 +105,19 @@
 </v>
 <v t="123.20151022143546.1" a="E"><vh>@path 40323116</vh>
 <v t="123.20151022143546.2"><vh>以下為投影片 ------------</vh></v>
-<v t=".20151029140247.1" a="E"><vh>@edit 40323116_cp_w1_p.html</vh>
-<v t=".20151029140247.2"><vh>week1</vh></v>
-<v t=".20151029140247.3"><vh>week2</vh></v>
-<v t=".20151029140247.4"><vh>week3</vh></v>
-<v t=".20151029140247.5"><vh>week4</vh></v>
+<v t=".20151029141054.1" a="E"><vh>html 標註</vh>
+<v t=".20151029141054.2" a="E"><vh>body 標註</vh>
+<v t=".20151029141054.3" a="E"><vh>div class="reveal"</vh>
+<v t=".20151029141054.4" a="E"><vh>div class="slides"</vh>
+<v t=".20151029141054.5"><vh>week1</vh></v>
+<v t=".20151029141054.6"><vh>week2</vh></v>
+<v t=".20151029141054.7"><vh>week3</vh></v>
+<v t=".20151029141054.8"><vh>week4</vh></v>
 </v>
-<v t=".20151029140136.1"><vh>newHeadline</vh></v>
+</v>
+<v t=".20151029141054.9"><vh>script</vh></v>
+</v>
+</v>
 <v t="123.20151022143546.4" a="E"><vh>@path pelican</vh>
 <v t="123.20151022143546.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="123.20151022143546.6"><vh>@edit publishconf.py</vh></v>
@@ -150,13 +156,35 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx=".20151029140136.1"></t>
-<t tx=".20151029140247.1">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx=".20151029141054.1">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx=".20151029141054.2">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx=".20151029141054.3">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx=".20151029141054.4">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx=".20151029140247.2">&lt;!-- 以下為投影片 --&gt;
+<t tx=".20151029141054.5">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -184,7 +212,7 @@
     
 &lt;/section&gt;
 </t>
-<t tx=".20151029140247.3">&lt;section&gt;
+<t tx=".20151029141054.6">&lt;section&gt;
     &lt;section id="hw-task-one"&gt;
         &lt;h1&gt;電腦輔助設計實習2&lt;/h1&gt;
          &lt;p&gt;40323116 10/8&lt;/p&gt;
@@ -214,7 +242,7 @@
 
 				
 </t>
-<t tx=".20151029140247.4">&lt;section&gt;
+<t tx=".20151029141054.7">&lt;section&gt;
     &lt;section&gt;
         &lt;h1&gt;電腦輔助設計實習3&lt;/h1&gt;
          &lt;p&gt;40323116 10/8&lt;/p&gt;
@@ -234,7 +262,7 @@
     &lt;/section&gt;
     
 &lt;/section&gt;   </t>
-<t tx=".20151029140247.5">&lt;!-- 以下為投影片 --&gt;
+<t tx=".20151029141054.8">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -260,6 +288,15 @@
     &lt;/section&gt;
     
 &lt;/section&gt;
+</t>
+<t tx=".20151029141054.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
 </t>
 <t tx="123.20151022140839.1"></t>
 <t tx="123.20151022140839.2"></t>
