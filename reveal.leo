@@ -54,18 +54,6 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="leo.20151029150626.1" a="E"><vh>@path 40323135</vh>
-<v t="leo.20151029150626.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151029150626.3"><vh>@edit 40323135_cp_w1_p.html</vh></v>
-<v t="leo.20151029150626.4" a="E"><vh>@path pelican</vh>
-<v t="leo.20151029150626.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151029150626.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151029150626.7" a="E"><vh>@path content</vh>
-<v t="leo.20151029150626.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151029150626.9"><vh>@edit 40323135_cp_w1.md</vh></v>
-</v>
-</v>
-</v>
 <v t="123.20151029141051.1"><vh>@path 40323115</vh>
 <v t="123.20151029141051.2"><vh>以下為投影片 ------------</vh></v>
 <v t="123.20151029141051.3"><vh>@edit 40323115_cp_w1_p.html</vh></v>
@@ -78,45 +66,15 @@
 </v>
 </v>
 </v>
-<<<<<<< HEAD
-<v t="123.20151022140839.1" a="E"><vh>@path 40323150</vh>
-=======
-<v t="123.20151022140839.1"><vh>@path 9999</vh>
->>>>>>> fbe466a14988525555f1b61f0c0d95e940ac9bd5
+<v t="123.20151022140839.1" a="E"><vh>@path 9999</vh>
 <v t="123.20151022140839.2"><vh>以下為投影片 ------------</vh></v>
-<v t="123.20151029151426.1"><vh>@clean simplest.html</vh>
-<v t="123.20151029151426.2"><vh>檔案說明</vh></v>
-<v t="123.20151029151426.3"><vh>html 標註</vh>
-<v t="123.20151029151426.4"><vh>body 標註</vh>
-<v t="123.20151029151426.5"><vh>div class="reveal"</vh>
-<v t="123.20151029151426.6"><vh>div class="slides"</vh>
-<v t="123.20151029151426.7"><vh>111</vh></v>
-<v t="123.20151029151426.8"><vh>222</vh></v>
-<v t="123.20151029151426.9"><vh>333</vh></v>
-</v>
-</v>
-<v t="123.20151029151426.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
+<v t="123.20151022140839.3"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="123.20151022140839.4" a="E"><vh>@path pelican</vh>
 <v t="123.20151022140839.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="123.20151029151511.1"><vh>@edit publishconf.py</vh></v>
+<v t="123.20151022140839.6"><vh>@edit publishconf.py</vh></v>
 <v t="123.20151022140839.7" a="E"><vh>@path content</vh>
 <v t="123.20151022140839.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="123.20151029151747.1"><vh>@edit 2015cphww1.md</vh></v>
-</v>
-</v>
-</v>
-<v t="123.20151029151348.1" a="E"><vh>@path 40323154</vh>
-<v t="123.20151029151348.2"><vh>以下為投影片 ------------</vh></v>
-<v t="123.20151029151348.3"><vh>@edit 40323154_cp_w1_p.html</vh></v>
-<v t="123.20151029151348.4" a="E"><vh>@path pelican</vh>
-<v t="123.20151029151348.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="123.20151029151348.6"><vh>@edit publishconf.py</vh></v>
-<v t="123.20151029151348.7" a="E"><vh>@path content</vh>
-<v t="123.20151029151348.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="123.20151029151348.9"><vh>@edit 40323154_cp_w1.md</vh></v>
+<v t="123.20151022140839.9"><vh>@edit 9999_cp_w1.md</vh></v>
 </v>
 </v>
 </v>
@@ -247,7 +205,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029150735.1"><vh>@path 40323139</vh>
+<v t="leo.20151029150735.1" a="E"><vh>@path 40323139</vh>
 <v t="leo.20151029150735.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151029150735.3"><vh>@edit 40323139_cp_w1_p.html</vh></v>
 <v t="leo.20151029150735.4" a="E"><vh>@path pelican</vh>
@@ -282,93 +240,6 @@
 <t tx="123.20151029141051.5"></t>
 <t tx="123.20151029141051.7"></t>
 <t tx="123.20151029141051.8"></t>
-<<<<<<< HEAD
-<t tx="123.20151029151426.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20151029151426.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="123.20151029151426.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="123.20151029151426.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="123.20151029151426.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="123.20151029151426.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20151029151426.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20151029151426.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one" data-background="#001100"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-&lt;/section&gt;
-</t>
-<t tx="123.20151029151426.8">&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-    &lt;/section&gt;
-    &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
-    &lt;/section&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="123.20151029151426.9">&lt;section&gt;
-    &lt;h1&gt;成績自評分數＆心得&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-=======
-<t tx="123.20151029151348.1"></t>
-<t tx="123.20151029151348.2"></t>
-<t tx="123.20151029151348.4"></t>
-<t tx="123.20151029151348.5"></t>
-<t tx="123.20151029151348.7"></t>
-<t tx="123.20151029151348.8"></t>
->>>>>>> fbe466a14988525555f1b61f0c0d95e940ac9bd5
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -609,29 +480,17 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151029145359.5"></t>
 <t tx="leo.20151029145359.7"></t>
 <t tx="leo.20151029145359.8"></t>
-<<<<<<< HEAD
-<t tx="leo.20151029150626.1"></t>
-<t tx="leo.20151029150626.2"></t>
-<t tx="leo.20151029150626.4"></t>
-<t tx="leo.20151029150626.5"></t>
-<t tx="leo.20151029150626.7"></t>
-<t tx="leo.20151029150626.8"></t>
-=======
 <t tx="leo.20151029150115.1"></t>
 <t tx="leo.20151029150115.2"></t>
 <t tx="leo.20151029150115.4"></t>
 <t tx="leo.20151029150115.5"></t>
 <t tx="leo.20151029150115.7"></t>
 <t tx="leo.20151029150115.8"></t>
-<<<<<<< HEAD
->>>>>>> 7270008020218abc43efaf0e5249cef3a5b8ca66
-=======
 <t tx="leo.20151029150735.1"></t>
 <t tx="leo.20151029150735.2"></t>
 <t tx="leo.20151029150735.4"></t>
 <t tx="leo.20151029150735.5"></t>
 <t tx="leo.20151029150735.7"></t>
 <t tx="leo.20151029150735.8"></t>
->>>>>>> ffd030f455e942fcfd2941e02fac83131699811e
 </tnodes>
 </leo_file>
