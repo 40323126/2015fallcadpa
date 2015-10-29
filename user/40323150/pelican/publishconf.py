@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = '9999'
-SITENAME = '2015FALL 9999 CADPA 作業'
+AUTHOR = '40323150'
+SITENAME = '2015-電腦輔助設計實習課程'
 SITEURL = ''
 
 PATH = 'content'
@@ -25,13 +25,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'))
+LINKS = (('KMOL Course Blog (虎尾科大機械設計工程系)', 'http://wordpress-2015course.rhcloud.com/'),
+         ('Python', 'http://python.org/'),
+         ('My wordpress', 'https://wp40323150-889988.rhcloud.com/'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
-          
+SOCIAL = (('about.me', 'http://about.me/40323150'),
+          ('linkedin', 'http://tw.linkedin.com/pub/zhan-cheng-hong/b3/8a1/15/'),)
+
 DEFAULT_PAGINATION = 10
 
 SITEURL = 'http://coursemdetw.github.io/reveal'
@@ -49,9 +50,7 @@ DISQUS_SITENAME = "2015fall"
 #GOOGLE_ANALYTICS = ""
 
 # 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../../../plugin']
+PLUGIN_PATHS = ['./../plugin']
 PLUGINS = ['liquid_tags.notebook']
 # 目錄設定相對於 reveal 下的 content 目錄
 NOTEBOOK_DIR = 'notebook'
-
-
