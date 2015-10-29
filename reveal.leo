@@ -66,14 +66,29 @@
 </v>
 </v>
 </v>
-<v t="123.20151022140839.1"><vh>@path 9999</vh>
+<v t="123.20151022140839.1"><vh>@path 40323150</vh>
 <v t="123.20151022140839.2"><vh>以下為投影片 ------------</vh></v>
-<v t="123.20151022140839.3"><vh>@edit 9999_cp_w1_p.html</vh></v>
+<v t="123.20151029154737.1"><vh>@clean simplest.html</vh>
+<v t="123.20151029154737.2"><vh>檔案說明</vh></v>
+<v t="123.20151029154737.3"><vh>html 標註</vh>
+<v t="123.20151029154737.4"><vh>body 標註</vh>
+<v t="123.20151029154737.5"><vh>div class="reveal"</vh>
+<v t="123.20151029154737.6"><vh>div class="slides"</vh>
+<v t="123.20151029154737.7"><vh>111</vh></v>
+<v t="123.20151029154737.8"><vh>222</vh></v>
+<v t="123.20151029154737.9"><vh>333</vh></v>
+</v>
+</v>
+<v t="123.20151029154737.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="123.20151022140839.4" a="E"><vh>@path pelican</vh>
 <v t="123.20151022140839.5"><vh>以下為設定檔 ------------</vh></v>
-<v t="123.20151022140839.6"><vh>@edit publishconf.py</vh></v>
+<v t="123.20151029154755.1"><vh>@edit publishconf.py</vh></v>
 <v t="123.20151022140839.7" a="E"><vh>@path content</vh>
 <v t="123.20151022140839.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<<<<<<< HEAD
 <v t="123.20151022140839.9"><vh>@edit 9999_cp_w1.md</vh></v>
 </v>
 </v>
@@ -87,6 +102,10 @@
 <v t="123.20151029151348.7" a="E"><vh>@path content</vh>
 <v t="123.20151029151348.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="123.20151029151348.9"><vh>@edit 40323154_cp_w1.md</vh></v>
+=======
+<v t="123.20151029154939.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="123.20151029154804.1"><vh>@edit 2015cphww1.md</vh></v>
+>>>>>>> 8083dbc7019579c4c2a26f30f27bcc969d626561
 </v>
 </v>
 </v>
@@ -230,6 +249,58 @@
 </v>
 </v>
 </v>
+<v t="leo.20151029154052.1"><vh>@path 40323132</vh>
+<v t="leo.20151029154052.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151029154052.3"><vh>@edit 40323132_cp_w1_p.html</vh></v>
+<v t="leo.20151029154052.4"><vh>@path pelican</vh>
+<v t="leo.20151029154052.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151029154052.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151029154052.7" a="E"><vh>@path content</vh>
+<v t="leo.20151029154052.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151029154052.9"><vh>@edit 40323132_cp_w1.md</vh></v>
+<v t="leo.20151029154052.10"><vh>@edit 40323132_cp_w2.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151029154544.1"><vh>@path 40323144</vh>
+<v t="leo.20151029154544.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151029154544.3"><vh>@edit 40323144_cp_w1_p.html</vh></v>
+<v t="leo.20151029154544.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151029154544.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151029154544.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151029154544.7" a="E"><vh>@path content</vh>
+<v t="leo.20151029154544.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151029154544.9"><vh>@edit 40323144_cp_w1.md</vh></v>
+<v t="leo.20151029154544.10"><vh>@edit 40323144_cp_w2.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151029154913.1"><vh>@path 40323149</vh>
+<v t="leo.20151029154913.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151029154913.3"><vh>@edit 40323149_cp_w1_p.html</vh></v>
+<v t="leo.20151029154913.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151029154913.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151029154913.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151029154913.7" a="E"><vh>@path content</vh>
+<v t="leo.20151029154913.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151029154913.9"><vh>@edit 40323149_cp_w1.md</vh></v>
+<v t="leo.20151029154913.10"><vh>@edit 40323149_cp_w2.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151029160134.1" a="E"><vh>@path 40323154</vh>
+<v t="leo.20151029160134.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151029160134.3"><vh>@edit 40323154_cp_w1_p.html</vh></v>
+<v t="leo.20151029160134.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151029160134.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151029160134.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151029160134.7" a="E"><vh>@path content</vh>
+<v t="leo.20151029160134.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151029160134.9"><vh>@edit 40323154_cp_w1.md</vh></v>
+<v t="leo.20151029160134.10"><vh>@edit 40323154_cp_w2.md</vh></v>
+</v>
+</v>
+</v>
 </v>
 </vnodes>
 <tnodes>
@@ -252,12 +323,84 @@
 <t tx="123.20151029141051.5"></t>
 <t tx="123.20151029141051.7"></t>
 <t tx="123.20151029141051.8"></t>
-<t tx="123.20151029151348.1"></t>
-<t tx="123.20151029151348.2"></t>
-<t tx="123.20151029151348.4"></t>
-<t tx="123.20151029151348.5"></t>
-<t tx="123.20151029151348.7"></t>
-<t tx="123.20151029151348.8"></t>
+<t tx="123.20151029154737.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20151029154737.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="123.20151029154737.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="123.20151029154737.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="123.20151029154737.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="123.20151029154737.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="123.20151029154737.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="123.20151029154737.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section id="hw-task-one" data-background="#001100"&gt;
+    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
+&lt;/section&gt;
+</t>
+<t tx="123.20151029154737.8">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#dddddd"&gt;
+    &lt;h1 data-color="#001100"&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20151029154737.9">&lt;section&gt;
+    &lt;h1&gt;成績自評分數＆心得&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -510,5 +653,32 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151029150735.5"></t>
 <t tx="leo.20151029150735.7"></t>
 <t tx="leo.20151029150735.8"></t>
+<<<<<<< HEAD
+=======
+<t tx="leo.20151029154052.1"></t>
+<t tx="leo.20151029154052.2"></t>
+<t tx="leo.20151029154052.4"></t>
+<t tx="leo.20151029154052.5"></t>
+<t tx="leo.20151029154052.7"></t>
+<t tx="leo.20151029154052.8"></t>
+<t tx="leo.20151029154544.1"></t>
+<t tx="leo.20151029154544.2"></t>
+<t tx="leo.20151029154544.4"></t>
+<t tx="leo.20151029154544.5"></t>
+<t tx="leo.20151029154544.7"></t>
+<t tx="leo.20151029154544.8"></t>
+<t tx="leo.20151029154913.1"></t>
+<t tx="leo.20151029154913.2"></t>
+<t tx="leo.20151029154913.4"></t>
+<t tx="leo.20151029154913.5"></t>
+<t tx="leo.20151029154913.7"></t>
+<t tx="leo.20151029154913.8"></t>
+<t tx="leo.20151029160134.1"></t>
+<t tx="leo.20151029160134.2"></t>
+<t tx="leo.20151029160134.4"></t>
+<t tx="leo.20151029160134.5"></t>
+<t tx="leo.20151029160134.7"></t>
+<t tx="leo.20151029160134.8"></t>
+>>>>>>> 8083dbc7019579c4c2a26f30f27bcc969d626561
 </tnodes>
 </leo_file>
