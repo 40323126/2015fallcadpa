@@ -11,7 +11,13 @@ AUTHOR = 'KMOL'
 SITENAME = '2015FALL 作業主頁'
 SITEURL = ''
 
+# Path to content directory to be processed by Pelican.
 PATH = 'content'
+
+# Directory to look at for pages, relative to PATH.
+# PAGE_DIR ('pages')
+# A list of directories to exclude when looking for pages.
+# PAGE_EXCLUDES (())	
 
 TIMEZONE = 'Asia/Taipei'
 

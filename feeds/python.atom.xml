@@ -1,5 +1,196 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 作業主頁</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-19T21:41:00+08:00</updated><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 作業主頁</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-30T00:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習甲班 W7 示範</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-30T00:00:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-10-30:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;CADP 二甲連結:&lt;/p&gt;
+&lt;p&gt;&lt;a href='user/40223116/'&gt;40223116&lt;/a&gt;
+&lt;a href='user/40223252/'&gt;40223252&lt;/a&gt;
+&lt;a href='user/40323101/'&gt;40323101&lt;/a&gt;
+&lt;a href='user/40323102/'&gt;40323102&lt;/a&gt;
+&lt;a href='user/40323103/'&gt;40323103&lt;/a&gt;
+&lt;a href='user/40323105/'&gt;40323105&lt;/a&gt;
+&lt;a href='user/40323106/'&gt;40323106&lt;/a&gt;
+&lt;a href='user/40323107/'&gt;40323107&lt;/a&gt;
+&lt;a href='user/40323108/'&gt;40323108&lt;/a&gt;
+&lt;a href='user/40323109/'&gt;40323109&lt;/a&gt;
+&lt;a href='user/40323110/'&gt;40323110&lt;/a&gt;
+&lt;a href='user/40323111/'&gt;40323111&lt;/a&gt;
+&lt;a href='user/40323112/'&gt;40323112&lt;/a&gt;
+&lt;a href='user/40323113/'&gt;40323113&lt;/a&gt;
+&lt;a href='user/40323115/'&gt;40323115&lt;/a&gt;
+&lt;a href='user/40323116/'&gt;40323116&lt;/a&gt;
+&lt;a href='user/40323117/'&gt;40323117&lt;/a&gt;
+&lt;a href='user/40323118/'&gt;40323118&lt;/a&gt;
+&lt;a href='user/40323119/'&gt;40323119&lt;/a&gt;
+&lt;a href='user/40323120/'&gt;40323120&lt;/a&gt;
+&lt;a href='user/40323121/'&gt;40323121&lt;/a&gt;
+&lt;a href='user/40323122/'&gt;40323122&lt;/a&gt;
+&lt;a href='user/40323123/'&gt;40323123&lt;/a&gt;
+&lt;a href='user/40323124/'&gt;40323124&lt;/a&gt;
+&lt;a href='user/40323125/'&gt;40323125&lt;/a&gt;
+&lt;a href='user/40323126/'&gt;40323126&lt;/a&gt;
+&lt;a href='user/40323127/'&gt;40323127&lt;/a&gt;
+&lt;a href='user/40323128/'&gt;40323128&lt;/a&gt;
+&lt;a href='user/40323129/'&gt;40323129&lt;/a&gt;
+&lt;a href='user/40323130/'&gt;40323130&lt;/a&gt;
+&lt;a href='user/40323131/'&gt;40323131&lt;/a&gt;
+&lt;a href='user/40323132/'&gt;40323132&lt;/a&gt;
+&lt;a href='user/40323133/'&gt;40323133&lt;/a&gt;
+&lt;a href='user/40323135/'&gt;40323135&lt;/a&gt;
+&lt;a href='user/40323136/'&gt;40323136&lt;/a&gt;
+&lt;a href='user/40323137/'&gt;40323137&lt;/a&gt;
+&lt;a href='user/40323138/'&gt;40323138&lt;/a&gt;
+&lt;a href='user/40323139/'&gt;40323139&lt;/a&gt;
+&lt;a href='user/40323140/'&gt;40323140&lt;/a&gt;
+&lt;a href='user/40323141/'&gt;40323141&lt;/a&gt;
+&lt;a href='user/40323142/'&gt;40323142&lt;/a&gt;
+&lt;a href='user/40323143/'&gt;40323143&lt;/a&gt;
+&lt;a href='user/40323144/'&gt;40323144&lt;/a&gt;
+&lt;a href='user/40323145/'&gt;40323145&lt;/a&gt;
+&lt;a href='user/40323146/'&gt;40323146&lt;/a&gt;
+&lt;a href='user/40323147/'&gt;40323147&lt;/a&gt;
+&lt;a href='user/40323148/'&gt;40323148&lt;/a&gt;
+&lt;a href='user/40323149/'&gt;40323149&lt;/a&gt;
+&lt;a href='user/40323150/'&gt;40323150&lt;/a&gt;
+&lt;a href='user/40323151/'&gt;40323151&lt;/a&gt;
+&lt;a href='user/40323152/'&gt;40323152&lt;/a&gt;
+&lt;a href='user/40323153/'&gt;40323153&lt;/a&gt;
+&lt;a href='user/40323154/'&gt;40323154&lt;/a&gt;
+&lt;a href='user/40323155/'&gt;40323155&lt;/a&gt;
+&lt;a href='user/40323156/'&gt;40323156&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在節點內文中的程式:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt; 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nd"&gt;@language&lt;/span&gt; &lt;span class="n"&gt;python&lt;/span&gt;
+&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;span class="sd"&gt;寫在節點內文, 然後按下 Ctrl+b 可以執行&lt;/span&gt;
+&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;lines&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;open&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;cadpa.txt&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;r&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;encoding&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;read&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;splitlines&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;lines&lt;/span&gt;&lt;span class="p"&gt;)):&lt;/span&gt;
+    &lt;span class="n"&gt;g&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;es&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;a href=&amp;#39;user/&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;lines&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/&amp;#39;&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;lines&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;/a&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;span class="sd"&gt;cadpa.txt 檔案內容&lt;/span&gt;
+
+&lt;span class="sd"&gt;40223116&lt;/span&gt;
+&lt;span class="sd"&gt;40223252&lt;/span&gt;
+&lt;span class="sd"&gt;40323101&lt;/span&gt;
+&lt;span class="sd"&gt;40323102&lt;/span&gt;
+&lt;span class="sd"&gt;40323103&lt;/span&gt;
+&lt;span class="sd"&gt;40323105&lt;/span&gt;
+&lt;span class="sd"&gt;40323106&lt;/span&gt;
+&lt;span class="sd"&gt;40323107&lt;/span&gt;
+&lt;span class="sd"&gt;40323108&lt;/span&gt;
+&lt;span class="sd"&gt;40323109&lt;/span&gt;
+&lt;span class="sd"&gt;40323110&lt;/span&gt;
+&lt;span class="sd"&gt;40323111&lt;/span&gt;
+&lt;span class="sd"&gt;40323112&lt;/span&gt;
+&lt;span class="sd"&gt;40323113&lt;/span&gt;
+&lt;span class="sd"&gt;40323115&lt;/span&gt;
+&lt;span class="sd"&gt;40323116&lt;/span&gt;
+&lt;span class="sd"&gt;40323117&lt;/span&gt;
+&lt;span class="sd"&gt;40323118&lt;/span&gt;
+&lt;span class="sd"&gt;40323119&lt;/span&gt;
+&lt;span class="sd"&gt;40323120&lt;/span&gt;
+&lt;span class="sd"&gt;40323121&lt;/span&gt;
+&lt;span class="sd"&gt;40323122&lt;/span&gt;
+&lt;span class="sd"&gt;40323123&lt;/span&gt;
+&lt;span class="sd"&gt;40323124&lt;/span&gt;
+&lt;span class="sd"&gt;40323125&lt;/span&gt;
+&lt;span class="sd"&gt;40323126&lt;/span&gt;
+&lt;span class="sd"&gt;40323127&lt;/span&gt;
+&lt;span class="sd"&gt;40323128&lt;/span&gt;
+&lt;span class="sd"&gt;40323129&lt;/span&gt;
+&lt;span class="sd"&gt;40323130&lt;/span&gt;
+&lt;span class="sd"&gt;40323131&lt;/span&gt;
+&lt;span class="sd"&gt;40323132&lt;/span&gt;
+&lt;span class="sd"&gt;40323133&lt;/span&gt;
+&lt;span class="sd"&gt;40323135&lt;/span&gt;
+&lt;span class="sd"&gt;40323136&lt;/span&gt;
+&lt;span class="sd"&gt;40323137&lt;/span&gt;
+&lt;span class="sd"&gt;40323138&lt;/span&gt;
+&lt;span class="sd"&gt;40323139&lt;/span&gt;
+&lt;span class="sd"&gt;40323140&lt;/span&gt;
+&lt;span class="sd"&gt;40323141&lt;/span&gt;
+&lt;span class="sd"&gt;40323142&lt;/span&gt;
+&lt;span class="sd"&gt;40323143&lt;/span&gt;
+&lt;span class="sd"&gt;40323144&lt;/span&gt;
+&lt;span class="sd"&gt;40323145&lt;/span&gt;
+&lt;span class="sd"&gt;40323146&lt;/span&gt;
+&lt;span class="sd"&gt;40323147&lt;/span&gt;
+&lt;span class="sd"&gt;40323148&lt;/span&gt;
+&lt;span class="sd"&gt;40323149&lt;/span&gt;
+&lt;span class="sd"&gt;40323150&lt;/span&gt;
+&lt;span class="sd"&gt;40323151&lt;/span&gt;
+&lt;span class="sd"&gt;40323152&lt;/span&gt;
+&lt;span class="sd"&gt;40323153&lt;/span&gt;
+&lt;span class="sd"&gt;40323154&lt;/span&gt;
+&lt;span class="sd"&gt;40323155&lt;/span&gt;
+&lt;span class="sd"&gt;40323156&lt;/span&gt;
+&lt;span class="sd"&gt;&amp;#39;&amp;#39;&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
