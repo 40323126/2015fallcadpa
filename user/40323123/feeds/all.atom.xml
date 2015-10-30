@@ -1,5 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-22T14:20:00+08:00</updated><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-15T14:20:00+08:00</updated><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
+&lt;p&gt;atom2.0  為市面上用open source 軟硬件改出來的機台。
+組裝地點:8F kmol 實驗室&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/0f0lHHuIxVKm8dsF" width="500" alt="零件打開照片"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/144153346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144153346"&gt;atom assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+    Ubuntu 是三大系統中其中的一環，和windows mac一樣，都是許多人使用的作業系統，裝了desktop，雖然可以用滑鼠，但是還是建議大家，背一點指令，會對未來大家使用比較方便且實用，因為不像windows有使用者,權限，雖然可以設定但不建議大家使用，因為權限跑掉，最壞的情況有可能要從灌電腦。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h1&gt;Ubuntu&lt;/h1&gt;
+&lt;p&gt;一套開源的作業系統，被大家公認為安全性極高的作業系統，可惜的是許多軟體不支援。
+因為許多的server是基於Unix系統，在開發上也比較快
+Nginx&lt;/p&gt;
+&lt;h1&gt;Nginx install&lt;/h1&gt;
+&lt;p&gt;在hp的server中安裝Ubuntu server 的作業系統&lt;/p&gt;
+&lt;p&gt;*做法:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;#先照著安裝步驟，安裝作業系統，完成後設定網路系統
+
+cd /etc/network
+
+#利用VI模式輸入網路名稱
+sudo vi interface
+
+
+#更改完成後，從起網路功能
+sudo service network-maneger restart
+
+#update
+sudo apt-get update
+
+#安裝desktop
+sudo apt-get install ubuntu-desktop
+
+#跑完後 從開機
+sudo reboot
+
+#就有自己的桌面拉
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/nx0gH9D8WaDmJBtt" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+    Ubuntu 是三大系統中其中的一環，和windows mac一樣，都是許多人使用的作業系統，裝了desktop，雖然可以用滑鼠，但是還是建議大家，背一點指令，會對未來大家使用比較方便且實用，因為不像windows有使用者,權限，雖然可以設定但不建議大家使用，因為權限跑掉，最壞的情況有可能要從灌電腦。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;h1&gt;Solvespace&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Solvespace 一個小型的3D繪圖軟體
+&lt;/em&gt;Solvespace 一個快速上手的3D軟體
+*Solvespace 可以將畫出來的圖轉成javascrip&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  作業
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;============&lt;/p&gt;
+&lt;p&gt;建立kmol實驗室的腳踏車，3D圖檔&lt;/p&gt;
+&lt;p&gt;*做法:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;git config --global user.name &amp;quot;name&amp;quot;
+
+git config --global user.email &amp;quot;email&amp;quot;
+
+git clone  協同的倉儲
+
+
+git checkout gh-pages 
+#切換分支到gh-pages *2
+
+#將自己這次畫出的圖檔放到自己組別的協同中，和別人一起共享
+#最後上傳到倉儲中
+
+git add -A
+
+git commit -m&amp;quot;123&amp;quot;
+
+git push origin gh-pages
+
+#打自己帳號密碼
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/rGRWsyJDktPVSxRs" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+    Solvespace和一般我們學習的大型3D繪圖軟體截然不同，他沒有很直覺化的設計，也許是我們使用別套軟體造成習慣了，因為說明是英文，所以對我們也是一大挑戰，還是要去看懂英文，才會學習得更快，資料也比較新。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;h1&gt;Git 協同倉儲&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;git 是一種指令，用在做協同倉儲
+&lt;/em&gt;git 可以自己建立伺服器做管理或者是使用網路上github開源空間
+*git 指令可打 --help 去查&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  作業
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;============&lt;/p&gt;
+&lt;p&gt;在github中，建立自己的github pages   並且可以顯示在(user.github.io/倉儲)，利用github可以有效率的建立具有版次管理的程式，知道每次更改的系統，或者在程式發生錯誤時可以交叉比對上次錯誤的地方，借此得到問題發生的地方，進而修改。&lt;/p&gt;
+&lt;p&gt;*做法:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;git config --global user.name &amp;quot;name&amp;quot;
+
+git config --global user.email &amp;quot;email&amp;quot;
+
+git clone  自己的倉儲
+
+git branch gh-pages  
+#建立自己分支
+
+git checkout gh-pages 
+#切換分支到gh-pages
+
+#將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+#最後上傳到倉儲中
+
+git add -A
+
+git commit -m&amp;quot;123&amp;quot;
+
+git push origin gh-pages
+
+#打自己帳號密碼
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/zOjUEwod6Euvv8aK" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+    下學期一開始就來個震撼彈，一個完全新的東西，但是還是在繞著github中，以後交作業也比較輕鬆，不需要再從新來一次了，可以直接在網路上看到我們所作的成果。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-15:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40323123_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -111,4 +229,4 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w2.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
