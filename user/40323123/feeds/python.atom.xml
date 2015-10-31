@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-22T14:20:00+08:00</updated><entry><title>2015 協同產品設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;h1&gt;Delta 3d printer&lt;/h1&gt;
 &lt;p&gt;零件圖檔&lt;/p&gt;
-&lt;p&gt;目前正在將solid work 板以及設定&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
+&lt;p&gt;目前正在將solid work 板以及設定&lt;/p&gt;
+&lt;p&gt;運動模型&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/144231952" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/144231952"&gt;delta 3d printer&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
 &lt;p&gt;atom2.0  為市面上用open source 軟硬件改出來的機台。
 組裝地點:8F kmol 實驗室&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/0f0lHHuIxVKm8dsF" width="500" alt="零件打開照片"&gt;&lt;/img&gt;&lt;/p&gt;
