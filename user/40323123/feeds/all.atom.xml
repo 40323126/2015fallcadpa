@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-15T14:20:00+08:00</updated><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-22T14:20:00+08:00</updated><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;h1&gt;Delta 3d printer&lt;/h1&gt;
+&lt;p&gt;零件圖檔&lt;/p&gt;
+&lt;p&gt;目前正在將solid work 板以及設定&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
 &lt;p&gt;atom2.0  為市面上用open source 軟硬件改出來的機台。
 組裝地點:8F kmol 實驗室&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/0f0lHHuIxVKm8dsF" width="500" alt="零件打開照片"&gt;&lt;/img&gt;&lt;/p&gt;
@@ -7,7 +9,8 @@
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144153346"&gt;atom assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;心得:
-    Ubuntu 是三大系統中其中的一環，和windows mac一樣，都是許多人使用的作業系統，裝了desktop，雖然可以用滑鼠，但是還是建議大家，背一點指令，會對未來大家使用比較方便且實用，因為不像windows有使用者,權限，雖然可以設定但不建議大家使用，因為權限跑掉，最壞的情況有可能要從灌電腦。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h1&gt;Ubuntu&lt;/h1&gt;
+    心得:
+    一般實習課程，除了有理論課程，當然實做也是必要的，'當我們在組機台時，發現到工具有所不足，像是一般的套筒板手，或者是悍錫都有點少，而在製作一些零組件時，需要的膠水或者是螺絲，也因為這樣，就算有了Arduino但是周邊可以搭配的東西，卻很少，可能材料都要找對面拿，相對比較麻煩。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h1&gt;Ubuntu&lt;/h1&gt;
 &lt;p&gt;一套開源的作業系統，被大家公認為安全性極高的作業系統，可惜的是許多軟體不支援。
 因為許多的server是基於Unix系統，在開發上也比較快
 Nginx&lt;/p&gt;
