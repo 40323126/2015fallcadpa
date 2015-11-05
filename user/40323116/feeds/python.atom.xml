@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323116 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-19T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 八周投影片</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323116 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-19T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 八周投影片</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="40323116_cp_w1_p.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 2</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;在github中，建立自己的github pages   並且可以顯示在(user.github.io/倉儲)
+&lt;p&gt;&lt;a href="40323116_cp_w1_p.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 2</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;在github中，建立自己的github pages   並且可以顯示在(user.github.io/倉儲)
 做法:
 git clone 下載遠端的資料庫
 clone完 在用cd 進入資料庫
@@ -15,16 +15,100 @@ git checkout gh-pages切換分支
 git add -A
 git commit -m"40323116"
 git push origin gh-pages&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/sfTQrVq6bcQq0eF9" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 3</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 4</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 5</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 6</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 7</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 8</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="40323116_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;&lt;img src="https://copy.com/sfTQrVq6bcQq0eF9" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+這次真的好難啊  老師教得很快  新手入門只能慢慢做  照著指令慢慢打 不過這樣上傳作業比較方便&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 3</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
+&lt;p&gt;SolveSpace是一個開源的2D和3D CAD（計算機輔助設計）方案。它是一個基於約束的參數化建模與簡單的機械模擬功能。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  作業
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;============&lt;/p&gt;
+&lt;p&gt;練習 SolveSpace&lt;/p&gt;
+&lt;p&gt;git clone 下載遠端的資料庫
+clone完 在用cd 進入資料庫
+利用git branch gh-pages建立分支
+git checkout gh-pages切換分支
+將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+在後再上傳
+上傳指令
+git add -A
+git commit -m"40323116"
+git push origin gh-pages&lt;/p&gt;
+&lt;p&gt;~~~&lt;/p&gt;
+&lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
+&lt;p&gt;&lt;img src="&lt;img src=https://copy.com/Mt1u8dKyROoJyJNZ&gt;" width="500" alt="完成後的照片"&amp;gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;心得:
+    Solvespace和autocad看似有點相像，不過是全英文的，有點難用。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 4</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h1&gt;作業&lt;/h1&gt;
+&lt;p&gt;今天持續上禮拜的作業
+練習 SolveSpace&lt;/p&gt;
+&lt;p&gt;git clone 下載遠端的資料庫
+clone完 在用cd 進入資料庫
+利用git branch gh-pages建立分支
+git checkout gh-pages切換分支
+將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+在後再上傳
+上傳指令
+git add -A
+git commit -m"40323116"
+git push origin gh-pages&lt;/p&gt;
+&lt;p&gt;心得:今天持續補完之前的進度，並發現之前的錯誤做修正&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 5</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;今天持續上禮拜的作業
+練習 SolveSpace&lt;/p&gt;
+&lt;p&gt;git clone 下載遠端的資料庫
+clone完 在用cd 進入資料庫
+利用git branch gh-pages建立分支
+git checkout gh-pages切換分支
+將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+在後再上傳
+上傳指令
+git add -A
+git commit -m"40323116"
+git push origin gh-pages&lt;/p&gt;
+&lt;p&gt;心得:今天持續補完之前的進度，課程好像也沒甚麼新的進度&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 6</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;二甲 CADP 全班協同作業:   &lt;br /&gt;
+        http://2015fallhw.github.io/2015fallcadpa/
+        在全班協同建立自己的資料庫
+git clone 下載遠端的資料庫
+clone完 在用cd 進入資料庫
+利用git branch gh-pages建立分支
+git checkout gh-pages切換分支
+將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+在後再上傳
+上傳指令
+git add -A
+git commit -m"40323116"
+git push origin gh-pages
+&lt;img src="https://copy.com/6iKtd7EXtXMC4Ctd" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;心得:今天老師讓我們加入全班的倉儲系統並把之前做的東西上 
+        傳上去，改東西有點麻煩，我還做錯東西整個投影片被砍掉&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 7</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;二甲 CADP 全班協同作業:   &lt;br /&gt;
+        http://2015fallhw.github.io/2015fallcadpa/
+        在全班協同建立自己的資料庫
+git clone 下載遠端的資料庫
+clone完 在用cd 進入資料庫
+利用git branch gh-pages建立分支
+git checkout gh-pages切換分支
+將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+在後再上傳
+上傳指令
+git add -A
+git commit -m"40323116"
+git push origin gh-pages&lt;/p&gt;
+&lt;p&gt;將自己的資料庫建立每周的心得及上課內容&lt;/p&gt;
+&lt;p&gt;心得:持續補完7周的投影片及leo上的內容&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 8</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;p&gt;二甲 CADP 全班協同作業:   &lt;br /&gt;
+        http://2015fallhw.github.io/2015fallcadpa/
+        在全班協同建立自己的資料庫
+git clone 下載遠端的資料庫
+clone完 在用cd 進入資料庫
+利用git branch gh-pages建立分支
+git checkout gh-pages切換分支
+將老師的reveal.js  整包複製到分支已經切換到的倉儲中
+在後再上傳
+上傳指令
+git add -A
+git commit -m"40323116"
+git push origin gh-pages&lt;/p&gt;
+&lt;p&gt;上述各班從協同作業區是否可以連結至個人的作業頁面? (50%)
+個人的協同作業頁面是否可以連結至個人的作業倉儲 github pages? (60%)
+每週作業是否有對應的操作練習影片(必須有語音說明), 可以佐證個人自評分數? (65%)
+每週作業中是否有 reveal.js 投影片, 簡述各週筆記、操作過程與心得? (75%)
+各作業之標題是否正確, 關鍵字是否恰當, 內容是否充實? (85%)&lt;/p&gt;
+&lt;p&gt;心得:這是期中考前最後一周了，趕快補完所有的作業並照著評分方式去做&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
