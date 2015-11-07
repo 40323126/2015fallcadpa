@@ -56,7 +56,7 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="123.20151029141051.1" a="E"><vh>@path 40323115</vh>
+<v t="123.20151029141051.1"><vh>@path 40323115</vh>
 <v t="123.20151029141051.2"><vh>以下為投影片 ------------</vh></v>
 <v t="123.20151105202522.1"><vh>@edit 40323115_cp_w1_p.html</vh></v>
 <v t="123.20151029141051.4"><vh>@path pelican</vh>
@@ -363,7 +363,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029150115.1" a="E"><vh>@path 40323141</vh>
+<v t="leo.20151029150115.1"><vh>@path 40323141</vh>
 <v t="leo.20151029150115.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107154825.1"><vh>@edit 40323141_cp_w1_p.html</vh></v>
 <v t="leo.20151107155327.1"><vh>@edit 40323141_cp_w2_p.html</vh></v>
@@ -424,13 +424,33 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029154913.1"><vh>@path 40323149</vh>
+<v t="leo.20151029154913.1" a="E"><vh>@path 40323149</vh>
 <v t="leo.20151029154913.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151029154913.3"><vh>@edit 40323149_cp_w1_p.html</vh></v>
-<v t="leo.20151029154913.4"><vh>@path pelican</vh>
+<v t="leo.20151107173641.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151107173641.2"><vh>檔案說明</vh></v>
+<v t="leo.20151107173641.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151107173641.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151107173641.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151107173641.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151107173641.7"><vh>Front page</vh></v>
+<v t="leo.20151107173641.8"><vh>W1</vh></v>
+<v t="leo.20151107173641.9"><vh>W2</vh></v>
+<v t="leo.20151107173641.10"><vh>W3</vh></v>
+<v t="leo.20151107173641.11"><vh>W4</vh></v>
+<v t="leo.20151107173641.12"><vh>W5</vh></v>
+<v t="leo.20151107173641.13"><vh>W6</vh></v>
+<v t="leo.20151107173641.14"><vh>W7</vh></v>
+<v t="leo.20151107173641.15"><vh>W8</vh></v>
+</v>
+</v>
+<v t="leo.20151107173641.16"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151029154913.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20151029154913.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151029154913.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151029154913.7"><vh>@path content</vh>
+<v t="leo.20151029154913.7" a="E"><vh>@path content</vh>
 <v t="leo.20151029154913.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151029154913.9"><vh>@edit 40323149_cp_w1.md</vh></v>
 <v t="leo.20151029154913.10"><vh>@edit 40323149_cp_w2.md</vh></v>
@@ -998,5 +1018,188 @@ cadpa.txt 檔案內容
 <t tx="leo.20151107151002.5"></t>
 <t tx="leo.20151107151002.7"></t>
 <t tx="leo.20151107151002.8"></t>
+<t tx="leo.20151107173641.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151107173641.10">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第三週內容&lt;/h1&gt;
+    &lt;p&gt;1.reveal與js pellican網址投影片製作&lt;/p&gt;
+    &lt;p&gt;2.摘要&lt;/p&gt;
+    &lt;p&gt;3.Solvespace操作&lt;/p&gt;
+    &lt;p&gt;4.將隨身leo網址，安裝到近端並解壓縮&lt;/p&gt;
+    &lt;p&gt;5.把fix.bat打開&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:學到了Solvespace這繪圖軟體，雖說全英文比較不習慣，各種操作還有待摸索，但同時多了一個新技能!!&lt;/p&gt;
+    &lt;p&gt;自評:80分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151107173641.11">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第四週內容&lt;/h1&gt;
+    &lt;p&gt;1.Creo Parametric基本操作&lt;/p&gt;
+    &lt;p&gt;2.Solvespace的繪圖&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:這禮拜家裡因有急事請假，所以這堂課沒上到，回來後請教同學這週課程，Creo是第一次碰，所以還要多多練習，而Solvespace有比上次更上手&lt;/p&gt;
+    &lt;p&gt;自評:70分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151107173641.12">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第五週內容&lt;/h1&gt;
+    &lt;p&gt;Pro/Engineer Mechanism: reveal 2.0 更新&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:reveal 2.0更新後，每次都要重新git clone，多花了一些時間，但功能也有些變化&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151107173641.13">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第六週內容&lt;/h1&gt;
+    &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages&lt;/p&gt;
+    &lt;p&gt;2.Solvespace 基本操作&lt;/p&gt;
+    &lt;p&gt;3.Creo Parametric 基本操作&lt;/p&gt;
+    &lt;p&gt;4.Pro/Engineer Mechanism&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:在投影片製作時，打出來的字後請重新檢查，只要有意點錯誤，呈現的投影片就會亂，所以要再三檢查格式是否正確&lt;/p&gt;
+    &lt;p&gt;自評:85分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151107173641.14">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第七週內容&lt;/h1&gt;
+    &lt;p&gt;建置班級協統倉儲的網誌&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:推上去時各種衝突，推個兩、三次才成功也要感謝組員的幫助&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151107173641.15">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第八週內容&lt;/h1&gt;
+    &lt;p&gt;建置班級協統倉儲的網誌&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:這週的內容跟上週差不多，而在倉儲內有些檔案是壞掉的，下載後用leo發現打不開&lt;/p&gt;
+    &lt;p&gt;自評:85分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20151107173641.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151107173641.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151107173641.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151107173641.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151107173641.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151107173641.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151107173641.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;電腦輔助設計與實習&lt;/h1&gt;
+    &lt;p&gt;班級:四設計二甲&lt;/p&gt;	
+         &lt;p&gt; 學號:40323149&lt;/p&gt;	
+         &lt;p&gt; 姓名:楊智堯&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151107173641.8">&lt;section id="hw-task-one"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第一週內容&lt;/h1&gt;
+    &lt;p&gt;1.請上課帶筆記本、耳機、隨身碟&lt;/p&gt;
+    &lt;p&gt;2.git指令&lt;/p&gt;
+    &lt;p&gt;3.建立github倉儲&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;建立Github倉儲&lt;/h2&gt;
+    &lt;p&gt;1.利用github建立投影&lt;/p&gt;
+    &lt;p&gt;2.git clone github倉儲網址-複製倉儲內容&lt;/p&gt;
+    &lt;p&gt;3.cd資料夾名-點入資料夾&lt;/p&gt;
+    &lt;p&gt;4.git branch gh-pages-建立分支&lt;/p&gt;
+   &lt;p&gt; 5.git checkout gh-pages-換分支&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;				
+&lt;p&gt;6. 複製老師github上的revel倉儲&lt;/p&gt;		
+&lt;p&gt;7.複製的內容丟入自己git clone下來的資料夾(除了README.md and .git) &lt;/p&gt;
+&lt;p&gt;8.git add-A更改內容 &lt;/p&gt;
+&lt;p&gt;9.git commit-m"40323149"&lt;/p&gt;
+&lt;p&gt;10.git config--global user.email 確認帳號&lt;/p&gt;
+&lt;p&gt;11.git config--global user.name 確認名字 &lt;/p&gt;
+&lt;p&gt;12.git push original gh-pages 推回原本網站&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:這門課跟一年級時一樣非常的有挑戰，完全沒接觸過東西，但把它吸收進去後，未來有更多的資源能運用&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151107173641.9">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第二週內容&lt;/h1&gt;
+    &lt;p&gt;1.電腦輔助設計與協同產品設計專業練習&lt;/p&gt;
+    &lt;p&gt;2.修正 notebook.py，之後才能順利把檔案push&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:在請教同學後，大部分已成功推出去的同學出現錯誤，一開始還擔心，後來才知道可能是網速問題，但我出現錯誤的原因是信箱沒有認證...&lt;/p&gt;
+    &lt;p&gt;自評:70分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
