@@ -299,10 +299,10 @@
 <v t="leo.20151029145359.1"><vh>@path 40323133</vh>
 <v t="leo.20151029145359.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151029145359.3"><vh>@edit 40323133_cp_w1_p.html</vh></v>
-<v t="leo.20151029145359.4"><vh>@path pelican</vh>
+<v t="leo.20151029145359.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20151029145359.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151029145359.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151029145359.7"><vh>@path content</vh>
+<v t="leo.20151029145359.7" a="E"><vh>@path content</vh>
 <v t="leo.20151029145359.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151029145359.9"><vh>@edit 40323133_cp_w1.md</vh></v>
 <v t="leo.20151029145359.10"><vh>@edit 40323133_cp_w2.md</vh></v>
