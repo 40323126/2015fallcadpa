@@ -1,0 +1,59 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>四設二甲</h1>
+    <p>40323122 林和諺 11/08</p>		
+</section>
+<section id="hw-task-one">
+    <h1>簡單說明</h1>
+    <p>下載Solvespace 2.1 版
+<br>點選直線勾勒大概主體
+<br>給定義共點、垂直、平行、等長...
+<br>導圓角
+<br>按New Group>Extrude伸長填料>左右對稱>Esc
+<br>畫肋>選取兩條直線一點>SHIFT+W>畫一個三角形(不要定義)>重合共點/線
+New Group>Extrude伸長填料>左右對稱>Esc
+<br>鑽孔>選取兩條直線一點>SHIFT+W>畫圓>給尺寸
+>New Group>Extrude伸長除料>左右對稱>Esc>完成。</p>
+</section>		
+<section>
+    <h1>自評及感想</h1>
+    <p>自評分數:75 感想:一開始上課其實不太懂,影片多看幾次，就漸漸上手，雖然遇到大困難,leo一直開不起來，砍掉重練是最好的方法，感謝女子朋友大力支持並教導我，我循序漸進終於有了好結果，希望做下一個作業也能勢如破竹。繪圖的部分可能是與生俱來的能力,簡簡單單，當然還是有人幫助啦。影片的話，害羞內向的我真的有點瓶頸，總之我學到很多。</p>
+    <p><a href="#/hw-task-one">作業任務一</a>
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
