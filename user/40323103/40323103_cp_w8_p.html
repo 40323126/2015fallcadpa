@@ -1,0 +1,67 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>電腦輔助機械與實習</h1>
+    <p>40323103 林意欣 104/11/05</p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>w8 筆記</h1>
+    <p>1.開始進入班級協同倉儲裡改自己的檔案</p>
+    <p>2.解決衝突</p>
+            <p>(1)先將Leo檔打開至SciTE</p>
+            <p>(2)尋找</p>
+            <p>(3)因為有新版本及舊版本,必須要將舊版本的刪掉</p>
+            <p>(4)它會有<x7+>x7把它們通通刪掉</p>
+            <p>(5)他們前面還會有一些等號也要把它刪掉</p>
+            <p>(6)儲存之後再重開一次檔案就可以了</p>
+    
+</section>
+				
+<section>
+    <h1>w8 心得</h1>
+    <p>時間真得過好快啊!!!!馬上就要交期中報告了~~上次的衝突也順利的解決了，雖然花了不少時間.....不過全部完成以後真的超有成就感的啦!!希望之後的功課也能順利完成，雖然還是有很多不太懂，但會努力做筆記的，並配合老師的影片，我相信會簡單很多的。</p>
+    
+</section>
+
+<section id="hw-task-one">
+    <h1>自評分數</h1>
+    <p>1.第八周:77</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
