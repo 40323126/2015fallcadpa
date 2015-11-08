@@ -1,0 +1,58 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>電腦輔助設計與實習</h1>
+    <p>班級:四設計二甲<p>
+    <p>姓名:張哲銘<p>
+    <p>學號:40323132</p>	
+</section>	
+
+<section>
+    <h1>第三週上課內容</h1>
+    <p>1.reveal.與 js pelican 網誌投影片製作, 把內容送到 Github pages </p>
+</p>2.<a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029">摘要</a></p>
+</p>3.Solvespace 操作: <a href="http://solvespace.com/tutorial.pl">(簡介)</a></p>
+<p>4.將隨身leo 網址安裝在近端並解完壓縮，再把fix.bat打開。:<a href="http://140.130.17.17/public/fix.zip">(網址)</a><p>
+</section>
+
+<section>
+    <h1>心得和自評</h1>
+    <p>心得:今天又學到了新的軟體solvespace，比較不適應的是裡面全都是英文，挺不習慣的，常常畫錯不然就是找不到各種的限制條件，看來回去要好好研究一番了。</p>
+        <p>自評:80分</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
