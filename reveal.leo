@@ -56,7 +56,10 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="leo.20151108102259.1"><vh>@path 40323124</vh>
+<<<<<<< HEAD
+<v t="123.20151029141051.1" a="E"><vh>@path 40323115</vh>
+=======
+<v t="leo.20151108102259.1" a="E"><vh>@path 40323124</vh>
 <v t="leo.20151108102259.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108102259.3"><vh>@edit 40323124_cp_w1_p.html</vh></v>
 <v t="leo.20151108102259.4" a="E"><vh>@path pelican</vh>
@@ -69,6 +72,7 @@
 </v>
 </v>
 <v t="123.20151029141051.1"><vh>@path 40323115</vh>
+>>>>>>> 6943797c4a285734fb4d75c736a6676cc73feff0
 <v t="123.20151029141051.2"><vh>以下為投影片 ------------</vh></v>
 <v t="123.20151105202522.1"><vh>@edit 40323115_cp_w1_p.html</vh></v>
 <v t="123.20151029141051.4"><vh>@path pelican</vh>
@@ -172,6 +176,25 @@
 <v t="leo.20151107102720.7" a="E"><vh>@path content</vh>
 <v t="leo.20151107102720.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151107102720.9"><vh>@edit 40323106_cp_w1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108110006.1" a="E"><vh>@path 40323125</vh>
+<v t="leo.20151108110006.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20151108110006.3"><vh>@edit 40323125_cp_w1_p.html</vh></v>
+<v t="leo.20151108110006.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108110006.5"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151108110006.6"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151108110006.7" a="E"><vh>@path content</vh>
+<v t="leo.20151108110006.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151108110006.9"><vh>@edit 40323125_cp_w1.md</vh></v>
+<v t="leo.20151108110006.10"><vh>@edit 40323125_cp_w2.md</vh></v>
+<v t="leo.20151108110006.11"><vh>@edit 40323125_cp_w3.md</vh></v>
+<v t="leo.20151108110006.12"><vh>@edit 40323125_cp_w4.md</vh></v>
+<v t="leo.20151108110006.13"><vh>@edit 40323125_cp_w5.md</vh></v>
+<v t="leo.20151108110006.14"><vh>@edit 40323125_cp_w6.md</vh></v>
+<v t="leo.20151108110006.15"><vh>@edit 40323125_cp_w7.md</vh></v>
+<v t="leo.20151108110006.16"><vh>@edit 40323125_cp_w8.md</vh></v>
 </v>
 </v>
 </v>
@@ -462,7 +485,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029154913.1"><vh>@path 40323149</vh>
+<v t="leo.20151029154913.1" a="E"><vh>@path 40323149</vh>
 <v t="leo.20151029154913.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151107173641.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151107173641.2"><vh>檔案說明</vh></v>
@@ -548,6 +571,28 @@
 </v>
 </v>
 </v>
+<<<<<<< HEAD
+<v t="123.20151108101526.1" a="E"><vh>Recovered Nodes</vh>
+<v t="123.20151108101526.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
+<v t="123.20151108101526.3"><vh>old:html 標註</vh></v>
+<v t="123.20151108101526.4"><vh>new:html 標註</vh></v>
+</v>
+<v t="123.20151108101526.5"><vh>Recovered node "111" from @clean simplest.html</vh>
+<v t="123.20151108101526.6"><vh>old:111</vh></v>
+<v t="123.20151108101526.7"><vh>new:111</vh></v>
+</v>
+<v t="123.20151108101526.8"><vh>Recovered node "222" from @clean simplest.html</vh>
+<v t="123.20151108101526.9"><vh>old:222</vh></v>
+<v t="123.20151108101526.10"><vh>new:222</vh></v>
+</v>
+<v t="123.20151108101526.11"><vh>Recovered node "333" from @clean simplest.html</vh>
+<v t="123.20151108101526.12"><vh>old:333</vh></v>
+<v t="123.20151108101526.13"><vh>new:333</vh></v>
+</v>
+<v t="123.20151108101526.14"><vh>Recovered node "script" from @clean simplest.html</vh>
+<v t="123.20151108101526.15"><vh>old:script</vh></v>
+<v t="123.20151108101526.16"><vh>new:script</vh></v>
+=======
 <v t="leo.20151108102231.1" a="E"><vh>Recovered Nodes</vh>
 <v t="leo.20151108102231.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151108102231.3"><vh>old:html 標註</vh></v>
@@ -568,6 +613,7 @@
 <v t="leo.20151108102231.14"><vh>Recovered node "script" from @clean simplest.html</vh>
 <v t="leo.20151108102231.15"><vh>old:script</vh></v>
 <v t="leo.20151108102231.16"><vh>new:script</vh></v>
+>>>>>>> 6943797c4a285734fb4d75c736a6676cc73feff0
 </v>
 </v>
 </vnodes>
@@ -1478,6 +1524,8 @@ cadpa.txt 檔案內容
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
+<<<<<<< HEAD
+=======
 <t tx="leo.20151108102231.1"></t>
 <t tx="leo.20151108102231.10">&lt;section&gt;
     &lt;h1&gt;&lt;small&gt;◎目錄&lt;/small&gt;&lt;/h1&gt;
@@ -2086,5 +2134,12 @@ Diff...
 <t tx="leo.20151108102259.5"></t>
 <t tx="leo.20151108102259.7"></t>
 <t tx="leo.20151108102259.8"></t>
+<t tx="leo.20151108110006.1"></t>
+<t tx="leo.20151108110006.2"></t>
+<t tx="leo.20151108110006.4"></t>
+<t tx="leo.20151108110006.5"></t>
+<t tx="leo.20151108110006.7"></t>
+<t tx="leo.20151108110006.8"></t>
+>>>>>>> 6943797c4a285734fb4d75c736a6676cc73feff0
 </tnodes>
 </leo_file>
