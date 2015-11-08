@@ -111,10 +111,10 @@
 <v t="leo.20151108133628.8"><vh>@edit 40323124_cp_w6_p.html</vh></v>
 <v t="leo.20151108133628.9"><vh>@edit 40323124_cp_w7_p.html</vh></v>
 <v t="leo.20151108133628.10"><vh>@edit 40323124_cp_w8_p.html</vh></v>
-<v t="leo.20151108133628.11" a="E"><vh>@path pelican</vh>
+<v t="leo.20151108133628.11"><vh>@path pelican</vh>
 <v t="leo.20151108133628.12"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151108133628.13"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151108133628.14" a="E"><vh>@path content</vh>
+<v t="leo.20151108133628.14"><vh>@path content</vh>
 <v t="leo.20151108133628.15"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151108133628.16"><vh>@edit 40323124_cp_w1.md</vh></v>
 <v t="leo.20151108133628.17"><vh>@edit 40323124_cp_w2.md</vh></v>
