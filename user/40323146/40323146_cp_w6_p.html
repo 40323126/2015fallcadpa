@@ -1,0 +1,59 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>電腦輔助設計與實習</h1>
+    <p>班級:四設計二甲<p>
+    <p>姓名:馮俊翰<p>
+    <p>學號:40323146</p>		
+</section>
+
+<section>
+    <h1>第六週上課內容</h1>
+    <p>1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages <p>
+    <p>2.<ahref="What engineers do? 摘要"></a><p>
+    <p>3.Solvespace 基本操作: <ahref="http://solvespace.com/tutorial.pl (簡介)"></a><p>
+    <p>4.Creo Parametric 基本操作: <ahref="https://copy.com/97ZkQ0UqfVUPTxn8"></a><p>
+    <p>5.Pro/Engineer Mechanism: <ahref="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"></a><p>
+   </section>
+
+<section>
+    <h1>心得和自評</h1>
+    <p>心得:在做投影片時，常常都打好了，一個錯誤，而且又上傳上去，整個又要重來，覺得做這個東西要很小心，或是用近端先檢查一次，在上傳上去，還有用一些加入倉儲的協統者，和之前的上傳檔案差不多，不會太複雜。</p>
+    <p>自評:75分</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
