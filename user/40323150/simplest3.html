@@ -1,0 +1,106 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>40323150－電腦輔助設計實習</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section id="hw-task-one">
+    <h1>
+    <small>
+    電腦輔助設計實習
+    </small>
+    </h1> 
+   <p><strong>#Class/#Number/#Name</strong></p>
+    <p>四設計二甲 40323150 詹晟弘</p>		
+</section>
+<section id="w3"data-background="#FFD306">
+    <section>
+    <h1>作業Mission-3</h1>
+    <p><a href="#/hw-task-one">返回首頁</a>
+    </section>
+    <section>
+    <h2><small>筆記 note／行程 Schedule</small></h2>
+    <p>1.利用Leo editer製作各週作業分支</p>	
+    <p>2.<a href="http://solvespace.com/tutorial.pl">Solvespace</a>介紹</p>	
+    <p>3.利用Leo editer編輯<a href="http://40323150.github.io/2015cadp/simplest.html">作業</a>投影片</p>	
+     <section>
+    <h1><small>成績自評分數＆心得</small></h1>
+    <p>用投影片弄得有點煩，一直無法修改，或達不到想要呈現的樣子，還得多加練習reveal.js 的基本語法，又新增了一樣繪圖軟體-Solvespace。整體上漸漸能熟悉工作環境並且能協助同學架設網站</p>
+    <p>自評分數: 85分</p>
+    <p>－<a href="#/4">top</a>
+    </section>
+</section>
+
+
+
+
+				
+<section>
+<h2>Creo Parametric－Corner cube實作影片</h2>
+<iframe src="https://player.vimeo.com/video/145155876" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</section>
+    <section style="text-align: left;">
+<h1>THE END</h1>
+<h3>created by Cheng hong</h3>
+    <p><a href="#/hw-task-one">返回首頁</a>
+    </section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	
+</body>
+</html>
+
