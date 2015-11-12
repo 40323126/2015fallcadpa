@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323155 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-22T20:07:00+08:00</updated><entry><title>2015 CADPA 第一周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;iframe src="40323155_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;h2&gt;一．github倉儲的建立:&lt;/h2&gt;
-&lt;p&gt;在開始學習這門課前之前要先學會如何使用github建立倉儲，這樣子我們才把資料儲存在github，並且在github建立github pages的頁面。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/qgsXrCs3AViWd4ZO"&gt;&lt;img src="https://copy.com/qgsXrCs3AViWd4ZO" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.登入帳號後點擊右上角的 + 符號&lt;/br&gt;
-    b.接著點擊選單上的repository&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/7ZNSawFg9Z3ZFteD"&gt;&lt;img src="https://copy.com/7ZNSawFg9Z3ZFteD" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.輸入欲建立倉儲的名稱&lt;/br&gt;
-    b.勾選自動生成README&lt;/br&gt;
-    c.點擊Create repository建立倉儲&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/rLGHxkng949P91sM"&gt;&lt;img src="https://copy.com/rLGHxkng949P91sM" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    倉儲建立成功&lt;/br&gt;&lt;/p&gt;
-&lt;h2&gt;二．git指令介紹及使用:&lt;/h2&gt;
-&lt;p&gt;在一年級時我們已經學習過了一些基本的git指令了，這學期為了使用github pages來建立pelican網誌，另外學會了一些指令。&lt;/p&gt;
-&lt;p&gt;上學期所學的指令:&lt;/br&gt;
-    1.下載資料:git clone 倉儲連結&lt;/br&gt;
-    2.新增全部資料:git add -A&lt;/br&gt;
-    3.新增指定資料:git add 檔案名稱&lt;/br&gt;
-    4.標記註解:git commit -m "注解"&lt;/br&gt;
-    5.推回資料:git push&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;本學期所學的指令:&lt;/br&gt;
-    1.查看分支:git branch&lt;/br&gt;
-    2.建立分支:git branch 分支名稱&lt;/br&gt;
-    3.切換分支:git checkout 分支名稱&lt;/br&gt;
-    4.推回指定分支:git push origin 分支名稱&lt;/br&gt;
-    5.登陸信箱:git config --global user.email "信箱"&lt;/br&gt;
-    6.登陸名稱:git config --global user.name "名稱"&lt;/br&gt;&lt;/p&gt;
-&lt;h2&gt;三．課堂分組:&lt;/h2&gt;
-&lt;p&gt;這學期的課程中也需要分組完成各別的專案，而我的組員有:&lt;/br&gt;
-    40323133 張庭豪&lt;/br&gt;
-    40323142 陳柏曄&lt;/br&gt;
-    40323147 黃健華&lt;/br&gt;
-    40323152 廖子誠&lt;/br&gt;
-    40323155 鄭弘暉&lt;/br&gt;
-    40323156 賴武辰&lt;/br&gt;&lt;/p&gt;
-&lt;h2&gt;四．心得及自評:&lt;/h2&gt;
-&lt;p&gt;心得:這學期所學到的git指令比上學期多，不過因為有作筆記能夠慢慢的用，相信在幾週之後能夠熟練這些指令。&lt;/br&gt;
-  自評:90分&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第二周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;iframe src="40323155_cp_w2_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;h2&gt;一．修正編碼:&lt;/h2&gt;
-&lt;p&gt;上周發現將檔案推回github後，無法順利的開啟github pages的頁面，後來老師發現是編碼的問題，所以我們需要修正notebook.py的編碼之後再推回github。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/0413Rj1vmLGt8xwd"&gt;&lt;img src="https://copy.com/0413Rj1vmLGt8xwd" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.進入資料夾中的plugin\liquid_tags，並開啟當中的notebook.py&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://copy.com/YyG7n3CrF8NbaT3N"&gt;&lt;img src="https://copy.com/YyG7n3CrF8NbaT3N" width="500" height="281" border="0"&gt;&lt;/a&gt;&lt;/br&gt;
-    a.按下ctrl+f，使用搜尋的功能尋找open的字串&lt;/br&gt;
-    b.在後頭加上encoding="utf-8"後即可&lt;/br&gt;&lt;/p&gt;
-&lt;h2&gt;二．心得及自評:&lt;/h2&gt;
-&lt;p&gt;心得:上週遇到的問題就是自上傳之後，無法正常的在github開啟網頁，在老師檢查過後發現是編碼的問題，再修正了編碼之後便能夠正常的修改上傳並開啟網頁了。&lt;/br&gt;
-自評:90分&lt;/br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第三周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;iframe src="40323155_cp_w3_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第四周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;iframe src="40323155_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第五周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;iframe src="40323155_cp_w5_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第六周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;iframe src="40323155_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第七周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;iframe src="40323155_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 第八周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;iframe src="40323155_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 投影片</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_ppt.html" rel="alternate"></link><updated>2015-10-22T20:05:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_ppt.html</id><summary type="html">&lt;p&gt;&lt;a href="40323155_cp_w1_p.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323155 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-22T20:07:00+08:00</updated><entry><title>2015 CADPA 第一周報告</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;2.分組完成專案
+3.學習git指令
+4.建立github倉儲&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w2.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w3.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w4.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w5.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w7.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-10-22T20:07:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w8.html</id><summary type="html"></summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 CADPA 投影片</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_ppt.html" rel="alternate"></link><updated>2015-10-22T20:05:00+08:00</updated><author><name>40323155</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_ppt.html</id><summary type="html">&lt;p&gt;&lt;a href="40323155_cp_w1_p.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
