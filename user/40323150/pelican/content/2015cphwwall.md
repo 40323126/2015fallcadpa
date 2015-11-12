@@ -16,11 +16,14 @@ Summary: 上傳各週進度至協同網站
 
 ※40323150－2015 電腦輔助設計實習 作業網站:
 -----------------------------------------------------------
+
 <p><a href="http://40323150.github.io/2015cadp/">http://40323150.github.io/2015cadp/</a></p>
 
 計算機程式 Jupyter:
 <p><a href="http://40323150.github.io/2015cadp/2015cp_note1.html">http://40323150.github.io/2015cadp/2015cp_note1.html</a></p>
 
+
+利用Solvespace繪製零件(圖一) [^1]
 
 * **TUTORIAL: DRAWING AN ANGLE BRACKET**
 
