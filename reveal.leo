@@ -56,7 +56,7 @@
 </v>
 <v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<<<<<<< HEAD
+
 <v t="leo.20151108102259.1"><vh>@path 40323124</vh>
 <v t="leo.20151108102259.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151108102259.3"><vh>@edit 40323124_cp_w1_p.html</vh></v>
@@ -69,8 +69,6 @@
 </v>
 </v>
 </v>
-=======
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 <v t="123.20151029141051.1"><vh>@path 40323115</vh>
 <v t="123.20151029141051.2"><vh>以下為投影片 ------------</vh></v>
 <v t="123.20151105202522.1"><vh>@edit 40323115_cp_w1_p.html</vh></v>
@@ -245,7 +243,6 @@
 </v>
 <v t="123.20151022140839.1" a="E"><vh>@path 40323150</vh>
 <v t="123.20151022140839.2"><vh>以下為投影片 ------------</vh></v>
-<<<<<<< HEAD
 <v t="leo.20151110011610.1" a="E"><vh>@clean simplest.html</vh>
 <v t="leo.20151110011610.2"><vh>檔案說明</vh></v>
 <v t="leo.20151110011610.3"><vh>html 標註</vh>
@@ -264,7 +261,6 @@
 <v t="leo.20151110011610.16"><vh>7</vh></v>
 <v t="leo.20151110011610.17"><vh>8</vh></v>
 <v t="leo.20151110033440.1"><vh>vid</vh></v>
-=======
 <v t="123.20151029154737.1" a="E"><vh>@clean simplest.html</vh>
 <v t="123.20151029154737.2"><vh>檔案說明</vh></v>
 <v t="123.20151029154737.3" a="E"><vh>html 標註</vh>
@@ -274,7 +270,6 @@
 <v t="123.20151029154737.7"><vh>111</vh></v>
 <v t="123.20151029154737.8"><vh>222</vh></v>
 <v t="123.20151029154737.9"><vh>333</vh></v>
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 </v>
 <v t="leo.20151110011610.18"><vh>W1</vh></v>
 <v t="leo.20151110011610.19"><vh>W2</vh></v>
@@ -292,7 +287,7 @@
 <v t="leo.20151110011610.29"><vh>script</vh></v>
 </v>
 </v>
-<<<<<<< HEAD
+
 </v>
 <v t="leo.20151110022245.1"><vh>@clean simplest1.html</vh>
 <v t="leo.20151110022245.2"><vh>檔案說明</vh></v>
@@ -426,8 +421,6 @@
 </v>
 </v>
 </v>
-=======
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 <v t="123.20151022140839.4" a="E"><vh>@path pelican</vh>
 <v t="123.20151022140839.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="123.20151029154755.1"><vh>@edit publishconf.py</vh></v>
@@ -911,8 +904,7 @@
 </v>
 </v>
 </v>
-<<<<<<< HEAD
-=======
+
 <v t="leo.20151108181644.1"><vh>Recovered Nodes</vh>
 <v t="leo.20151108181644.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151108181644.3"><vh>old:html 標註</vh></v>
@@ -935,7 +927,6 @@
 <v t="leo.20151108181644.16"><vh>new:script</vh></v>
 </v>
 </v>
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 </vnodes>
 <tnodes>
 <t tx=".20151029140136.1"></t>
@@ -1103,8 +1094,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 	
 </t>
-<<<<<<< HEAD
-=======
+
+
 <t tx="123.20151029154737.8">&lt;section&gt;
     &lt;h1&gt;&lt;small&gt;◎目錄&lt;/small&gt;&lt;/h1&gt;
     
@@ -1451,7 +1442,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 	
 </t>
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
     &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
@@ -1900,7 +1890,7 @@ cadpa.txt 檔案內容
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151108102259.1"></t>
 <t tx="leo.20151108102259.2"></t>
 <t tx="leo.20151108102259.4"></t>
@@ -1922,7 +1912,6 @@ cadpa.txt 檔案內容
 <t tx="leo.20151110011610.16">&lt;li&gt;&lt;p&gt;&lt;small&gt;W7-建立協同網站&lt;a href="#/w7"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
 <t tx="leo.20151110011610.17">&lt;li&gt;&lt;p&gt;&lt;small&gt;W8-總結&lt;a href="#/w8"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
 <t tx="leo.20151110011610.18">&lt;section id="w1"data-background="#FF0000"&gt;
-=======
 <t tx="leo.20151108181644.1"></t>
 <t tx="leo.20151108181644.10">&lt;section&gt;
     &lt;h1&gt;&lt;small&gt;◎目錄&lt;/small&gt;&lt;/h1&gt;
@@ -1942,7 +1931,6 @@ cadpa.txt 檔案內容
 &lt;/section&gt;
 					
 &lt;section id="w1"data-background="#FF0000"&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
     &lt;section&gt;
     &lt;h1&gt;作業Mission-1&lt;/h1&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
@@ -2146,7 +2134,7 @@ cadpa.txt 檔案內容
 &lt;/section&gt;
 				
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110011610.26">&lt;section id="vid"&gt;
     &lt;section&gt;
 &lt;h2&gt;實作影片回顧&lt;/h2&gt;
@@ -2169,7 +2157,6 @@ cadpa.txt 檔案內容
     &lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151110011610.27">    &lt;section style="text-align: left;"&gt;
-=======
 <t tx="leo.20151108181644.11">(uncached) 123.20151029154737.9
 Diff...
   &lt;section&gt;
@@ -2200,16 +2187,14 @@ Diff...
 &lt;iframe src="https://player.vimeo.com/video/144714197" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;
     &lt;section style="text-align: left;"&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;h1&gt;THE END&lt;/h1&gt;
 &lt;h3&gt;created by Cheng hong&lt;/h3&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
 				
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110011610.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
 <t tx="leo.20151108181644.14">(uncached) 123.20151029154737.10
 Diff...
   &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2248,7 +2233,6 @@ Diff...
 - 	
 </t>
 <t tx="leo.20151108181644.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2257,9 +2241,9 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110011610.29">&lt;script&gt;
-=======
+
 <t tx="leo.20151108181644.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2269,7 +2253,6 @@ Diff...
 &lt;/script&gt;
 	
 &lt;script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 
 			// Full list of configuration options available at:
 			// https://github.com/hakimel/reveal.js#configuration
@@ -2294,10 +2277,10 @@ Diff...
 
 		&lt;/script&gt;
 
-<<<<<<< HEAD
+
 	</t>
 <t tx="leo.20151110011610.3">&lt;!doctype html&gt;
-=======
+
 	
 </t>
 <t tx="leo.20151108181644.2">(uncached) 123.20151029154737.3
@@ -2318,7 +2301,6 @@ Diff...
   @others
 </t>
 <t tx="leo.20151108181644.3">&lt;!doctype html&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2419,7 +2401,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022245.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -2447,9 +2429,8 @@ Diff...
 
 	</t>
 <t tx="leo.20151110022245.3">&lt;!doctype html&gt;
-=======
+
 <t tx="leo.20151108181644.4">&lt;!doctype html&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2467,7 +2448,7 @@ Diff...
 @others
 &lt;/body&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022245.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
@@ -2479,7 +2460,7 @@ Diff...
 &lt;/div&gt;
 </t>
 <t tx="leo.20151110022245.7">&lt;!-- 以下為投影片 --&gt;
-=======
+
 <t tx="leo.20151108181644.5">(uncached) 123.20151029154737.7
 Diff...
   &lt;!-- 以下為投影片 --&gt;
@@ -2509,7 +2490,6 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20151108181644.7">&lt;!-- 以下為投影片 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section id="hw-task-one"&gt;
@@ -2522,14 +2502,14 @@ Diff...
     &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
 &lt;/section&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022331.1">@language xml
 @tabwidth -4
 @others
 
 </t>
 <t tx="leo.20151110022331.19">&lt;section id="w2"data-background="#ff8000"&gt;
-=======
+
 <t tx="leo.20151108181644.8">(uncached) 123.20151029154737.8
 Diff...
   &lt;section&gt;
@@ -2727,7 +2707,6 @@ Diff...
 - 				
 </t>
 <t tx="leo.20151108181644.9">&lt;section&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
     &lt;section&gt;
     &lt;h1&gt;作業Mission-2&lt;/h1&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
@@ -2750,7 +2729,7 @@ Diff...
 &lt;/section&gt;
 				
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022331.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2766,7 +2745,7 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022331.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
+
 <t tx="leo.20151108212600.1"></t>
 <t tx="leo.20151108212600.10">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;做法:&lt;/h1&gt;
@@ -2783,7 +2762,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2792,7 +2770,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022331.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -2824,7 +2802,7 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
+
 <t tx="leo.20151108212600.13">@language xml
 @tabwidth -4
 @others
@@ -2842,7 +2820,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -2851,35 +2828,33 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022331.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022331.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
+
 </t>
 <t tx="leo.20151108212600.16">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.17">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022331.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
+
 <t tx="leo.20151108212600.18">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022331.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -2936,7 +2911,7 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022521.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
+
 <t tx="leo.20151108212600.19">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -2970,7 +2945,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.22">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -2979,7 +2953,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022521.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -3011,7 +2985,7 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
+
 <t tx="leo.20151108212600.23">@language xml
 @tabwidth -4
 @others
@@ -3029,7 +3003,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -3038,35 +3011,33 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022521.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022521.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
+
 </t>
 <t tx="leo.20151108212600.26">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.27">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022521.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
+
 <t tx="leo.20151108212600.28">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022521.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3081,7 +3052,7 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20151110022556.1">@language xml
-=======
+
 <t tx="leo.20151108212600.29">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3092,12 +3063,11 @@ Diff...
 	
 </t>
 <t tx="leo.20151108212600.3">@language xml
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 @tabwidth -4
 @others
 
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022556.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -3143,7 +3113,7 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022556.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
+
 <t tx="leo.20151108212600.30">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;做法: &lt;/h1&gt;
     &lt;p&gt;1.到老師的wordpress下載solvespace  2. 進入老師給的solvespace的網址看著裡面的實體與英文說明試做一次&lt;/p&gt;
@@ -3159,7 +3129,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.32">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3168,7 +3137,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022556.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -3200,7 +3169,7 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
+
 <t tx="leo.20151108212600.33">@language xml
 @tabwidth -4
 @others
@@ -3218,7 +3187,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -3227,35 +3195,33 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022556.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022556.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
+
 </t>
 <t tx="leo.20151108212600.36">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.37">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022556.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
+
 <t tx="leo.20151108212600.38">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022556.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3275,7 +3241,7 @@ Diff...
 
 </t>
 <t tx="leo.20151110022630.2">&lt;!--
-=======
+
 <t tx="leo.20151108212600.39">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3286,14 +3252,13 @@ Diff...
 	
 </t>
 <t tx="leo.20151108212600.4">&lt;!--
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022630.22">&lt;section id="w5"data-background="#00AEAE"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-5&lt;/h1&gt;
@@ -3325,7 +3290,7 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022630.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
+
 <t tx="leo.20151108212600.40">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;做法: &lt;/h1&gt;
     &lt;p&gt;1.開始學習CreoParametric的基本操作 2.畫Solvespace的示範圖形  3.新增這週投影片內容
@@ -3343,7 +3308,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.42">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3352,7 +3316,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022630.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -3384,7 +3348,7 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
+
 <t tx="leo.20151108212600.43">@language xml
 @tabwidth -4
 @others
@@ -3402,7 +3366,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -3411,35 +3374,31 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022630.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022630.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
 </t>
 <t tx="leo.20151108212600.46">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.47">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022630.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
 <t tx="leo.20151108212600.48">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022630.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3492,7 +3451,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022653.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
 <t tx="leo.20151108212600.49">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3535,7 +3493,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.52">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3544,7 +3501,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022653.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -3576,7 +3533,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
 <t tx="leo.20151108212600.53">@language xml
 @tabwidth -4
 @others
@@ -3594,7 +3550,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -3603,35 +3558,31 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022653.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022653.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
 </t>
 <t tx="leo.20151108212600.56">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.57">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022653.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
 <t tx="leo.20151108212600.58">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022653.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3686,7 +3637,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022714.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
 <t tx="leo.20151108212600.59">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3721,7 +3671,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.62">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3730,7 +3679,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022714.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -3762,7 +3711,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
 <t tx="leo.20151108212600.63">@language xml
 @tabwidth -4
 @others
@@ -3780,7 +3728,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -3789,35 +3736,31 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022714.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022714.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
 </t>
 <t tx="leo.20151108212600.66">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.67">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022714.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
 <t tx="leo.20151108212600.68">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022714.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3872,7 +3815,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151110022821.28">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-=======
 <t tx="leo.20151108212600.69">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -3906,7 +3848,6 @@ Diff...
 				
 </t>
 <t tx="leo.20151108212600.72">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -3915,7 +3856,7 @@ Diff...
 &lt;/script&gt;
 	
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022821.29">&lt;script&gt;
 
 			// Full list of configuration options available at:
@@ -3947,7 +3888,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
-=======
 <t tx="leo.20151108212600.73">@language xml
 @tabwidth -4
 @others
@@ -3965,7 +3905,6 @@ Diff...
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
 &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -3974,35 +3913,31 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-<<<<<<< HEAD
+
 &lt;/html&gt;</t>
 <t tx="leo.20151110022821.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151110022821.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-=======
 </t>
 <t tx="leo.20151108212600.76">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
 <t tx="leo.20151108212600.77">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022821.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-=======
 <t tx="leo.20151108212600.78">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<<<<<<< HEAD
+
 <t tx="leo.20151110022821.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -4025,7 +3960,6 @@ Diff...
 &lt;iframe src="https://player.vimeo.com/video/145155876" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151110033440.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;實作影片&lt;a href="#/vid"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
-=======
 <t tx="leo.20151108212600.79">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
@@ -4090,6 +4024,5 @@ Diff...
 <t tx="leo.20151109012046.5"></t>
 <t tx="leo.20151109012046.7"></t>
 <t tx="leo.20151109012046.8"></t>
->>>>>>> e442e255a80997bcbe31c654b2c19d96eb16339c
 </tnodes>
 </leo_file>
