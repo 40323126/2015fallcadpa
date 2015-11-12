@@ -21,31 +21,6 @@ Summary: 上傳各週進度至協同網站
 計算機程式 Jupyter:
 <p><a href="http://40323150.github.io/2015cadp/2015cp_note1.html">http://40323150.github.io/2015cadp/2015cp_note1.html</a></p>
 
-第一週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第二週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第三週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第四週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第五週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第六週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第七週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-第八週:
-<p><a href="http://2015fallcadpa/user/40323150/2015cp_hw_w1.html">http://2015fallcadpa/user/40323150/2015cp_hw_w1.html</a></p>
-
-利用Solvespace繪製零件(圖一) [^1]
 
 * **TUTORIAL: DRAWING AN ANGLE BRACKET**
 
