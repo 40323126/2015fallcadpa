@@ -101,7 +101,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151022140839.1" a="E"><vh>@path 40323150</vh>
+<v t="123.20151022140839.1"><vh>@path 40323150</vh>
 <v t="123.20151022140839.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151110011610.1"><vh>@clean simplest.html</vh>
 <v t="leo.20151110011610.2"><vh>檔案說明</vh></v>
@@ -271,10 +271,10 @@
 </v>
 </v>
 </v>
-<v t="123.20151022140839.4" a="E"><vh>@path pelican</vh>
+<v t="123.20151022140839.4"><vh>@path pelican</vh>
 <v t="123.20151022140839.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="123.20151029154755.1"><vh>@edit publishconf.py</vh></v>
-<v t="123.20151022140839.7" a="E"><vh>@path content</vh>
+<v t="123.20151022140839.7"><vh>@path content</vh>
 <v t="123.20151022140839.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151110011806.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151110011812.1"><vh>@edit 2015cphww2.md</vh></v>
@@ -487,7 +487,7 @@
 <v t="leo.20151106231525.1"><vh>@edit 40323105_cp_w6_p.html</vh></v>
 <v t="leo.20151106234140.1"><vh>@edit 40323105_cp_w7_p.html</vh></v>
 <v t="leo.20151106234148.1"><vh>@edit 40323105_cp_w8_p.html</vh></v>
-<v t="leo.20151022200428.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151022200428.4"><vh>@path pelican</vh>
 <v t="leo.20151022200428.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151022200428.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151022200428.7" a="E"><vh>@path content</vh>
@@ -552,13 +552,13 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029150735.1"><vh>@path 40323139</vh>
+<v t="leo.20151029150735.1" a="E"><vh>@path 40323139</vh>
 <v t="leo.20151029150735.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151029150735.3"><vh>@edit 40323139_cp_w1_p.html</vh></v>
-<v t="leo.20151029150735.4"><vh>@path pelican</vh>
+<v t="leo.20151029150735.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20151029150735.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151029150735.6"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151029150735.7"><vh>@path content</vh>
+<v t="leo.20151029150735.7" a="E"><vh>@path content</vh>
 <v t="leo.20151029150735.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151029150735.9"><vh>@edit 40323139_cp_w1.md</vh></v>
 <v t="leo.20151029150735.10"><vh>@edit 40323139_cp_w2.md</vh></v>
@@ -640,13 +640,13 @@
 <v t="123.20151112132710.1"><vh>@edit 40323154_cp_w6_p.html</vh></v>
 <v t="123.20151112132709.1"><vh>@edit 40323154_cp_w7_p.html</vh></v>
 <v t="123.20151112132708.1"><vh>@edit 40323154_cp_w8_p.html</vh></v>
-<v t="leo.20151029160134.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151029160134.4"><vh>@path pelican</vh>
 <v t="leo.20151029160134.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151029160134.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151029160134.7" a="E"><vh>@path content</vh>
 <v t="leo.20151029160134.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151029160134.9"><vh>@edit 40323154_cp_w1.md</vh></v>
 <v t="leo.20151029160134.10"><vh>@edit 40323154_cp_w2.md</vh></v>
+<v t="leo.20151029160134.9"><vh>@edit 40323154_cp_w1.md</vh></v>
 <v t="123.20151112132724.1"><vh>@edit 40323154_cp_w3.md</vh></v>
 <v t="123.20151112132728.1"><vh>@edit 40323154_cp_w4.md</vh></v>
 <v t="123.20151112132734.1"><vh>@edit 40323154_cp_w5.md</vh></v>
@@ -656,7 +656,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151030143639.1"><vh>@path 40323152</vh>
+<v t="leo.20151030143639.1" a="E"><vh>@path 40323152</vh>
 <v t="leo.20151030143639.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151030143639.3"><vh>@edit 40323152_cp_w1_p.html</vh></v>
 <v t="leo.20151030143639.4" a="E"><vh>@path pelican</vh>
@@ -735,6 +735,24 @@
 </v>
 </v>
 </v>
+<v t="123.20151112135129.1"><vh>Recovered Nodes</vh>
+<v t="123.20151112135129.2"><vh>Recovered node "W3" from @clean simplest.html</vh>
+<v t="123.20151112135129.3"><vh>old:W3</vh></v>
+<v t="123.20151112135129.4"><vh>new:W3</vh></v>
+</v>
+<v t="123.20151112135129.5"><vh>Recovered node "W4" from @clean simplest.html</vh>
+<v t="123.20151112135129.6"><vh>old:W4</vh></v>
+<v t="123.20151112135129.7"><vh>new:W4</vh></v>
+</v>
+<v t="123.20151112135129.8"><vh>Recovered node "W5" from @clean simplest.html</vh>
+<v t="123.20151112135129.9"><vh>old:W5</vh></v>
+<v t="123.20151112135129.10"><vh>new:W5</vh></v>
+</v>
+<v t="123.20151112135129.11"><vh>Recovered node "W6" from @clean simplest.html</vh>
+<v t="123.20151112135129.12"><vh>old:W6</vh></v>
+<v t="123.20151112135129.13"><vh>new:W6</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx=".20151029140136.1"></t>
@@ -768,6 +786,200 @@
 <t tx="123.20151105235045.5"></t>
 <t tx="123.20151105235045.7"></t>
 <t tx="123.20151105235045.8"></t>
+<t tx="123.20151112135129.1"></t>
+<t tx="123.20151112135129.10">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第五週內容&lt;/h1&gt;
+    &lt;p&gt;Pro/Engineer Mechanism:&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;reveal 2.0 更新&lt;p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:reveal 2.0更新後，每次都要重新git clone，多花了一些時間，但功能也有些變化&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20151112135129.11">(uncached) leo.20151107173641.13
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;第六週內容&lt;/h1&gt;
+      &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages&lt;/p&gt;
++     &lt;p&gt;2.Solvespace 基本操作&lt;/p&gt;
++     &lt;p&gt;3.Creo Parametric 基本操作&lt;/p&gt;
++     &lt;p&gt;4.Pro/Engineer Mechanism&lt;/p&gt;
+-     &lt;p&gt;2.&lt;a href="What engineers do? "&gt;摘要&lt;/a&gt;&lt;p&gt;
+-     &lt;p&gt;3.Solvespace 基本操作: &lt;a href="http://solvespace.com/tutorial.pl (簡介)"&gt;連結&lt;/a&gt;&lt;p&gt;
+-     &lt;p&gt;4.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;p&gt;
+-     &lt;p&gt;5.Pro/Engineer Mechanism: &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;p&gt;
+      &lt;/section&gt;
+        &lt;section&gt;
+      &lt;h2&gt;心得和自評&lt;/h2&gt;
+      &lt;p&gt;心得:在投影片製作時，打出來的字後請重新檢查，只要有意點錯誤，呈現的投影片就會亂，所以要再三檢查格式是否正確&lt;/p&gt;
+      &lt;p&gt;自評:85分&lt;/p&gt;
+      &lt;/section&gt;
+  &lt;/section&gt;
+- 
+</t>
+<t tx="123.20151112135129.12">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第六週內容&lt;/h1&gt;
+    &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages&lt;/p&gt;
+    &lt;p&gt;2.Solvespace 基本操作&lt;/p&gt;
+    &lt;p&gt;3.Creo Parametric 基本操作&lt;/p&gt;
+    &lt;p&gt;4.Pro/Engineer Mechanism&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:在投影片製作時，打出來的字後請重新檢查，只要有意點錯誤，呈現的投影片就會亂，所以要再三檢查格式是否正確&lt;/p&gt;
+    &lt;p&gt;自評:85分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20151112135129.13">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第六週內容&lt;/h1&gt;
+    &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages&lt;/p&gt;
+    &lt;p&gt;2.&lt;a href="What engineers do? "&gt;摘要&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;3.Solvespace 基本操作: &lt;a href="http://solvespace.com/tutorial.pl (簡介)"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;4.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;5.Pro/Engineer Mechanism: &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:在投影片製作時，打出來的字後請重新檢查，只要有意點錯誤，呈現的投影片就會亂，所以要再三檢查格式是否正確&lt;/p&gt;
+    &lt;p&gt;自評:85分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="123.20151112135129.2">(uncached) leo.20151107173641.10
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;第三週內容&lt;/h1&gt;
+      &lt;p&gt;1.reveal與js pellican網址投影片製作&lt;/p&gt;
+-     &lt;p&gt;2.&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;摘要&lt;/a&gt;&lt;/p&gt;
+-     &lt;p&gt;3.Solvespace 操作: &lt;a href="http://solvespace.com/tutorial.pl"&gt;連結&lt;/a&gt; (簡介)&lt;/p&gt;
+-     &lt;p&gt;4.將隨身leo安裝到近端並解壓縮網址:&lt;a href="http://140.130.17.17/public/fix.zip"&gt;連結&lt;/a&gt;&lt;/p&gt;
++     &lt;p&gt;2.摘要&lt;/p&gt;
++     &lt;p&gt;3.Solvespace操作&lt;/p&gt;
++     &lt;p&gt;4.將隨身leo網址，安裝到近端並解壓縮&lt;/p&gt;
+      &lt;p&gt;5.把fix.bat打開&lt;/p&gt;
+      &lt;/section&gt;
+        &lt;section&gt;
+      &lt;h2&gt;心得和自評&lt;/h2&gt;
+      &lt;p&gt;心得:學到了Solvespace這繪圖軟體，雖說全英文比較不習慣，各種操作還有待摸索，但同時多了一個新技能!!&lt;/p&gt;
+      &lt;p&gt;自評:80分&lt;/p&gt;
+      &lt;/section&gt;
+  &lt;/section&gt;
+</t>
+<t tx="123.20151112135129.3">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第三週內容&lt;/h1&gt;
+    &lt;p&gt;1.reveal與js pellican網址投影片製作&lt;/p&gt;
+    &lt;p&gt;2.摘要&lt;/p&gt;
+    &lt;p&gt;3.Solvespace操作&lt;/p&gt;
+    &lt;p&gt;4.將隨身leo網址，安裝到近端並解壓縮&lt;/p&gt;
+    &lt;p&gt;5.把fix.bat打開&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:學到了Solvespace這繪圖軟體，雖說全英文比較不習慣，各種操作還有待摸索，但同時多了一個新技能!!&lt;/p&gt;
+    &lt;p&gt;自評:80分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20151112135129.4">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第三週內容&lt;/h1&gt;
+    &lt;p&gt;1.reveal與js pellican網址投影片製作&lt;/p&gt;
+    &lt;p&gt;2.&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;摘要&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;3.Solvespace 操作: &lt;a href="http://solvespace.com/tutorial.pl"&gt;連結&lt;/a&gt; (簡介)&lt;/p&gt;
+    &lt;p&gt;4.將隨身leo安裝到近端並解壓縮網址:&lt;a href="http://140.130.17.17/public/fix.zip"&gt;連結&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;5.把fix.bat打開&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:學到了Solvespace這繪圖軟體，雖說全英文比較不習慣，各種操作還有待摸索，但同時多了一個新技能!!&lt;/p&gt;
+    &lt;p&gt;自評:80分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20151112135129.5">(uncached) leo.20151107173641.11
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;第四週內容&lt;/h1&gt;
+-     &lt;p&gt;1.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;/p&gt;
++     &lt;p&gt;1.Creo Parametric基本操作&lt;/p&gt;
+      &lt;p&gt;2.Solvespace的繪圖&lt;/p&gt;
+      &lt;/section&gt;
+        &lt;section&gt;
+      &lt;h2&gt;心得和自評&lt;/h2&gt;
+      &lt;p&gt;心得:這禮拜家裡因有急事請假，所以這堂課沒上到，回來後請教同學這週課程，Creo是第一次碰，所以還要多多練習，而Solvespace有比上次更上手&lt;/p&gt;
+-     &lt;p&gt;自評:65分&lt;/p&gt;
+?           ^^
++     &lt;p&gt;自評:70分&lt;/p&gt;
+?           ^^
+      &lt;/section&gt;
+  &lt;/section&gt;
+</t>
+<t tx="123.20151112135129.6">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第四週內容&lt;/h1&gt;
+    &lt;p&gt;1.Creo Parametric基本操作&lt;/p&gt;
+    &lt;p&gt;2.Solvespace的繪圖&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:這禮拜家裡因有急事請假，所以這堂課沒上到，回來後請教同學這週課程，Creo是第一次碰，所以還要多多練習，而Solvespace有比上次更上手&lt;/p&gt;
+    &lt;p&gt;自評:70分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20151112135129.7">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第四週內容&lt;/h1&gt;
+    &lt;p&gt;1.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;2.Solvespace的繪圖&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:這禮拜家裡因有急事請假，所以這堂課沒上到，回來後請教同學這週課程，Creo是第一次碰，所以還要多多練習，而Solvespace有比上次更上手&lt;/p&gt;
+    &lt;p&gt;自評:65分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
+<t tx="123.20151112135129.8">(uncached) leo.20151107173641.12
+Diff...
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;第五週內容&lt;/h1&gt;
++     &lt;p&gt;Pro/Engineer Mechanism: reveal 2.0 更新&lt;/p&gt;
+-     &lt;p&gt;Pro/Engineer Mechanism:&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;/p&gt;
+-     &lt;p&gt;reveal 2.0 更新&lt;p&gt;
+      &lt;/section&gt;
+        &lt;section&gt;
+      &lt;h2&gt;心得和自評&lt;/h2&gt;
+      &lt;p&gt;心得:reveal 2.0更新後，每次都要重新git clone，多花了一些時間，但功能也有些變化&lt;/p&gt;
+      &lt;p&gt;自評:75分&lt;/p&gt;
+      &lt;/section&gt;
+  &lt;/section&gt;
+</t>
+<t tx="123.20151112135129.9">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;第五週內容&lt;/h1&gt;
+    &lt;p&gt;Pro/Engineer Mechanism: reveal 2.0 更新&lt;/p&gt;
+    &lt;/section&gt;
+      &lt;section&gt;
+    &lt;h2&gt;心得和自評&lt;/h2&gt;
+    &lt;p&gt;心得:reveal 2.0更新後，每次都要重新git clone，多花了一些時間，但功能也有些變化&lt;/p&gt;
+    &lt;p&gt;自評:75分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1174,9 +1386,9 @@ cadpa.txt 檔案內容
     &lt;section&gt;
     &lt;h1&gt;第三週內容&lt;/h1&gt;
     &lt;p&gt;1.reveal與js pellican網址投影片製作&lt;/p&gt;
-    &lt;p&gt;2.摘要&lt;/p&gt;
-    &lt;p&gt;3.Solvespace操作&lt;/p&gt;
-    &lt;p&gt;4.將隨身leo網址，安裝到近端並解壓縮&lt;/p&gt;
+    &lt;p&gt;2.&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;摘要&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;3.Solvespace 操作: &lt;a href="http://solvespace.com/tutorial.pl"&gt;連結&lt;/a&gt; (簡介)&lt;/p&gt;
+    &lt;p&gt;4.將隨身leo安裝到近端並解壓縮網址:&lt;a href="http://140.130.17.17/public/fix.zip"&gt;連結&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;5.把fix.bat打開&lt;/p&gt;
     &lt;/section&gt;
       &lt;section&gt;
@@ -1189,20 +1401,21 @@ cadpa.txt 檔案內容
 <t tx="leo.20151107173641.11">&lt;section&gt;
     &lt;section&gt;
     &lt;h1&gt;第四週內容&lt;/h1&gt;
-    &lt;p&gt;1.Creo Parametric基本操作&lt;/p&gt;
+    &lt;p&gt;1.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;2.Solvespace的繪圖&lt;/p&gt;
     &lt;/section&gt;
       &lt;section&gt;
     &lt;h2&gt;心得和自評&lt;/h2&gt;
     &lt;p&gt;心得:這禮拜家裡因有急事請假，所以這堂課沒上到，回來後請教同學這週課程，Creo是第一次碰，所以還要多多練習，而Solvespace有比上次更上手&lt;/p&gt;
-    &lt;p&gt;自評:70分&lt;/p&gt;
+    &lt;p&gt;自評:65分&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20151107173641.12">&lt;section&gt;
     &lt;section&gt;
     &lt;h1&gt;第五週內容&lt;/h1&gt;
-    &lt;p&gt;Pro/Engineer Mechanism: reveal 2.0 更新&lt;/p&gt;
+    &lt;p&gt;Pro/Engineer Mechanism:&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;reveal 2.0 更新&lt;p&gt;
     &lt;/section&gt;
       &lt;section&gt;
     &lt;h2&gt;心得和自評&lt;/h2&gt;
@@ -1215,9 +1428,10 @@ cadpa.txt 檔案內容
     &lt;section&gt;
     &lt;h1&gt;第六週內容&lt;/h1&gt;
     &lt;p&gt;1.pelican 網誌與 reveal.js 投影片製作, 內容送到 Github pages&lt;/p&gt;
-    &lt;p&gt;2.Solvespace 基本操作&lt;/p&gt;
-    &lt;p&gt;3.Creo Parametric 基本操作&lt;/p&gt;
-    &lt;p&gt;4.Pro/Engineer Mechanism&lt;/p&gt;
+    &lt;p&gt;2.&lt;a href="What engineers do? "&gt;摘要&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;3.Solvespace 基本操作: &lt;a href="http://solvespace.com/tutorial.pl (簡介)"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;4.Creo Parametric 基本操作: &lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;連結&lt;/a&gt;&lt;p&gt;
+    &lt;p&gt;5.Pro/Engineer Mechanism: &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m (Nutcracker Mechanism)"&gt;連結&lt;/a&gt;&lt;p&gt;
     &lt;/section&gt;
       &lt;section&gt;
     &lt;h2&gt;心得和自評&lt;/h2&gt;
@@ -1225,6 +1439,7 @@ cadpa.txt 檔案內容
     &lt;p&gt;自評:85分&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
+
 </t>
 <t tx="leo.20151107173641.14">&lt;section&gt;
     &lt;section&gt;
@@ -1334,7 +1549,8 @@ cadpa.txt 檔案內容
     &lt;p&gt;心得:這門課跟一年級時一樣非常的有挑戰，完全沒接觸過東西，但把它吸收進去後，未來有更多的資源能運用&lt;/p&gt;
     &lt;p&gt;自評:75分&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20151107173641.9">&lt;section&gt;
     &lt;section&gt;
     &lt;h1&gt;第二週內容&lt;/h1&gt;
