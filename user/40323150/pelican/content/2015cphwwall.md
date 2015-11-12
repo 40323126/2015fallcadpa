@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title: 2015 電腦輔助設計實習 #總結
 Date: 2015-11-08 20:00
 Modified: 2015-11-08 20:00
@@ -16,11 +17,14 @@ Summary: 上傳各週進度至協同網站
 
 ※40323150－2015 電腦輔助設計實習 作業網站:
 -----------------------------------------------------------
+
 <p><a href="http://40323150.github.io/2015cadp/">http://40323150.github.io/2015cadp/</a></p>
 
 計算機程式 Jupyter:
 <p><a href="http://40323150.github.io/2015cadp/2015cp_note1.html">http://40323150.github.io/2015cadp/2015cp_note1.html</a></p>
 
+
+利用Solvespace繪製零件(圖一) [^1]
 
 * **TUTORIAL: DRAWING AN ANGLE BRACKET**
 
@@ -85,3 +89,5 @@ Summary: 上傳各週進度至協同網站
 <p><a href="http://wordpress-2015course.rhcloud.com/?cat=76">http://wordpress-2015course.rhcloud.com/?cat=76</a></p>
 
 [^9]:2015 電腦輔助設計實習<a href="http://wordpress-2015course.rhcloud.com/?cat=76">http://wordpress-2015course.rhcloud.com/?cat=76</a></p>
+=======
+>>>>>>> fcba29c4be408592bd94689b791bedee7b156d20
