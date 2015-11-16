@@ -25,12 +25,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+LINKS = (('Github網站', 'http://smpss91341.github.io/2015cadp/'),
          ('Python', 'http://python.org/'),('2015作業主頁', '../../'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
+          ('github', 'http://github.com/smpss91341'),)
           
 DEFAULT_PAGINATION = 10
 
