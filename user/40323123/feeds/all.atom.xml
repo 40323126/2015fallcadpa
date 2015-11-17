@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-22T14:20:00+08:00</updated><entry><title>2015 協同產品設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;h1&gt;Delta 3d printer&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-29T14:20:00+08:00</updated><entry><title>2015 協同產品設計實習 作業七</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-29T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-29:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Otl0EKJ9oYw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;h1&gt;Delta 3d printer&lt;/h1&gt;
 &lt;p&gt;零件圖檔&lt;/p&gt;
 &lt;p&gt;目前正在將solid work 板以及設定&lt;/p&gt;
 &lt;p&gt;運動模型&lt;/p&gt;
@@ -49,9 +50,7 @@ sudo reboot
 &lt;p&gt;&lt;img src="https://copy.com/nx0gH9D8WaDmJBtt" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;心得:
     Ubuntu 是三大系統中其中的一環，和windows mac一樣，都是許多人使用的作業系統，裝了desktop，雖然可以用滑鼠，但是還是建議大家，背一點指令，會對未來大家使用比較方便且實用，因為不像windows有使用者,權限，雖然可以設定但不建議大家使用，因為權限跑掉，最壞的情況有可能要從灌電腦。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;h1&gt;Solvespace&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Solvespace 一個小型的3D繪圖軟體
-&lt;/em&gt;Solvespace 一個快速上手的3D軟體
-*Solvespace 可以將畫出來的圖轉成javascrip&lt;/p&gt;
+&lt;p&gt;SolveSpace是一個開源的2D和3D CAD（計算機輔助設計）方案。它是一個基於約束的參數化建模與簡單的機械模擬功能。&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;  作業
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -94,7 +93,7 @@ git push origin gh-pages
 
 
 &lt;p&gt;============&lt;/p&gt;
-&lt;p&gt;在github中，建立自己的github pages   並且可以顯示在(user.github.io/倉儲)，利用github可以有效率的建立具有版次管理的程式，知道每次更改的系統，或者在程式發生錯誤時可以交叉比對上次錯誤的地方，借此得到問題發生的地方，進而修改。&lt;/p&gt;
+&lt;p&gt;在github中，建立自己的github pages   並且可以顯示在(user.github.io/倉儲)，用githu利b可以有效率的建立具有版次管理的程式，知道每次更改的系統，或者在程式發生錯誤時可以交叉比對上次錯誤的地方，借此得到問題發生的地方，進而修改。&lt;/p&gt;
 &lt;p&gt;*做法:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;git config --global user.name &amp;quot;name&amp;quot;
 
