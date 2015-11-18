@@ -326,9 +326,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029134123.1"><vh>@path 40323108</vh>
+<v t="leo.20151029134123.1" a="E"><vh>@path 40323108</vh>
 <v t="leo.20151029134123.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20151117213622.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151117213622.1" a="E"><vh>@clean simplest.html</vh>
 <v t="leo.20151117213622.2"><vh>檔案說明</vh></v>
 <v t="leo.20151117213622.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151117213622.4" a="E"><vh>body 標註</vh>
@@ -344,15 +344,16 @@
 </v>
 </v>
 </v>
-<v t="harry.20151117170329.1"><vh>@clean simplest2.html</vh>
+<v t="harry.20151117170329.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="harry.20151117170329.2"><vh>檔案說明</vh></v>
 <v t="harry.20151117170329.3" a="E"><vh>html 標註</vh>
 <v t="harry.20151117170329.4" a="E"><vh>body 標註</vh>
 <v t="harry.20151117170329.5" a="E"><vh>div class="reveal"</vh>
 <v t="harry.20151117170329.6" a="E"><vh>div class="slides"</vh>
-<v t="harry.20151117170329.7"><vh>有關我的作業</vh></v>
-<v t="harry.20151117170329.8"><vh>作業任務一</vh></v>
-<v t="harry.20151117170329.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151118144506.1"><vh>班級姓名</vh></v>
+<v t="leo.20151118144511.1"><vh>上課內容</vh></v>
+<v t="leo.20151118144516.1"><vh>課程心得</vh></v>
+<v t="leo.20151118144521.1"><vh>自評分數</vh></v>
 </v>
 </v>
 <v t="harry.20151117170329.10"><vh>script</vh></v>
@@ -471,7 +472,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151118140546.1" a="E"><vh>@path 40323127</vh>
+<v t="leo.20151118140546.1"><vh>@path 40323127</vh>
 <v t="leo.20151118140546.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151118140546.3"><vh>@clean simplest.html</vh>
 <v t="leo.20151118140546.4"><vh>檔案說明</vh></v>
@@ -2231,29 +2232,6 @@ cadpa.txt 檔案內容
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-</t>
-<t tx="harry.20151117170329.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二甲&lt;/h2&gt;
-    &lt;p&gt;40323108 謝馨慧 09/24&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="harry.20151117170329.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="harry.20151117170329.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20151022140632.1"></t>
 <t tx="leo.20151022140632.2"></t>
@@ -5347,5 +5325,37 @@ Diff...
 <t tx="leo.20151118140546.91"></t>
 <t tx="leo.20151118140546.93"></t>
 <t tx="leo.20151118140546.94"></t>
+<t tx="leo.20151118144506.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+   &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323108  謝馨慧   09/24&lt;/p&gt;	
+ 
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151118144511.1">&lt;section&gt;
+   &lt;h2&gt;上課內容&lt;/h2&gt;
+    &lt;p&gt;
+        1.投影片的新增及製作,將上課內容及作業放入投影片中 2.討論已在github建立好的倉儲及分支為何輸入網址仍無法開啟網頁&lt;/p&gt;	
+    &lt;/section&gt;        
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151118144516.1">&lt;section&gt;
+    &lt;h2&gt;課程心得&lt;/h2&gt;
+    &lt;p&gt;這週修改投影片內容,學習使用leo,修改後可先在近端看修改的樣子,如沒有錯誤再推到遠端較好,我覺得成功推回遠端超有成就感的,從之前的網頁一直是404,到現在開始弄投影片了,這次課堂上討論push後網頁仍無法顯示,因為一開始我也出現這個問題,同學有人也是,之後討論後認為可能是github還沒做信箱確認,也可能是要等它一段時間網頁就會跑出來&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151118144521.1">&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;W2:  75  &lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
