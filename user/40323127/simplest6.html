@@ -1,0 +1,67 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+   <h2>四設計二甲</h2>
+    <p>40323127  洪孟瑋   10/22</p>	
+ 
+</section>
+	
+<section>  
+   <h2>上課內容</h2>
+    <p>
+        1.繼續該完成的投影片內容
+        2.各組派兩個同學測繪腳踏車
+        3.老師建立了全班協同倉儲,將自己新增為協同倉儲者
+        4.加入為協同者後, 在 user 目錄下, 以學號新增目錄, 然後從 9999 目錄中複製內容, 並加入各週作業內容
+        5.在leo裡複製@path9999改為自己學號
+        6.都修改後做save,然後點@path自己學號,按leo上方的user-pelican,看是否有將節點完成</p>	
+</section>
+				
+<section>
+    <h2>課程心得</h2>
+    <p>這週主要在用全班協同倉儲的部分,終於知道如何讓自己加入倉儲成為協同者,也學到在做全班協同與個人時真的有很大差別,在自己倉儲時不會有別人也在做遇到同時推檔案的問題,也學到在要在全班倉儲推作業前,如個人倉儲部分已有備份,從中複製過去較快也比較保險,較不易出問題或多製造了衝突,很怕將全班的倉儲弄壞..,不過這週成功建立了在全班的個人連結,好像又有前進了一步.</p>
+    
+</section>
+				
+<section>
+    <h2>自評分數</h2>
+    <p>W6:  75  </p>
+    
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

@@ -1,0 +1,65 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>班級協同作業8</h2>
+    <p>四設計二甲</p>
+    <p>40323121   林育瑋</p>
+</section>
+	
+<section id="hw-task-one">
+    <h2>上課內容</h2>
+    <p>繼續上週的建立班級倉儲的協同者，並且上傳每周的課程進度到班級倉儲上，以及修復LEO上的衝突。
+    </p>
+</section>
+				
+<section>
+    <h2>心得分享8</h2>
+    <p>這週跟前兩週一樣,都是在近端改完自己的檔案後再上傳到班級的倉儲內,衝突還是有發生。但我在協助同學過程中發現,第六週說要登錄自己的github帳號成為班級倉儲的協同者,到了現在還是有同學沒去登錄,以至於他們要將檔案上推時出現403的錯誤訊息；另外,還有一些同學似乎是忘了git config這個動作,造成"A修改的檔案是B上傳的"的狀況出現,這可是會害B出事的阿
+[<<<<<<< HEAD]  這個表示是衝突點的開頭，然後在往下找會看到一排[========]在這等號上方代表的是新版本的更動、下方則是舊版本。結果我最後也只知道這樣而已，還沒有辦法去修復衝突，但我會繼續努力，希望也能為班上盡份心力</p>
+
+    
+
+</section>
+
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>第八周:67</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
