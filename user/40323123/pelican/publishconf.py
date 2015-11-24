@@ -24,12 +24,12 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Github網站', 'http://smpss91341.github.io/2015cadp/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'))
+# 部落格
+LINKS = (('我的github', 'http://smpss91341.github.io/2015cadp/'),
+         ('作業主頁', 'http://python.org/'))
 
-# Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+# 社交場合
+SOCIAL = (('FB', 'www.facebook.com.tw'),
           ('github', 'http://github.com/smpss91341'),)
           
 DEFAULT_PAGINATION = 10
