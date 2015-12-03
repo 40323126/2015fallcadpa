@@ -85,7 +85,8 @@ git push origin gh-pages
 &lt;p&gt;&lt;img src="https://copy.com/rGRWsyJDktPVSxRs" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;心得:
     Solvespace和一般我們學習的大型3D繪圖軟體截然不同，他沒有很直覺化的設計，也許是我們使用別套軟體造成習慣了，因為說明是英文，所以對我們也是一大挑戰，還是要去看懂英文，才會學習得更快，資料也比較新。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;h1&gt;Git 協同倉儲&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;git 是一種指令，用在做協同倉儲
+&lt;p&gt;123
+&lt;em&gt;git 是一種指令，用在做協同倉儲
 &lt;/em&gt;git 可以自己建立伺服器做管理或者是使用網路上github開源空間
 *git 指令可打 --help 去查&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;  作業
