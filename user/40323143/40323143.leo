@@ -537,7 +537,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;自評75分&lt;/a&gt;
-    &lt;p&gt;網頁，投影片及除修改2015fallcadpa影片外影片皆完成&lt;/a&gt;
+    &lt;p&gt;網頁，投影片及影片皆完成&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
