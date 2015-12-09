@@ -23,6 +23,7 @@
 <v t="leo.20151121110402.1"><vh>stop.bat</vh></v>
 </v>
 <v t="leo.20151121095153.1"><vh>有關 Brython</vh></v>
+<v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1" a="E"><vh>以下為投影片 ------------</vh>
 <v t="leo.20151209190951.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151209190951.2"><vh>@clean cadp_w12_lecture.html</vh>
@@ -49,7 +50,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151209191941.1"><vh>@clean cadp_w12_simplest.html</vh>
+<v t="leo.20151209191941.1" a="E"><vh>@clean cadp_w12_simplest.html</vh>
 <v t="leo.20151209191941.2"><vh>檔案說明</vh></v>
 <v t="leo.20151209191941.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151209191941.4" a="E"><vh>body 標註</vh>
@@ -81,7 +82,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
+<v t="leo.20151121095339.1"><vh>@edit 40323143_cp_w12_p.html</vh></v>
 <v t="leo.20151121095422.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151121095422.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151121095422.3"><vh>@edit publishconf.py</vh></v>
@@ -536,7 +537,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;自評75分&lt;/a&gt;
-    &lt;p&gt;網頁，投影片及影片皆完成&lt;/a&gt;
+    &lt;p&gt;網頁，投影片及除修改2015fallcadpa影片外影片皆完成&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
