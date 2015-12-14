@@ -330,7 +330,7 @@ ctx.fill()
 &lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
 &lt;p&gt;零件檔案位於: &lt;a href="https://github.com/2015fallhw/user9999/tree/master/parts"&gt;https://github.com/2015fallhw/user9999/tree/master/parts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;使用方法說明: &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;https://help.github.com/articles/3d-file-viewer/&lt;/a&gt;&lt;/p&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;br /&gt;
 以下利用 Brython 語法, 在網頁繪圖:&lt;/p&gt;

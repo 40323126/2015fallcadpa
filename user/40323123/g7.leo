@@ -327,7 +327,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
 
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
 
 &lt;br /&gt;
 以下利用 Brython 語法, 在網頁繪圖:
