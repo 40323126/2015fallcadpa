@@ -312,6 +312,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
 
 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
+
+
 &lt;br /&gt;
 以下利用 Brython 語法, 在網頁繪圖:
 

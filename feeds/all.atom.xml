@@ -321,6 +321,8 @@ ctx.fill()
 
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;
 以下利用 Brython 語法, 在網頁繪圖:&lt;/p&gt;
 &lt;p&gt;使用方法: &lt;a href="http://www.brython.info/"&gt;http://www.brython.info/&lt;/a&gt;&lt;/p&gt;
