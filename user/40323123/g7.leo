@@ -290,6 +290,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151214183241.8">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
+組員的頁面
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323123/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323131/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323154/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323137/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323143/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323145/&gt;
+
+
 零件檔案位於: &lt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&gt;
 
 使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
