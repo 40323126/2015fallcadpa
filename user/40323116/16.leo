@@ -255,7 +255,7 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151210143206.1"></t>
 <t tx="leo.20151210143206.2"></t>
 <t tx="leo.20151210145146.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W13 g4.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W13 g4.leo 
 Date: 2015-12-10 13:30
 Category: G4
 Tags: leo editor 應用
@@ -273,23 +273,23 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
 
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/1.stl"&gt;&lt;/script&gt;
-by40323116
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/2.stl"&gt;&lt;/script&gt;
-by40323121
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/3.stl"&gt;&lt;/script&gt;
-by40323113
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/4.stl"&gt;&lt;/script&gt;
-by40323113
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/5.stl"&gt;&lt;/script&gt;
-by40323110
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/6.stl"&gt;&lt;/script&gt;
-by40323110
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/7.stl"&gt;&lt;/script&gt;
-by40323121    
+  
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/prt0006.stl"&gt;&lt;/script&gt;
-by40323117
+
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/asm0001.stl"&gt;&lt;/script&gt;
-by40323151
+
 &lt;iframe src="https://player.vimeo.com/video/149249647" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149249647"&gt;活塞運動&lt;/a&gt; from &lt;a href="https://vimeo.com/user39742301"&gt;luke&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;br /&gt;
