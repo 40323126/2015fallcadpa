@@ -279,7 +279,7 @@ ctx.fill()
 &lt;/script&gt;
 </t>
 <t tx="leo.20151214183241.7">@language md
-Title: 2015 電腦輔助設計實習 CADPa W13 g7.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W13 g7 組員名單
 Date: 2015-12-10 13:30
 Category: G7
 Tags: leo editor 應用
@@ -289,6 +289,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151214183241.8">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+
+組員的頁面
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323123/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323131/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323154/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323137/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323143/&gt;
+&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323145/&gt;
+
 
 零件檔案位於: &lt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&gt;
 
