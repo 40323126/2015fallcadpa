@@ -10,40 +10,40 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151217142246.41"><vh>NewHeadline</vh></v>
-<v t="leo.20151217142246.42" a="E"><vh>@path ./../../</vh>
-<v t="leo.20151217142246.43"><vh>@button admin pelican</vh></v>
-<v t="leo.20151217142246.44" a="E"><vh>@path pelican</vh>
-<v t="leo.20151217142246.45"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151224142706.2"><vh>NewHeadline</vh></v>
+<v t="leo.20151224142735.1" a="E"><vh>@path ./../../</vh>
+<v t="leo.20151224142735.2"><vh>@button admin pelican</vh></v>
+<v t="leo.20151224142735.3" a="E"><vh>@path pelican</vh>
+<v t="leo.20151224142735.4"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="leo.20151217142246.46" a="E"><vh>@path ./../../pelican/content/</vh>
-<v t="leo.20151217142246.47"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151217142246.48" a="E"><vh>@clean g9_w13_1.md</vh>
-<v t="leo.20151217142246.49"><vh>其他內容</vh></v>
+<v t="leo.20151224142747.1" a="E"><vh>@path ./../../pelican/content/</vh>
+<v t="leo.20151224142747.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
+<v t="leo.20151224142747.3" a="E"><vh>@clean g9_w13_1.md</vh>
+<v t="leo.20151224142747.4"><vh>其他內容</vh></v>
 </v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="leo.20151217142246.41"></t>
-<t tx="leo.20151217142246.42"></t>
-<t tx="leo.20151217142246.43">@language python
+<t tx="leo.20151224142706.2"></t>
+<t tx="leo.20151224142735.1"></t>
+<t tx="leo.20151224142735.2">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
 g.es("admin pelican 執行完畢")</t>
-<t tx="leo.20151217142246.44"></t>
-<t tx="leo.20151217142246.46"></t>
-<t tx="leo.20151217142246.47"></t>
-<t tx="leo.20151217142246.48">@language md
-Title: 2015 電腦輔助設計實習 CADPa W13 G9.leo 
+<t tx="leo.20151224142735.3"></t>
+<t tx="leo.20151224142747.1"></t>
+<t tx="leo.20151224142747.2"></t>
+<t tx="leo.20151224142747.3">@language md
+Title: 2015 電腦輔助設計實習 CADPa W13 G9.leo 測試
 Date: 2015-12-10 13:30
 Category: G9
-Tags: leo editor G9
+Tags: leo editor 應用
 Slug: g9_w13_1
 Authors: G9
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
-<t tx="leo.20151217142246.49">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
+<t tx="leo.20151224142747.4">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
 
 以下可以引入 reveal.js 投影片
 
