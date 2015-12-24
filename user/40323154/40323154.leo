@@ -31,7 +31,7 @@
 <v t="leo.20151121095422.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151121095422.4" a="E"><vh>@path content</vh>
 <v t="leo.20151121095422.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151121095422.6"><vh>@edit 40323154_cp_w12.md</vh></v>
+<v t="leo.20151121095422.6"><vh>@edit w12_cp.md</vh></v>
 </v>
 </v>
 <v t="leo.20151210143156.1" a="E"><vh>@path ./../../</vh>
