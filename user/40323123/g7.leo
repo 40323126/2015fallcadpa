@@ -293,15 +293,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 組員的頁面
 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
 組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組長40323131"&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
 組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組長40323154"&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
 組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組長40323137"&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
 組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組長40323143"&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
 組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組長40323145"&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
 組員&lt;/a&gt; 40323145
 
 
