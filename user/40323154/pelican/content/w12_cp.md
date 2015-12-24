@@ -1,12 +1,11 @@
 Title: 在各自目錄下建立 leo 檔案
-Date: 2015-12-11 14:41
+Date: 2015-12-24 14:41
 Category: Python
 Tags: pelican, publishing
 Slug: 2015cp_hw_w12
 Authors: coursemdetw
 Summary: 各自目錄下建立 leo 檔案, 主要在無互動協同時的模式下可以
 
-以下為作業一內容
 
 利用 iframe 嵌入投影片:
 
