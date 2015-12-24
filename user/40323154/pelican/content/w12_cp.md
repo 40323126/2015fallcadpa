@@ -11,7 +11,7 @@ Summary: 各自目錄下建立 leo 檔案, 主要在無互動協同時的模式�
 
 <iframe src="40323154_cp_w12_p.html" width="500" height="300"></iframe>
 
-[作業一投影片](40323154_cp_w1_p.html){:target="_blank"}
+[作業一投影片](40323154_cp_w12_p.html){:target="_blank"}
 
 creo-hinge
 <iframe src="https://player.vimeo.com/video/148457739" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/148457739">hinge</a> from <a href="https://vimeo.com/user32614943">蔡俊佶</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
