@@ -1,4 +1,4 @@
-Title: 在各自目錄下建立 leo 檔案
+Title:2015 電腦輔助設計與實習 作業十二
 Date: 2015-12-24 14:41
 Category: Python
 Tags: pelican, publishing
