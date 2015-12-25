@@ -291,12 +291,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 <t tx="leo.20151214183241.8">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
 組員的頁面
-&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323123/&gt;
-&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323131/&gt;
-&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323154/&gt;
-&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323137/&gt;
-&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323143/&gt;
-&lt;http://2015fallhw.github.io/2015fallcadpa/user/40323145/&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
+組長&lt;/a&gt; 40323123
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
+組員&lt;/a&gt; 40323131
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
+組員&lt;/a&gt; 40323154
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
+組員&lt;/a&gt; 40323137
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
+組員&lt;/a&gt; 40323143
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
+組員&lt;/a&gt; 40323145
+
 
 
 零件檔案位於: &lt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&gt;
