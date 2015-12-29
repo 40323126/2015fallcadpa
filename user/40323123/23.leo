@@ -37,7 +37,7 @@
 <v t="leo.20151229104702.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151229104702.84" a="E"><vh>@clean 40323123_cp_w11.html</vh>
 <v t="leo.20151229104702.85"><vh>檔案說明</vh></v>
-<v t="leo.20151229104702.86"><vh>html 標註</vh>
+<v t="leo.20151229104702.86" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.87" a="E"><vh>body 標註</vh>
 <v t="leo.20151229104702.88" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151229104702.89" a="E"><vh>div class="slides"</vh>
@@ -609,9 +609,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
     &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 06 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;40323123 林祐生&lt;/h3&gt;
     &lt;h3&gt;第十一週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
