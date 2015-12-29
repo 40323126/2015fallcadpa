@@ -35,7 +35,7 @@
 </v>
 </v>
 <v t="leo.20151229104702.1" a="E"><vh>以下為 reveal 投影片</vh>
-<v t="leo.20151229104702.84" a="E"><vh>@clean 40323123_cp_w11.html</vh>
+<v t="leo.20151229104702.84"><vh>@clean 40323123_cp_w11.html</vh>
 <v t="leo.20151229104702.85"><vh>檔案說明</vh></v>
 <v t="leo.20151229104702.86" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.87" a="E"><vh>body 標註</vh>
@@ -56,7 +56,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229104702.97" a="E"><vh>@clean 40323123_cp_w12.html</vh>
+<v t="leo.20151229104702.97"><vh>@clean 40323123_cp_w12.html</vh>
 <v t="leo.20151229104702.98"><vh>檔案說明</vh></v>
 <v t="leo.20151229104702.99" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.100" a="E"><vh>body 標註</vh>
@@ -119,7 +119,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229104702.136"><vh>@clean 40323123_cp_w15.html</vh>
+<v t="leo.20151229104702.136" a="E"><vh>@clean 40323123_cp_w15.html</vh>
 <v t="leo.20151229104702.137"><vh>檔案說明</vh></v>
 <v t="leo.20151229104702.138" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.139" a="E"><vh>body 標註</vh>
@@ -184,9 +184,9 @@ g.es("user pelican 執行完畢")</t>
     &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 06 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;40323123 林祐生&lt;/h3&gt;
     &lt;h3&gt;第十二週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
@@ -229,7 +229,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習 A 學號: 40323223"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習 A 學號: 40323123"; }&lt;/style&gt;</t>
 <t tx="leo.20151229104702.109">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -286,21 +286,20 @@ content: "課程: 電腦輔助設計實習 A 學號: 40323223"; }&lt;/style&gt;<
 </t>
 <t tx="leo.20151229104702.116">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
 &lt;&lt; header &gt;&gt;
 
     &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 12 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 06 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
-    &lt;h3&gt;第十三週作業&lt;/h3&gt;		
+    &lt;h3&gt;40323123 林祐生&lt;/h3&gt;
+    &lt;h3&gt;第十二週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
-&lt;/section&gt;
 	
 </t>
 <t tx="leo.20151229104702.118">&lt;&lt; header &gt;&gt;
@@ -331,7 +330,7 @@ content: "課程: 電腦輔助設計實習 A 學號: 40323223"; }&lt;/style&gt;<
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt;
 </t>
 <t tx="leo.20151229104702.122">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -397,9 +396,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
     &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 26 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;40323123 林祐生&lt;/h3&gt;
     &lt;h3&gt;第十四週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
@@ -438,7 +437,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt;</t>
 <t tx="leo.20151229104702.135">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -503,9 +502,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
     &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 12 / 26 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
-    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;40323223 林祐生&lt;/h3&gt;
     &lt;h3&gt;第十四週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
@@ -544,7 +543,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323250"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt;</t>
 <t tx="leo.20151229104702.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
