@@ -119,7 +119,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229104702.136"><vh>@clean 40323123_cp_w15.html</vh>
+<v t="leo.20151229104702.136" a="E"><vh>@clean 40323123_cp_w15.html</vh>
 <v t="leo.20151229104702.137"><vh>檔案說明</vh></v>
 <v t="leo.20151229104702.138" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.139" a="E"><vh>body 標註</vh>
@@ -505,7 +505,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt
     &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
     &lt;h3&gt;40323223 林祐生&lt;/h3&gt;
-    &lt;h3&gt;第十四週作業&lt;/h3&gt;		
+    &lt;h3&gt;第十五週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
 &lt;/section&gt;
