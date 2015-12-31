@@ -289,7 +289,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
 
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/adjuster-base1.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/adjuster-base1.stl"&gt;&lt;/script&gt;
 
 零件2
 
@@ -321,14 +321,14 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
 
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/base2.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/base2.stl"&gt;&lt;/script&gt;
 
 
 零件4
 
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/connection2.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/connection2.stl"&gt;&lt;/script&gt;
 
 
 &lt;br /&gt;
