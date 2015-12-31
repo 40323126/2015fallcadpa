@@ -289,6 +289,18 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/cylinder2.stl"&gt;&lt;/script&gt;
 
+&lt;img src="https://copy.com/2nhhhCj8uIDJfxlX"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/iOGyRlkyYbW62bti"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/bTkHJ3rPY93TblSZ"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/8CiB1JYbvqwpo6Xv"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/XmDmZPPB8Gsrqzmg"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/poeISZJfi96AxufZ"&gt;&lt;/img&gt;
+
 &lt;br /&gt;
 </t>
 <t tx="leo.20151210155148.1">@language md
