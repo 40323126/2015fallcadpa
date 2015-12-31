@@ -1813,16 +1813,10 @@ ctx.fill()
 &lt;iframe src="cadp_w12_lecture.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="cadp_w12_lecture.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W11 g2.leo</title><link href="http://coursemdetw.github.io/reveal/g2_w11_1.html" rel="alternate"></link><updated>2015-11-26T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:coursemdetw.github.io,2015-11-26:reveal/g2_w11_1.html</id><summary type="html">&lt;p&gt;負責人  40323105  &lt;/p&gt;
-&lt;p&gt;零件5&lt;/p&gt;
+&lt;p&gt;零件1&lt;/p&gt;
 &lt;p&gt;零件檔案位於: &lt;a href="https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105"&gt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&lt;/a&gt;&lt;/p&gt;
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/cylinder2.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/adjuster-base1.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;img src="https://copy.com/2nhhhCj8uIDJfxlX"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/iOGyRlkyYbW62bti"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/bTkHJ3rPY93TblSZ"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/8CiB1JYbvqwpo6Xv"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/XmDmZPPB8Gsrqzmg"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/poeISZJfi96AxufZ"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;零件2&lt;/p&gt;
 &lt;p&gt;零件檔案位於: &lt;a href="https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105"&gt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&lt;/a&gt;&lt;/p&gt;
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/adjuster1.stl"&gt;&lt;/script&gt;
@@ -1834,6 +1828,16 @@ ctx.fill()
 &lt;p&gt;&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;負責人  40323106 &lt;/p&gt;
+&lt;p&gt;零件3&lt;/p&gt;
+&lt;p&gt;零件檔案位於: &lt;a href="https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105"&gt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&lt;/a&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/base2.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;零件4&lt;/p&gt;
+&lt;p&gt;零件檔案位於: &lt;a href="https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105"&gt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&lt;/a&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/connection2.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W11 g7.leo 測試</title><link href="http://coursemdetw.github.io/reveal/g7_w11_1.html" rel="alternate"></link><updated>2015-11-26T13:30:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-11-26:reveal/g7_w11_1.html</id><summary type="html">&lt;p&gt;是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行&lt;/p&gt;
 &lt;p&gt;以下可以引入 reveal.js 投影片&lt;/p&gt;
 &lt;p&gt;可以引入 vimeo 影片&lt;/p&gt;

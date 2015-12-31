@@ -284,24 +284,12 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 <t tx="leo.20151210145146.2">
 負責人  40323105  
 
-零件5
+零件1
 
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
 
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/cylinder2.stl"&gt;&lt;/script&gt;
-
-&lt;img src="https://copy.com/2nhhhCj8uIDJfxlX"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/iOGyRlkyYbW62bti"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/bTkHJ3rPY93TblSZ"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/8CiB1JYbvqwpo6Xv"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/XmDmZPPB8Gsrqzmg"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/poeISZJfi96AxufZ"&gt;&lt;/img&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/adjuster-base1.stl"&gt;&lt;/script&gt;
 
 零件2
 
@@ -322,6 +310,26 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
 
 &lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
+
+&lt;br /&gt;
+
+
+負責人  40323106 
+
+零件3
+
+零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
+
+
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/base2.stl"&gt;&lt;/script&gt;
+
+
+零件4
+
+零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323105/connection2.stl"&gt;&lt;/script&gt;
+
 
 &lt;br /&gt;
 </t>
