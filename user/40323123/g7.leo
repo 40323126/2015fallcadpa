@@ -25,8 +25,17 @@
 <v t="leo.20151214183241.5"><vh>@clean g7_w12_1.md</vh>
 <v t="leo.20151214183241.6"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.7" a="E"><vh>@clean g7_w13_1.md</vh>
+<v t="leo.20151214183241.7"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
+<v t="leo.20160104182129.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160104182723.1"><vh>@clean g7_w15_1.md</vh>
+<v t="leo.20160104182723.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160104185603.1" a="E"><vh>@clean g7_w16_1.md</vh>
+<v t="leo.20160104185603.2"><vh>其他內容</vh></v>
 </v>
 </v>
 </vnodes>
@@ -399,6 +408,219 @@ ctx.closePath()
 ctx.fillStyle = '#fff'
 ctx.fill()
 &lt;/script&gt;
+
+</t>
+<t tx="leo.20160104182129.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W14 g7 
+Date: 2015-12-14 13:30
+Category: G7
+Tags: leo editor 應用
+Slug: g7_w14_1
+Authors: 40323123
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160104182129.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+
+組員的頁面
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
+組長&lt;/a&gt; 40323123
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
+組員&lt;/a&gt; 40323131
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
+組員&lt;/a&gt; 40323154
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
+組員&lt;/a&gt; 40323137
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
+組員&lt;/a&gt; 40323143
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
+組員&lt;/a&gt; 40323145
+
+
+
+零件檔案位於: &lt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&gt;
+
+使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster_base.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/base.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/connection.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/cylinder.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/handle.stl"&gt;&lt;/script&gt;
+
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/hinge.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
+
+
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
+
+
+&lt;br /&gt;
+以下利用 Brython 語法, 在網頁繪圖:
+
+使用方法: &lt;http://www.brython.info/&gt;
+
+&lt;!-- 導入 brython_dist.js --&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 brython() --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
+# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
+# 以下採用 canvas 原始座標繪圖
+flag_w = canvas.width
+flag_h = canvas.height
+circle_x = flag_w/4
+circle_y = flag_h/4
+# 先畫滿地紅
+ctx.fillStyle='rgb(255, 0, 0)'
+ctx.fillRect(0,0,flag_w,flag_h)
+# 再畫青天
+ctx.fillStyle='rgb(0, 0, 150)'
+ctx.fillRect(0,0,flag_w/2,flag_h/2)
+# 畫十二道光芒白日
+ctx.beginPath()
+star_radius = flag_w/8
+angle = 0
+for i in range(24):
+    angle += 5*math.pi*2/12
+    toX = circle_x + math.cos(angle)*star_radius
+    toY = circle_y + math.sin(angle)*star_radius
+    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
+    if (i):
+        ctx.lineTo(toX, toY)
+    else:
+        ctx.moveTo(toX, toY)
+ctx.closePath()
+# 將填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+# 白日:藍圈
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為藍色
+ctx.fillStyle = 'rgb(0, 0, 149)'
+ctx.fill()
+# 白日:白心
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+&lt;/script&gt;
+
+</t>
+<t tx="leo.20160104182723.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W15 g7 OnShape 繪製
+Date: 2015-12-21 13:30
+Category: G7
+Tags: OnShape 應用
+Slug: g7_w15_1
+Authors: 40323123
+Summary: 讓組員各自利用OnShape進行繪畫並組立
+@others
+</t>
+<t tx="leo.20160104182723.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+
+組員的頁面
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
+組長&lt;/a&gt; 40323123
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
+組員&lt;/a&gt; 40323131
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
+組員&lt;/a&gt; 40323154
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
+組員&lt;/a&gt; 40323137
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
+組員&lt;/a&gt; 40323143
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
+組員&lt;/a&gt; 40323145
+
+
+OnShape組裝圖
+============
+組員畫的Onshape
+
+基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
+
+&lt;iframe width="420" height="315" src="https://copy.com/Nn6duGlEKuJECHUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="420" height="315" src="https://copy.com/HXKuqaNT4LOFUOzs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
+
+和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
+
+&lt;br /&gt;
+
+</t>
+<t tx="leo.20160104185603.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W16 g7 OnShape 繪製
+Date: 2015-12-31 13:30
+Category: G7
+Tags: OnShape 應用
+Slug: g7_w16_1
+Authors: 40323123
+Summary: 讓組員各自利用OnShape進行繪畫並組立
+@others
+</t>
+<t tx="leo.20160104185603.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+
+組員的頁面
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
+組長&lt;/a&gt; 40323123
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
+組員&lt;/a&gt; 40323131
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
+組員&lt;/a&gt; 40323154
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
+組員&lt;/a&gt; 40323137
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
+組員&lt;/a&gt; 40323143
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
+組員&lt;/a&gt; 40323145
+
+
+OnShape組裝圖
+============
+組員畫的Onshape
+
+基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
+
+&lt;iframe width="420" height="315" src="https://copy.com/Nn6duGlEKuJECHUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="420" height="315" src="https://copy.com/HXKuqaNT4LOFUOzs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
+
+和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
+
+&lt;br /&gt;
 
 </t>
 </tnodes>
