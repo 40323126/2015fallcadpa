@@ -31,7 +31,7 @@
 <v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
 <v t="leo.20160104182129.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182723.1"><vh>@clean g7_w15_1.md</vh>
+<v t="leo.20160104182723.1" a="E"><vh>@clean g7_w15_1.md</vh>
 <v t="leo.20160104182723.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104185603.1" a="E"><vh>@clean g7_w16_1.md</vh>
@@ -566,9 +566,9 @@ OnShape組裝圖
 
 基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
 
-&lt;iframe width="420" height="315" src="https://copy.com/Nn6duGlEKuJECHUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;
 
-&lt;iframe width="420" height="315" src="https://copy.com/HXKuqaNT4LOFUOzs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;
 
 
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
@@ -579,13 +579,13 @@ OnShape組裝圖
 
 </t>
 <t tx="leo.20160104185603.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W16 g7 OnShape 繪製
+Title: 2015 電腦輔助設計實習 CADPa W16 g7 OnShape 活動
 Date: 2015-12-31 13:30
 Category: G7
 Tags: OnShape 應用
 Slug: g7_w16_1
 Authors: 40323123
-Summary: 讓組員各自利用OnShape進行繪畫並組立
+Summary: 讓組員各自利用OnShape進行組立並做運動
 @others
 </t>
 <t tx="leo.20160104185603.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
@@ -611,14 +611,18 @@ OnShape組裝圖
 
 基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
 
-&lt;iframe width="420" height="315" src="https://copy.com/Nn6duGlEKuJECHUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;
 
-&lt;iframe width="420" height="315" src="https://copy.com/HXKuqaNT4LOFUOzs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;
 
 
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
 
 和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
+
+組裝完成後移動
+============
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/1Bk_dJQQ-jg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;br /&gt;
 
