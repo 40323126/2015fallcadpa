@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'))
+         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),(' my github', 'https://github.com/flyfucku/1108/'),(' my HW pages', 'http://flyfucku.github.io/1108/'),(' my youtube', 'https://www.youtube.com/channel/UCysgk6ysX-G_ECNw6FOoAIw'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
