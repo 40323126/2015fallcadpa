@@ -820,8 +820,8 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
 
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;自評75分&lt;/a&gt;
-    &lt;p&gt;網頁，投影片及影片皆完成&lt;/a&gt;
+    &lt;p&gt;自評60分&lt;/a&gt;
+    &lt;p&gt;投影片完成&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -895,11 +895,10 @@ cadp w12 講課內容投影片
     &lt;section&gt;
     &lt;h1&gt;作業任務&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;在Onshape上畫出各組員分配到的零件&lt;/li&gt;
-    &lt;li&gt;在Onshape上畫出所有零件組合圖&lt;/li&gt;
-    &lt;li&gt;作業步驟在下方影片中介紹&lt;/li&gt;
+    &lt;li&gt;計算 Nutcracker 機構有效運動距離&lt;/li&gt;
+    &lt;li&gt;在用Onshape畫出的零件上加上限制條件&lt;/li&gt;
     &lt;/ol&gt;		
-    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4532"&gt;2015 Fall CADP W15&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;
     &lt;/section&gt;
 
 &lt;/section&gt;</t>
