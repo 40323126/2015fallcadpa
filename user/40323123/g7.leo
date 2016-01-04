@@ -31,7 +31,7 @@
 <v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
 <v t="leo.20160104182129.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182723.1"><vh>@clean g7_w15_1.md</vh>
+<v t="leo.20160104182723.1" a="E"><vh>@clean g7_w15_1.md</vh>
 <v t="leo.20160104182723.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104185603.1" a="E"><vh>@clean g7_w16_1.md</vh>
@@ -566,9 +566,9 @@ OnShape組裝圖
 
 基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
 
-&lt;iframe width="420" height="315" src="https://copy.com/Nn6duGlEKuJECHUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;
 
-&lt;iframe width="420" height="315" src="https://copy.com/HXKuqaNT4LOFUOzs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;
 
 
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
@@ -611,9 +611,9 @@ OnShape組裝圖
 
 基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
 
-&lt;iframe width="420" height="315" src="https://copy.com/Nn6duGlEKuJECHUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;
 
-&lt;iframe width="420" height="315" src="https://copy.com/HXKuqaNT4LOFUOzs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;
 
 
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
