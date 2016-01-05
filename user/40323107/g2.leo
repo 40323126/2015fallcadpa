@@ -504,7 +504,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
 
-&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
+&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster1.stl"&gt;&lt;/script&gt;
 
@@ -677,12 +689,6 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
 
-&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster1.stl"&gt;&lt;/script&gt;
-
-零件繪製流程：&lt;br /&gt;
-
 &lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
 
 &lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
@@ -696,6 +702,10 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
 
 &lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
+
+
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster1.stl"&gt;&lt;/script&gt;
+
 
 &lt;br /&gt;
 
@@ -1076,7 +1086,20 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
 
-&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
+&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
+
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/adjuster1.stl"&gt;&lt;/script&gt;
 
