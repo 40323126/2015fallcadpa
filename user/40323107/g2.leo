@@ -996,7 +996,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/HANDLE_6.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/hinge2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
@@ -1010,7 +1010,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/HANDLE_6.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/piston2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
@@ -1202,14 +1202,28 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;負責人：40323105&lt;/span&gt; 
 
-&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;
+&lt;img src="https://copy.com/8iXBQF8cJhyxGQ8y"&gt;&lt;/img&gt;
 
-&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
+&lt;img src="https://copy.com/d0NoizYwAbrgnmkj"&gt;&lt;/img&gt;
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/fix-2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/148455279" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/148455280" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/148455283" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/148455282" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/148455281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/148455284" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/148455286" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144889041"&gt;My  viemo&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
 &lt;/p&gt;
 
 </t>
