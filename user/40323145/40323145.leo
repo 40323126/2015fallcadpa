@@ -25,8 +25,8 @@
 <v t="leo.20151121095153.1"><vh>有關 Brython</vh></v>
 <v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1"><vh>以下為投影片 ------------</vh></v>
-<v t="12.20160107133126.1"><vh>@button open html</vh>
-<v t="12.20160107133126.2"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="12.20160107133126.1" a="E"><vh>@button open html</vh>
+<v t="12.20160107133126.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="12.20160107133126.3"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.4" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.5" a="E"><vh>body 標註</vh>
@@ -50,7 +50,7 @@
 </v>
 </v>
 </v>
-<v t="12.20160107133126.17"><vh>@clean cadp_w11_simplest.html</vh>
+<v t="12.20160107133126.17" a="E"><vh>@clean cadp_w11_simplest.html</vh>
 <v t="12.20160107133126.18"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.19" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.20" a="E"><vh>body 標註</vh>
@@ -71,7 +71,7 @@
 </v>
 </v>
 </v>
-<v t="12.20160107133126.30"><vh>@clean cadp_w12_simplest.html</vh>
+<v t="12.20160107133126.30" a="E"><vh>@clean cadp_w12_simplest.html</vh>
 <v t="12.20160107133126.31"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.32" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.33" a="E"><vh>body 標註</vh>
@@ -101,7 +101,7 @@
 </v>
 </v>
 </v>
-<v t="12.20160107133126.49"><vh>@clean cadp_w15_simplest.html</vh>
+<v t="12.20160107133126.49" a="E"><vh>@clean cadp_w15_simplest.html</vh>
 <v t="12.20160107133126.50"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.51" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.52" a="E"><vh>body 標註</vh>
@@ -128,13 +128,13 @@
 <v t="12.20160107133126.65" a="E"><vh>body 標註</vh>
 <v t="12.20160107133126.66" a="E"><vh>div class="reveal"</vh>
 <v t="12.20160107133126.67" a="E"><vh>div class="slides"</vh>
-<v t="12.20160107133126.68" a="E"><vh>第 16 週</vh>
+<v t="12.20160107133126.68"><vh>第 16 週</vh>
 <v t="12.20160107133126.71"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="12.20160107133126.70" a="E"><vh>作業任務</vh>
+<v t="12.20160107133126.70"><vh>作業任務</vh>
 <v t="12.20160107133126.71"></v>
 </v>
-<v t="12.20160107133126.72" a="E"><vh>成績</vh>
+<v t="12.20160107133126.72"><vh>成績</vh>
 <v t="12.20160107133126.73"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
 </v>
@@ -192,7 +192,7 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.16">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -258,7 +258,7 @@ cadp w12 講課內容投影片
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h1&gt;第 13 週作業&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
-    &lt;p&gt;40323143陳靖廷 12/09&lt;/p&gt;
+    &lt;p&gt;40323145曾嘉威 12/09&lt;/p&gt;
     &lt;/section&gt;
     
 &lt;/section&gt;
@@ -280,12 +280,12 @@ cadp w12 講課內容投影片
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.27">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;自評70分&lt;/a&gt;
+    &lt;p&gt;自評60分&lt;/a&gt;
     &lt;p&gt;檔案、影片皆完成&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -294,7 +294,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.29">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -359,7 +359,7 @@ cadp w12 講課內容投影片
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h1&gt;第 12 週作業&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
-    &lt;p&gt;40323143陳靖廷 12/09&lt;/p&gt;
+    &lt;p&gt;40323145曾嘉威 12/09&lt;/p&gt;
     &lt;/section&gt;
     
 &lt;/section&gt;
@@ -426,7 +426,7 @@ cadp w12 講課內容投影片
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.44">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;修改2015fallcadpa內容&lt;/h1&gt;
@@ -439,7 +439,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.46">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
@@ -518,7 +518,7 @@ cadp w12 講課內容投影片
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h1&gt;第 15 週作業&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
-    &lt;p&gt;40323143陳靖廷 12/28&lt;/p&gt;
+    &lt;p&gt;40323145曾嘉威 12/28&lt;/p&gt;
     &lt;/section&gt;
     
 &lt;/section&gt;
@@ -545,7 +545,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
 
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;自評75分&lt;/a&gt;
+    &lt;p&gt;自評70分&lt;/a&gt;
     &lt;p&gt;網頁，投影片及影片皆完成&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -625,7 +625,7 @@ cadp w12 講課內容投影片
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
     &lt;h1&gt;第 16 週作業&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
-    &lt;p&gt;40323143陳靖廷 12/31&lt;/p&gt;
+    &lt;p&gt;40323145曾嘉威 12/31&lt;/p&gt;
     &lt;/section&gt;
     
 &lt;/section&gt;
@@ -651,7 +651,7 @@ cadp w12 講課內容投影片
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.72">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
@@ -665,7 +665,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323143"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323145"; }&lt;/style&gt;</t>
 <t tx="12.20160107133126.74">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
