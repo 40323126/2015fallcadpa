@@ -525,6 +525,11 @@ ctx.fill()
 &lt;p&gt;&lt;a href="https://vimeo.com/150927526"&gt;CONNECTION&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/150927524"&gt;HANDLE&lt;/a&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category><category term="OnShape 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa G8 Creo 材料繪製</title><link href="http://coursemdetw.github.io/reveal/g8_w14.html" rel="alternate"></link><updated>2015-12-12T13:30:00+08:00</updated><author><name>g8</name></author><id>tag:coursemdetw.github.io,2015-12-12:reveal/g8_w14.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案及操作影片, 進行分組報告零件檢視:&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h1&gt;&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker 機構零件&lt;/a&gt;&lt;/h1&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h2&gt;Nutcracker-Assembly&lt;/h2&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150985599" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;BASE&lt;/p&gt;
 &lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1base.stl"&gt;&lt;/script&gt;
 
