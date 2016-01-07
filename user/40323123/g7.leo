@@ -19,16 +19,16 @@
 </v>
 <v t="leo.20151214183241.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151214183241.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151214183241.3"><vh>@clean g7_w11_1.md</vh>
+<v t="leo.20151214183241.3" a="E"><vh>@clean g7_w11_1.md</vh>
 <v t="leo.20151214183241.4"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.5"><vh>@clean g7_w12_1.md</vh>
+<v t="leo.20151214183241.5" a="E"><vh>@clean g7_w12_1.md</vh>
 <v t="leo.20151214183241.6"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.7"><vh>@clean g7_w13_1.md</vh>
+<v t="leo.20151214183241.7" a="E"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
+<v t="leo.20160104182129.1" a="E"><vh>@clean g7_w14_1.md</vh>
 <v t="leo.20160104182129.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104182723.1" a="E"><vh>@clean g7_w15_1.md</vh>
@@ -299,19 +299,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151214183241.8">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
+
 
 
 
@@ -422,19 +410,6 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20160104182129.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 
@@ -545,19 +520,6 @@ Summary: 讓組員各自利用OnShape進行繪畫並組立
 </t>
 <t tx="leo.20160104182723.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 OnShape組裝圖
@@ -590,39 +552,42 @@ Summary: 讓組員各自利用OnShape進行組立並做運動
 </t>
 <t tx="leo.20160104185603.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
+第十六週課程:&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;
+ 
+組員:&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/2015cp_hw_w16.html"&gt;40323123 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/2015cp_hw_w16.html"&gt;40323131 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/2015cp_hw_w16.html"&gt;40323137 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/2015cp_hw_w16.html"&gt;40323143 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/2015cp_hw_w16.html"&gt;40323145 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/2015cp_hw_w16.html"&gt;40323154 W16&lt;/a&gt;&lt;br /&gt;
 
-OnShape組裝圖
-============
-組員畫的Onshape
+計算 Nutcracker 機構有效運動距離:
+    
+    老師提到的方法:
 
-基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
+    1.實際利用 Onshape 中的組立, 移動 piston 零件, 靠目測概略決定 piston 的有效行程. (目測法, 只能得到大概的行程範圍)
+    
+    2.利用 Solvespace 繪製 2D 約束圖, 然後利用約束點在線或圓上的方式, 以圖解法解出有效行程
+    
+    3.利用 Jupyter 與 Python3 的 sympy 模組, 先進行符號式推導, 然後再利用數值分析解出 piston 的有效行程
+    
+    4.採用基因演算法
 
-&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;
+詳細內容請參考&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;
 
-&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;
+在用Onshape畫出的零件上加上限制條件:
 
+1.點選想要加限制條件的定義&lt;br /&gt;
+&lt;img src="user\40323143\content/w16-1.jpg" width="500" alt="w16-1"&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;img src="user\40323143\content/w16-4.jpg" width="500" alt="w16-4"&gt;&lt;/img&gt;&lt;br /&gt;
+2.點Limits &lt;br /&gt;
+&lt;img src="user\40323143\content/w16-2.jpg" width="500" alt="w16-2"&gt;&lt;/img&gt;&lt;br /&gt;
+3.填入計算好的限制條件&lt;br /&gt;
+&lt;img src="user\40323143\content/w16-3.jpg" width="500" alt="w16-3"&gt;&lt;/img&gt;&lt;br /&gt;
+    
 
-使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
-
-和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
-
-組裝完成後移動
-============
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/1Bk_dJQQ-jg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;br /&gt;
 

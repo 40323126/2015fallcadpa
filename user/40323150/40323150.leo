@@ -179,10 +179,10 @@
 </v>
 <v t="leo.20160106230211.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20160106230211.2"><vh>檔案說明</vh></v>
-<v t="leo.20160106230211.3"><vh>html 標註</vh>
-<v t="leo.20160106230211.4"><vh>body 標註</vh>
-<v t="leo.20160106230211.5"><vh>div class="reveal"</vh>
-<v t="leo.20160106230211.6"><vh>div class="slides"</vh>
+<v t="leo.20160106230211.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160106230211.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160106230211.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160106230211.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160106230211.7"><vh>封面</vh></v>
 <v t="leo.20160106230211.8"><vh>W8</vh></v>
 <v t="leo.20160106230211.9"><vh>結束</vh></v>
@@ -190,6 +190,48 @@
 </v>
 <v t="leo.20160106230211.10"><vh>script</vh></v>
 <v t="leo.20160106230211.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107143449.1" a="E"><vh>@clean simplest9.html</vh>
+<v t="leo.20160107143449.2"><vh>檔案說明</vh></v>
+<v t="leo.20160107143449.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160107143449.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160107143449.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160107143449.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160107143449.7" a="E"><vh>封面</vh>
+<v t="leo.20160107143449.14"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160107143449.9" a="E"><vh>W9</vh>
+<v t="leo.20160107143449.14"></v>
+</v>
+<v t="leo.20160107143449.11" a="E"><vh>結束</vh>
+<v t="leo.20160107143449.14"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107143449.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107152555.1"><vh>@clean simplest10.html</vh>
+<v t="leo.20160107152555.2"><vh>檔案說明</vh></v>
+<v t="leo.20160107152555.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160107152555.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160107152555.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160107152555.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160107152555.7" a="E"><vh>封面</vh>
+<v t="leo.20160107152555.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160107152555.9" a="E"><vh>W10</vh>
+<v t="leo.20160107152555.12"></v>
+</v>
+<v t="leo.20160107152555.11" a="E"><vh>結束</vh>
+<v t="leo.20160107152555.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107152555.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -207,6 +249,9 @@
 <v t="leo.20160106230411.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo.20160106230418.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="leo.20160106230949.1"><vh>@edit 2015cphwwall.md</vh></v>
+<v t="leo.20160107152647.1"><vh>@edit 2015cphww9.md</vh></v>
+<v t="leo.20160107153321.1"><vh>@edit 2015cphww10.md</vh></v>
+<v t="leo.20160107153450.1"><vh>@edit 2015cphww11.md</vh></v>
 </v>
 </v>
 <v t="leo.20151210143156.1" a="E"><vh>@path ./../../</vh>
@@ -575,6 +620,12 @@ Summary: 讓組員利用Creo繪製 Nutcracker 機構零件
 使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
 
  &lt;h1&gt;&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker 機構零件&lt;/a&gt;&lt;/h1&gt;
+ 
+ &lt;h2&gt;Nutcracker-Assembly&lt;/h2&gt;
+ 
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150985599" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  
  BASE
  
@@ -2030,5 +2081,237 @@ Summary: 讓組員利用Onshape繪製 Nutcracker 機構零件
 
 
 </t>
+<t tx="leo.20160107143449.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160107143449.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160107143449.14">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號:40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160107143449.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160107143449.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160107143449.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160107143449.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160107143449.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107143449.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107143449.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section id="hw-task-one"&gt;
+    &lt;p&gt;&lt;font size="5" color="ff8000"&gt;&lt;marquee direction="down" width="400" height="200" behavior="alternate" style="border:solid"&gt;
+  &lt;marquee behavior="alternate"&gt;
+    版本更新於XXX年YY月ZZ日
+  &lt;/marquee&gt;
+&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160107143449.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-9&lt;/h1&gt;
+            &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.2015 Fall CADP W9 總結&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4281#more-4281"&gt;2015 Fall CADP W8 總結&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;2.CADP-二甲組員連結:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html"&gt;2015 電腦輔助設計實習甲班 W7 示範&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;學習到這裡，終於也快經過半個學期了，總結這半學期所學到的東西也不少，時間很快就流逝掉了，以後還得多加努力!!!&lt;/p&gt;
+            &lt;p&gt;自評:90&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160107152555.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160107152555.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160107152555.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號:40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160107152555.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160107152555.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160107152555.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160107152555.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160107152555.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107152555.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160107152555.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section id="hw-task-one"&gt;
+    &lt;p&gt;&lt;font size="5"&gt;&lt;marquee direction="down" width="400" height="200" behavior="alternate" style="border:solid"&gt;
+  &lt;marquee behavior="alternate"&gt;
+    版本更新於XXX年YY月ZZ日
+  &lt;/marquee&gt;
+&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160107152555.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-9&lt;/h1&gt;
+            &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.2015 Fall CADP W9 總結&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4281#more-4281"&gt;2015 Fall CADP W8 總結&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;2.CADP-二甲組員連結:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html"&gt;2015 電腦輔助設計實習甲班 W7 示範&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;學習到這裡，終於也快經過半個學期了，總結這半學期所學到的東西也不少，時間很快就流逝掉了，以後還得多加努力!!!&lt;/p&gt;
+            &lt;p&gt;自評:90&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
