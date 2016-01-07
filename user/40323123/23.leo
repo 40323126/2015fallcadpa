@@ -77,7 +77,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229104702.110"><vh>@clean 40323123_cp_w13.html</vh>
+<v t="leo.20151229104702.110" a="E"><vh>@clean 40323123_cp_w13.html</vh>
 <v t="leo.20151229104702.111"><vh>檔案說明</vh></v>
 <v t="leo.20151229104702.112" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.113" a="E"><vh>body 標註</vh>
@@ -119,7 +119,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229104702.136" a="E"><vh>@clean 40323123_cp_w15.html</vh>
+<v t="leo.20151229104702.136"><vh>@clean 40323123_cp_w15.html</vh>
 <v t="leo.20151229104702.137"><vh>檔案說明</vh></v>
 <v t="leo.20151229104702.138" a="E"><vh>html 標註</vh>
 <v t="leo.20151229104702.139" a="E"><vh>body 標註</vh>
@@ -330,7 +330,7 @@ content: "課程: 電腦輔助設計實習 A 學號: 40323123"; }&lt;/style&gt;<
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt;
+content: "課程: 電腦輔助設計實習A 學號: 40323123"; }&lt;/style&gt;
 </t>
 <t tx="leo.20151229104702.122">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -437,7 +437,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323123"; }&lt;/style&gt;</t>
 <t tx="leo.20151229104702.135">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -504,7 +504,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt
     &lt;br&gt;
     &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
-    &lt;h3&gt;40323223 林祐生&lt;/h3&gt;
+    &lt;h3&gt;40323123 林祐生&lt;/h3&gt;
     &lt;h3&gt;第十五週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
@@ -543,7 +543,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323123"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323123"; }&lt;/style&gt;</t>
 <t tx="leo.20151229104702.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
