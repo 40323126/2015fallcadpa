@@ -37,7 +37,8 @@ LINKS = (
          ('組員郭世欣40323137','http://2015fallhw.github.io/2015fallcadpa/user/40323137/'),
          ('組員陳靖廷40323143','http://2015fallhw.github.io/2015fallcadpa/user/40323143/'),
          ('組員蔡俊佶40323154','http://2015fallhw.github.io/2015fallcadpa/user/40323154/'),
-         ('組員曾家威40323145','http://2015fallhw.github.io/2015fallcadpa/user/40323145/'),)
+         ('組員曾家威40323145','http://2015fallhw.github.io/2015fallcadpa/user/40323145/'),
+         )
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),

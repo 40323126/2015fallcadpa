@@ -19,13 +19,13 @@
 </v>
 <v t="leo.20151214183241.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151214183241.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151214183241.3"><vh>@clean g7_w11_1.md</vh>
+<v t="leo.20151214183241.3" a="E"><vh>@clean g7_w11_1.md</vh>
 <v t="leo.20151214183241.4"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.5"><vh>@clean g7_w12_1.md</vh>
+<v t="leo.20151214183241.5" a="E"><vh>@clean g7_w12_1.md</vh>
 <v t="leo.20151214183241.6"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.7"><vh>@clean g7_w13_1.md</vh>
+<v t="leo.20151214183241.7" a="E"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104182129.1" a="E"><vh>@clean g7_w14_1.md</vh>
