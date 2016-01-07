@@ -28,7 +28,7 @@
 <v t="leo.20151214183241.7"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
+<v t="leo.20160104182129.1" a="E"><vh>@clean g7_w14_1.md</vh>
 <v t="leo.20160104182129.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104182723.1" a="E"><vh>@clean g7_w15_1.md</vh>
@@ -299,19 +299,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151214183241.8">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
+
 
 
 
@@ -422,19 +410,6 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20160104182129.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 
@@ -545,19 +520,6 @@ Summary: 讓組員各自利用OnShape進行繪畫並組立
 </t>
 <t tx="leo.20160104182723.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 OnShape組裝圖
@@ -590,19 +552,6 @@ Summary: 讓組員各自利用OnShape進行組立並做運動
 </t>
 <t tx="leo.20160104185603.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 OnShape組裝圖
