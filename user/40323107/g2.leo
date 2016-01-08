@@ -806,9 +806,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/handle2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/WaqT4DCZEWDNqdEd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MZImRCtTz4J2qwwd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PJKCqTtT8yL68IwE"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/O48s3BqIx7KpHEzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/NxjgbRbB4CxuLBEh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/OimpsbLzAVRSruMR"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/joBlLgp24jwmB9Un"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
