@@ -19,19 +19,19 @@
 </v>
 <v t="leo.20151214183241.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151214183241.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151214183241.3" a="E"><vh>@clean g7_w11_1.md</vh>
+<v t="leo.20151214183241.3"><vh>@clean g7_w11_1.md</vh>
 <v t="leo.20151214183241.4"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.5" a="E"><vh>@clean g7_w12_1.md</vh>
+<v t="leo.20151214183241.5"><vh>@clean g7_w12_1.md</vh>
 <v t="leo.20151214183241.6"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20151214183241.7" a="E"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182129.1" a="E"><vh>@clean g7_w14_1.md</vh>
+<v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
 <v t="leo.20160104182129.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182723.1" a="E"><vh>@clean g7_w15_1.md</vh>
+<v t="leo.20160104182723.1"><vh>@clean g7_w15_1.md</vh>
 <v t="leo.20160104182723.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104185603.1" a="E"><vh>@clean g7_w16_1.md</vh>
@@ -307,24 +307,60 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
 
+繪製Nutcracker 機構與組裝
+
+零件adjuster
+
+&lt;img src="https://copy.com/scRqAnyqFnoGHf4O"&gt;
+&lt;iframe src="https://player.vimeo.com/video/148461711" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
 
+零件adjuster_base
+&lt;img src="https://copy.com/wCeBt4IfP0T2VmL7"&gt;
+&lt;iframe src="https://player.vimeo.com/video/148457759" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster_base.stl"&gt;&lt;/script&gt;
 
+
+零件base
+
+&lt;img src="https://copy.com/xyZ1CzoQ7DIU01FU"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PGPUGZul3Uw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/base.stl"&gt;&lt;/script&gt;
 
+零件connection
+
+&lt;img src="https://copy.com/pR6Ls2fAeyv6n2gb"&gt;
+&lt;iframe src="https://player.vimeo.com/video/149249005" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/connection.stl"&gt;&lt;/script&gt;
 
+零件cylinder
+
+&lt;img src="https://copy.com/gscxbmHWHuGPHmsO"&gt;
+&lt;iframe src="https://player.vimeo.com/video/149247675" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/cylinder.stl"&gt;&lt;/script&gt;
 
+零件handle
+
+&lt;img src="https://copy.com/fiNf9rC40EYLXj47"&gt;
+&lt;iframe src="https://player.vimeo.com/video/150400339" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/handle.stl"&gt;&lt;/script&gt;
 
+零件hinge
 
+&lt;img src="https://copy.com/BAV6csvkC7jkb1sP"&gt;
+&lt;iframe src="https://player.vimeo.com/video/148457739" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/hinge.stl"&gt;&lt;/script&gt;
+
+零件piston
+
+&lt;img src="https://copy.com/JPg9zGxcGPgT7V4H"&gt;
 
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
 
+組裝
 
+&lt;img src="https://copy.com/OaG0cfYIWFaoIDUg"&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/c6HSNTaFVQg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
 
 
