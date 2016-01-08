@@ -316,9 +316,17 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/adjuster-base1.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/iQ0Aa0rm3RTKX4LM"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PnZEoVMlVC8X6Xz7"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/vBcdUMSBITXSB7Ja"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/BsXjpAAAtm7lm2Jh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3Cl8C7MGzn8pbfyd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/AQe4NfFSizI2t30p"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
