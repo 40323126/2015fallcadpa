@@ -290,7 +290,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151210145146.2">以下為組員介紹
 組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -485,7 +485,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151210155148.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -684,7 +684,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151210160036.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -915,7 +915,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151231142439.1">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -1049,9 +1049,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/hinge2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/T0QCTFgjiUWm3TvJ"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/6yyaJTEEzGFySOJy"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Dciwn9R8YL1SEyQl"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/i9NDYDc64KX4Wf91"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3jZfjhorExwyX66E"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -1063,9 +1069,23 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/piston2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/R8Ujayd4ikshFD8t"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/rQaTiZIHpYtSDk6j"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/XPexMfrmjIp2jVuZ"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/oo4SPETInbb8VaO1"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/hZtU9OpkeVijTJ4J"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/xWWVOF88GzUgkAim"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/g7pu8NvGlCxUPD4D"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/1YuujCehSNzTmxb6"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Elc4KJh7BEMAAPQQ"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -1091,7 +1111,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151231142517.1">以下為組員介紹
 組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -1281,7 +1301,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 </t>
 <t tx="leo.20151231142541.1">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
