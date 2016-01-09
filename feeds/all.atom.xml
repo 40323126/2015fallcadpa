@@ -2049,7 +2049,7 @@ ctx.closePath()
 # 填色設為白色
 ctx.fillStyle = '#fff'
 ctx.fill()
-&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 g7.leo 測試</title><link href="http://coursemdetw.github.io/reveal/g7_w12_1.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/g7_w12_1.html</id><summary type="html">&lt;p&gt;修改start.bat檔的pip install pelican Markdown路徑、
+&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 g7 修改start位置、fix設定</title><link href="http://coursemdetw.github.io/reveal/g7_w12_1.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/g7_w12_1.html</id><summary type="html">&lt;p&gt;修改start.bat檔的pip install pelican Markdown路徑、
 更改啟動jupyter的路徑、
 和新增fix.bat內，在該路徑內新增leo-editor-broke-abbrev。&lt;/p&gt;
 &lt;ol&gt;
