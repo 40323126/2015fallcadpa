@@ -10,11 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151121093513.1" a="E"><vh>@settings</vh>
+<v t="leo.20151121093513.1"><vh>@settings</vh>
 <v t="leo.20151121093513.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151121093513.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20151121093509.2" a="E"><vh>個人專案系統</vh>
+<v t="leo.20151121093509.2"><vh>個人專案系統</vh>
 <v t="leo.20151121095223.1"><vh>設置步驟</vh></v>
 <v t="leo.20151121110456.1" a="E"><vh>以下為參考用的 batch 檔案</vh>
 <v t="leo.20151121110509.1"><vh>特別注意</vh></v>
@@ -23,7 +23,7 @@
 <v t="leo.20151121110402.1"><vh>stop.bat</vh></v>
 </v>
 <v t="leo.20151121095153.1"><vh>有關 Brython</vh></v>
-<v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
+<v t="leo.20160109231725.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20160109182457.1"><vh>@edit 40323113_cp_w1_p.html</vh></v>
 <v t="leo.20160109182502.1"><vh>@edit 40323113_cp_w2_p.html</vh></v>
@@ -149,10 +149,6 @@ copy pelican 節點
 refresh 各資料節點內容, 確定可以進行編輯存檔
 
 測試 user-pelican 按鈕是否可以正確將 .md 檔案轉為靜態網頁</t>
-<t tx="leo.20151121095254.1">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
-g.es("user pelican 執行完畢")</t>
 <t tx="leo.20151121095330.1"></t>
 <t tx="leo.20151121095422.1"></t>
 <t tx="leo.20151121095422.2"></t>
@@ -251,5 +247,9 @@ EXIT
 <t tx="leo.20151121110509.1">若在 Leo Editor 以 @edit 編輯 .bat 檔案, 必須將 @language batch 刪除, 否則 .bat 無法正確執行
 
 發生此一錯誤的原因不明</t>
+<t tx="leo.20160109231725.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
 </tnodes>
 </leo_file>
