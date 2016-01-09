@@ -40,7 +40,7 @@
 <v t="leo.20160107195811.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20160107195811.2"><vh>@clean 40323101_cp_w11.html</vh>
 <v t="leo.20160107195811.3"><vh>檔案說明</vh></v>
-<v t="leo.20160107195811.4"><vh>html 標註</vh>
+<v t="leo.20160107195811.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160107195811.5" a="E"><vh>body 標註</vh>
 <v t="leo.20160107195811.6" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160107195811.7" a="E"><vh>div class="slides"</vh>
@@ -353,7 +353,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323101"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習 A 學號: 40323120"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習 A 學號: 40323101"; }&lt;/style&gt;</t>
 <t tx="leo.20160107195811.27">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -463,7 +463,7 @@ content: "課程: 電腦輔助設計實習 A 學號: 40323120"; }&lt;/style&gt;<
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;
+content: "課程: 電腦輔助設計實習A 學號: 40323101"; }&lt;/style&gt;
 </t>
 <t tx="leo.20160107195811.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -589,7 +589,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323101"; }&lt;/style&gt;</t>
 <t tx="leo.20160107195811.53">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -707,7 +707,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323101"; }&lt;/style&gt;</t>
 <t tx="leo.20160107195811.66">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -821,7 +821,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323101"; }&lt;/style&gt;</t>
 <t tx="leo.20160107195811.79">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -946,7 +946,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323120"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323101"; }&lt;/style&gt;</t>
 <t tx="leo.20160107195811.92">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
