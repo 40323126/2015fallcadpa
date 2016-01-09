@@ -134,7 +134,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151231154246.1"><vh>@clean cadp_w16_simplest.html</vh>
+<v t="leo.20151231154246.1" a="E"><vh>@clean cadp_w16_simplest.html</vh>
 <v t="leo.20151231154246.2"><vh>檔案說明</vh></v>
 <v t="leo.20151231154246.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151231154246.4" a="E"><vh>body 標註</vh>
@@ -872,7 +872,7 @@ cadp w12 講課內容投影片
     &lt;li&gt;在Onshape把零件組好&lt;/li&gt;
     &lt;li&gt;在Onshape組件中，測試最佳運動規劃&lt;/li&gt;
     &lt;/ol&gt;		
-    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4532"&gt;W15&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;W16&lt;/a&gt;
     &lt;/section&gt;
 
 &lt;/section&gt;</t>
@@ -1160,7 +1160,7 @@ cadp w12 講課內容投影片
     &lt;li&gt;用Solve space軟體算出碰撞點&lt;/li&gt;
     &lt;li&gt;登錄期末成績，把之前的報告做完&lt;/li&gt;
     &lt;/ol&gt;		
-    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4532"&gt;W15&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;W16&lt;/a&gt;
     &lt;/section&gt;
 
 &lt;/section&gt;</t>
