@@ -896,7 +896,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323103"; }&lt;/style&gt;</
     &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;br&gt;
     &lt;h3&gt;40323103 林意欣&lt;/h3&gt;
-    &lt;h3&gt;第十七週作業/h3&gt;		
+    &lt;h3&gt;第十七週作業&lt;/h3&gt;		
     &lt;/section&gt;
     
 &lt;/section&gt;
