@@ -1,5 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPA 作業主頁</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g8.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-10T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPa W13 G8.leo 測試</title><link href="http://coursemdetw.github.io/reveal/g8_w13_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>g8</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g8_w13_1.html</id><summary type="html">&lt;p&gt;是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL CADPA 作業主頁</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/g8.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-13T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計實習 CADPa G8 Openshape 材料繪製</title><link href="http://coursemdetw.github.io/reveal/g8_w15.html" rel="alternate"></link><updated>2015-12-13T13:30:00+08:00</updated><author><name>g8</name></author><id>tag:coursemdetw.github.io,2015-12-13:reveal/g8_w15.html</id><summary type="html">&lt;h1&gt;&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker 機構零件&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h2&gt;Nutcracker機構組裝影片:&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150931846" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150932966"&gt;BASE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927520"&gt;HINGE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927515"&gt;ADJUSTER BASE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927519"&gt;CYLINDER&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927521"&gt;PISTON&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150933506"&gt;ADJUSTER&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927526"&gt;CONNECTION&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927524"&gt;HANDLE&lt;/a&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category><category term="OnShape 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa G8 Creo 材料繪製</title><link href="http://coursemdetw.github.io/reveal/g8_w14.html" rel="alternate"></link><updated>2015-12-12T13:30:00+08:00</updated><author><name>g8</name></author><id>tag:coursemdetw.github.io,2015-12-12:reveal/g8_w14.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案及操作影片, 進行分組報告零件檢視:&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h1&gt;&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker 機構零件&lt;/a&gt;&lt;/h1&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h2&gt;Nutcracker-Assembly&lt;/h2&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150985599" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;BASE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1base.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805720" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HINGE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt01.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805725" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ADJUSTER BASE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt03.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805726" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;CYLINDER&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt09.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805722" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;PISTON&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/2prt02.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805724" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ADJUSTER&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt04.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805723" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;CONNECTION&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt05.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150808153" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HANDLE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt06.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150808152" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+以下利用 Brython 語法, 在網頁繪圖:&lt;/p&gt;
+&lt;p&gt;使用方法: &lt;a href="http://www.brython.info/"&gt;http://www.brython.info/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 導入 brython_dist.js --&gt;
+
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 brython() --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
+# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
+# 以下採用 canvas 原始座標繪圖
+flag_w = canvas.width
+flag_h = canvas.height
+circle_x = flag_w/4
+circle_y = flag_h/4
+# 先畫滿地紅
+ctx.fillStyle='rgb(255, 0, 0)'
+ctx.fillRect(0,0,flag_w,flag_h)
+# 再畫青天
+ctx.fillStyle='rgb(0, 0, 150)'
+ctx.fillRect(0,0,flag_w/2,flag_h/2)
+# 畫十二道光芒白日
+ctx.beginPath()
+star_radius = flag_w/8
+angle = 0
+for i in range(24):
+    angle += 5*math.pi*2/12
+    toX = circle_x + math.cos(angle)*star_radius
+    toY = circle_y + math.sin(angle)*star_radius
+    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
+    if (i):
+        ctx.lineTo(toX, toY)
+    else:
+        ctx.moveTo(toX, toY)
+ctx.closePath()
+# 將填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+# 白日:藍圈
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為藍色
+ctx.fillStyle = 'rgb(0, 0, 149)'
+ctx.fill()
+# 白日:白心
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+&lt;/script&gt;
+
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;零件檔案位於: &lt;a href="https://github.com/40323150/2015cadp/tree/gh-pages/images"&gt;https://github.com/40323150/2015cadp/tree/gh-pages/images&lt;/a&gt;&lt;br/&gt;
+使用方法說明: &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;https://help.github.com/articles/3d-file-viewer/&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa G8 成員介紹</title><link href="http://coursemdetw.github.io/reveal/g8_introduce.html" rel="alternate"></link><updated>2015-12-11T13:30:00+08:00</updated><author><name>g8</name></author><id>tag:coursemdetw.github.io,2015-12-11:reveal/g8_introduce.html</id><summary type="html">&lt;h1&gt;CADPa Group8 Member:&lt;/h1&gt;
+
+&lt;p&gt;40323129 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323129"&gt;翁振端&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323130 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323130"&gt;康明宗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323132 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323132"&gt;張哲銘&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323138 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323138"&gt;郭鐙元&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323149 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323149"&gt;楊智堯&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;40323150 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150"&gt;詹晟弘&lt;/a&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W13 G8.leo 測試</title><link href="http://coursemdetw.github.io/reveal/g8_w13.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>g8</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g8_w13.html</id><summary type="html">&lt;p&gt;是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行&lt;/p&gt;
 &lt;p&gt;以下可以引入 reveal.js 投影片&lt;/p&gt;
 &lt;p&gt;可以引入 vimeo 影片&lt;/p&gt;
 &lt;p&gt;可以導入組員的 Jupyter notebook&lt;/p&gt;
