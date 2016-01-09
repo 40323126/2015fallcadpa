@@ -19,13 +19,13 @@
 </v>
 <v t="leo.20151214183241.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151214183241.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151214183241.3"><vh>@clean g7_w11_1.md</vh>
+<v t="leo.20151214183241.3" a="E"><vh>@clean g7_w11_1.md</vh>
 <v t="leo.20151214183241.4"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.5"><vh>@clean g7_w12_1.md</vh>
+<v t="leo.20151214183241.5" a="E"><vh>@clean g7_w12_1.md</vh>
 <v t="leo.20151214183241.6"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.7"><vh>@clean g7_w13_1.md</vh>
+<v t="leo.20151214183241.7" a="E"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
@@ -169,7 +169,7 @@ ctx.fill()
 &lt;/script&gt;
 </t>
 <t tx="leo.20151214183241.5">@language md
-Title: 2015 電腦輔助設計實習 CADPa W12 g7.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W12 g7 修改start位置、fix設定
 Date: 2015-12-03 13:30
 Category: G7
 Tags: leo editor 應用
@@ -177,46 +177,26 @@ Slug: g7_w12_1
 Authors: 40323123
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
-<t tx="leo.20151214183241.6">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
+<t tx="leo.20151214183241.6">修改start.bat檔的pip install pelican Markdown路徑、
+更改啟動jupyter的路徑、
+和新增fix.bat內，在該路徑內新增leo-editor-broke-abbrev。
 
-以下可以引入 reveal.js 投影片
+1. 在課程網站中，下載fix.zip壓縮檔。
 
-可以引入 vimeo 影片
+2. 在leo-editor的gitcub下載leo-editor-broke-abbrev.zip壓縮檔，放在fix資料夾。
 
-可以導入組員的 Jupyter notebook
+3. 打開\Ana3_lite2\data\SciTE\SciTE.exe
 
-也可以加入其他 html 格式或 md 格式的心得報告
+4. SciTE開啟fix.bat，新增copy leo-editor-broke-abbrev C:\Ana3_2015\data\。
 
-有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置
+5. SciTE開啟start.bat，內容中，啟動Jupyter從原本的notebook，改成tmp內執行。
 
-基本的工作模式:
+6. 在start.bat檔內，將pip install ( http:/ /140.130.17.17/public/leo-editor-master.zip )
+   改成leo-editor-broke-abbrev.zip。
 
-&lt;ol&gt;
+7. 打開fix.bat ，就會依照該路徑、位置進行安裝和執行。
 
-&lt;li&gt;可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案&lt;/li&gt;
-&lt;li&gt;唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫&lt;/li&gt;
-&lt;li&gt;透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-&lt;li&gt; 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中&lt;/li&gt;
-
-&lt;/ol&gt;
-
-當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?
-
-&lt;ol&gt;
-
-&lt;li&gt;先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"&lt;/li&gt;
-&lt;li&gt;假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失&lt;/li&gt;
-&lt;li&gt; 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端&lt;/li&gt;
-
-&lt;/ol&gt;
-
-以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
-
-零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
-
-使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
-
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
+&lt;iframe src="https://player.vimeo.com/video/151209147" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151209147"&gt;修改start位置、fix設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;br /&gt;
 以下利用 Brython 語法, 在網頁繪圖:
