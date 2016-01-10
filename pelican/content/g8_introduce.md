@@ -1,5 +1,5 @@
 Title: 2015 電腦輔助設計實習 CADPA G8 成員介紹
-Date: 2016-01-11 00:40
+Date: 2016-01-10 00:40
 Category: G8
 Tags: leo editor 應用
 Slug: g8_introduce

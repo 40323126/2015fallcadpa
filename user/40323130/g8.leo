@@ -44,7 +44,7 @@
 </vnodes>
 <tnodes>
 <t tx="123.20160111003318.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W12 G8.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA G8 W12 報告
 Date: 2016-01-11 01:40
 Category: G8
 Tags: leo editor 應用
@@ -53,7 +53,7 @@ Authors: 40323130
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
 <t tx="123.20160111003321.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W13 G8.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA G8 W13 報告
 Date: 2016-01-11 01:40
 Category: G8
 Tags: leo editor 應用
@@ -62,7 +62,7 @@ Authors: 40323130
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
 <t tx="123.20160111003323.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W14 G8.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA G8 W14 報告
 Date: 2016-01-11 01:40
 Category: G8
 Tags: leo editor 應用
@@ -71,7 +71,7 @@ Authors: 40323130
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
 <t tx="123.20160111003330.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W16 G8.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA G8 W16 報告
 Date: 2016-01-11 01:40
 Category: G8
 Tags: leo editor 應用
@@ -438,7 +438,7 @@ ctx.fill()
 &lt;br /&gt;
 </t>
 <t tx="123.20160111005427.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W15 G8.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA G8 W15 報告
 Date: 2016-01-11 01:40
 Category: G8
 Tags: leo editor 應用
@@ -449,7 +449,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 <t tx="123.20160111005727.1"></t>
 <t tx="123.20160111010509.1">@language md
 Title: 2015 電腦輔助設計實習 CADPA G8 成員介紹
-Date: 2016-01-11 00:40
+Date: 2016-01-10 00:40
 Category: G8
 Tags: leo editor 應用
 Slug: g8_introduce
@@ -637,7 +637,7 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151210143206.1"></t>
 <t tx="leo.20151210143206.2"></t>
 <t tx="leo.20151210143206.3">@language md
-Title: 2015 電腦輔助設計實習 CADPA W10 G8.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA G8 W10 報告
 Date: 2016-01-11 01:40
 Category: G8
 Tags: leo editor 應用
