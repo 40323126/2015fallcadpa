@@ -448,7 +448,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/HANDLE_6.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/149251269" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1000,7 +1000,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/connection2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/149251270" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;/p&gt;
 
 &lt;br /&gt;
