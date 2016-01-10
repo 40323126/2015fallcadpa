@@ -433,9 +433,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/HANDLE_6.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/T0QCTFgjiUWm3TvJ"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/6yyaJTEEzGFySOJy"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Dciwn9R8YL1SEyQl"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/i9NDYDc64KX4Wf91"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3jZfjhorExwyX66E"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -710,9 +716,18 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster-base1.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/iQ0Aa0rm3RTKX4LM"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PnZEoVMlVC8X6Xz7"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/vBcdUMSBITXSB7Ja"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/BsXjpAAAtm7lm2Jh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3Cl8C7MGzn8pbfyd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/AQe4NfFSizI2t30p"width="450"height="350"&gt;
+
 
 &lt;br /&gt;
 
@@ -985,9 +1000,21 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/base2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/tFWrg4zm4iBB2TOS"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/z4OHqchLfj9EF1MV"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/aQEDzzK9UJ3tfXWp"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/YE6MOAWqqqHRpXh0"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/FpXG9qvvvKXwlc0a"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MDLYXbuyQKATngO8"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Ty8731Ie6WTVGlzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/aW1o22o9HHlNFOk3"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -1215,9 +1242,18 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/CYLINDER_5.5.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/2nhhhCj8uIDJfxlX"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/iOGyRlkyYbW62bti"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/bTkHJ3rPY93TblSZ"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/8CiB1JYbvqwpo6Xv"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/XmDmZPPB8Gsrqzmg"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/poeISZJfi96AxufZ"&gt;&lt;/img&gt;
+
 
 &lt;br /&gt;
 
@@ -1229,9 +1265,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323146/HANDLE_6.STL"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/WaqT4DCZEWDNqdEd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MZImRCtTz4J2qwwd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PJKCqTtT8yL68IwE"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/O48s3BqIx7KpHEzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/NxjgbRbB4CxuLBEh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/OimpsbLzAVRSruMR"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/joBlLgp24jwmB9Un"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
