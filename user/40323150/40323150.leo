@@ -319,7 +319,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110142424.1" a="E"><vh>@clean simplest17.html</vh>
+<v t="leo.20160110142424.1"><vh>@clean simplest17.html</vh>
 <v t="leo.20160110142424.2"><vh>檔案說明</vh></v>
 <v t="leo.20160110142424.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160110142424.4" a="E"><vh>body 標註</vh>
@@ -340,7 +340,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110142538.1" a="E"><vh>@clean simplest end.html</vh>
+<v t="leo.20160110142538.1"><vh>@clean simplest end.html</vh>
 <v t="leo.20160110142538.2"><vh>檔案說明</vh></v>
 <v t="leo.20160110142538.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160110142538.4" a="E"><vh>body 標註</vh>
@@ -400,7 +400,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151121095422.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20151121095422.1"><vh>@path pelican</vh>
 <v t="leo.20151121095422.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151121095422.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151121095422.4" a="E"><vh>@path content</vh>
@@ -426,29 +426,65 @@
 <v t="leo.20160110142527.1"><vh>@edit 2015cphww end.md</vh></v>
 </v>
 </v>
-<v t="leo.20151210143156.1" a="E"><vh>@path ./../../</vh>
-<v t="leo.20151210143156.2"><vh>@button admin pelican</vh></v>
-<v t="leo.20151210143156.3" a="E"><vh>@path pelican</vh>
-<v t="leo.20151210143156.4"><vh>@edit publishconf.py</vh></v>
-</v>
-</v>
-<v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
-<v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151210143206.3" a="E"><vh>@clean g8_w13.md</vh>
-<v t="leo.20151210143206.4"><vh>其他內容</vh></v>
-</v>
-<v t="leo.20160106205103.1" a="E"><vh>@clean g8_introduce.md</vh>
-<v t="leo.20160106205103.2"><vh>其他內容</vh></v>
-</v>
-<v t="leo.20160106172238.1" a="E"><vh>@clean g8_w14.md</vh>
-<v t="leo.20160106172238.2"><vh>其他內容</vh></v>
-</v>
-<v t="leo.20160107030024.1" a="E"><vh>@clean g8_w15.md</vh>
-<v t="leo.20160107030024.2"><vh>其他內容</vh></v>
+<v t="123.20160111020855.2"><vh>Recovered Nodes</vh>
+<v t="123.20160111020855.3"><vh>Recovered node "其他內容" from @clean g8_introduce.md</vh>
+<v t="123.20160111020855.4"><vh>old:其他內容</vh></v>
+<v t="123.20160111020855.5"><vh>new:其他內容</vh></v>
 </v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="123.20160111020855.2"></t>
+<t tx="123.20160111020855.3">(uncached) leo.20160106205103.2
+Diff...
+- &lt;h1&gt;CADPA Group8 Member:&lt;/h1&gt;
+?         ^
++ &lt;h1&gt;CADPa Group8 Member:&lt;/h1&gt;
+?         ^
+  
+  40323129 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323129"&gt;翁振端&lt;/a&gt;
+  
+- 40323130 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323130"&gt;康民宗&lt;/a&gt;
+?                                                                             ^
++ 40323130 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323130"&gt;康明宗&lt;/a&gt;
+?                                                                             ^
+  
+  40323132 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323132"&gt;張哲銘&lt;/a&gt;
+  
+  40323138 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323138"&gt;郭鐙元&lt;/a&gt;
+  
+  40323149 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323149"&gt;楊智堯&lt;/a&gt;
+  
+- 40323150 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150"&gt;詹晟弘&lt;/a&gt;
+?                                                                                   -
++ 40323150 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150"&gt;詹晟弘&lt;/a&gt;</t>
+<t tx="123.20160111020855.4">&lt;h1&gt;CADPa Group8 Member:&lt;/h1&gt;
+
+40323129 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323129"&gt;翁振端&lt;/a&gt;
+
+40323130 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323130"&gt;康明宗&lt;/a&gt;
+
+40323132 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323132"&gt;張哲銘&lt;/a&gt;
+
+40323138 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323138"&gt;郭鐙元&lt;/a&gt;
+
+40323149 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323149"&gt;楊智堯&lt;/a&gt;
+
+40323150 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150"&gt;詹晟弘&lt;/a&gt;</t>
+<t tx="123.20160111020855.5">&lt;h1&gt;CADPA Group8 Member:&lt;/h1&gt;
+
+40323129 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323129"&gt;翁振端&lt;/a&gt;
+
+40323130 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323130"&gt;康民宗&lt;/a&gt;
+
+40323132 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323132"&gt;張哲銘&lt;/a&gt;
+
+40323138 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323138"&gt;郭鐙元&lt;/a&gt;
+
+40323149 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323149"&gt;楊智堯&lt;/a&gt;
+
+40323150 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150"&gt;詹晟弘&lt;/a&gt;
+</t>
 <t tx="leo.20151121093509.2"></t>
 <t tx="leo.20151121093513.1"></t>
 <t tx="leo.20151121093513.2">QTreeWidget {
@@ -646,297 +682,6 @@ EXIT
 <t tx="leo.20151121110509.1">若在 Leo Editor 以 @edit 編輯 .bat 檔案, 必須將 @language batch 刪除, 否則 .bat 無法正確執行
 
 發生此一錯誤的原因不明</t>
-<t tx="leo.20151210143156.1"></t>
-<t tx="leo.20151210143156.2">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
-g.es("admin pelican 執行完畢")</t>
-<t tx="leo.20151210143156.3"></t>
-<t tx="leo.20151210143206.1"></t>
-<t tx="leo.20151210143206.2"></t>
-<t tx="leo.20151210143206.3">@language md
-Title: 2015 電腦輔助設計實習 CADPa W13 G8.leo 測試
-Date: 2015-12-10 13:30
-Category: G8
-Tags: leo editor 應用
-Slug: g8_w13
-Authors: g8
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others</t>
-<t tx="leo.20151210143206.4">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
-
-以下可以引入 reveal.js 投影片
-
-可以引入 vimeo 影片
-
-可以導入組員的 Jupyter notebook
-
-也可以加入其他 html 格式或 md 格式的心得報告
-
-有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置
-
-基本的工作模式:
-
-&lt;ol&gt;
-
-&lt;li&gt;可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案&lt;/li&gt;
-&lt;li&gt;唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫&lt;/li&gt;
-&lt;li&gt;透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-&lt;li&gt; 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中&lt;/li&gt;
-
-&lt;/ol&gt;
-
-當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?
-
-&lt;ol&gt;
-
-&lt;li&gt;先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"&lt;/li&gt;
-&lt;li&gt;假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失&lt;/li&gt;
-&lt;li&gt; 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端&lt;/li&gt;
-
-&lt;/ol&gt;
-
-以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
-
-零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
-
-使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
-
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
-
-&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:
-
-使用方法: &lt;http://www.brython.info/&gt;
-
-&lt;!-- 導入 brython_dist.js --&gt;
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-&lt;!-- 啟動 brython() --&gt;
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;
-
-以下導入 g9999_u9999_w13.ipynb, 理論上可以放到 content/notebook/g9999 目錄下, 然後利用 g9999/ 相對目錄呼叫
-
-{% notebook g9999/g9999_u9999_w13.ipynb %}
-</t>
-<t tx="leo.20160106172238.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa G8 Creo 材料繪製
-Date: 2015-12-12 13:30
-Category: G8
-Tags: leo editor 應用
-Slug: g8_w14
-Authors: g8
-Summary: 讓組員利用Creo繪製 Nutcracker 機構零件
-@others</t>
-<t tx="leo.20160106172238.2">以下利用各組員倉儲下的 stl 檔案及操作影片, 進行分組報告零件檢視:[^1]
-
-[^1]:零件檔案位於: &lt;https://github.com/40323150/2015cadp/tree/gh-pages/images&gt;&lt;br/&gt;
-使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
-
- &lt;h1&gt;&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker 機構零件&lt;/a&gt;&lt;/h1&gt;
- 
- &lt;h2&gt;Nutcracker-Assembly&lt;/h2&gt;
- 
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150985599" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- 
- BASE
- 
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1base.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150805720" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-HINGE
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt01.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150805725" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-ADJUSTER BASE
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt03.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150805726" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-CYLINDER
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt09.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150805722" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-PISTON
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/2prt02.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150805724" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-ADJUSTER
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt04.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150805723" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-CONNECTION
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt05.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150808153" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-HANDLE
-
-&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt06.stl"&gt;&lt;/script&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150808152" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:
-
-使用方法: &lt;http://www.brython.info/&gt;
-
-&lt;!-- 導入 brython_dist.js --&gt;
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-&lt;!-- 啟動 brython() --&gt;
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;</t>
-<t tx="leo.20160106205103.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa G8 成員介紹
-Date: 2015-12-11 13:30
-Category: G8
-Tags: leo editor 應用
-Slug: g8_introduce
-Authors: g8
-Summary: 各組員網站連結
-@others</t>
-<t tx="leo.20160106205103.2">&lt;h1&gt;CADPa Group8 Member:&lt;/h1&gt;
-
-40323129 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323129"&gt;翁振端&lt;/a&gt;
-
-40323130 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323130"&gt;康明宗&lt;/a&gt;
-
-40323132 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323132"&gt;張哲銘&lt;/a&gt;
-
-40323138 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323138"&gt;郭鐙元&lt;/a&gt;
-
-40323149 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323149"&gt;楊智堯&lt;/a&gt;
-
-40323150 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150"&gt;詹晟弘&lt;/a&gt;</t>
 <t tx="leo.20160106230211.1">@language xml
 @tabwidth -4
 @others
@@ -2220,39 +1965,6 @@ Summary: 各組員網站連結
 &lt;h2&gt;Creo Parametric－Corner cube實作影片&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/145155876" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20160107030024.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa G8 Openshape 材料繪製
-Date: 2015-12-13 13:30
-Category: G8
-Tags: leo editor 應用,OnShape 應用
-Slug: g8_w15
-Authors: g8
-Summary: 讓組員利用Onshape繪製 Nutcracker 機構零件
-@others</t>
-<t tx="leo.20160107030024.2">&lt;h1&gt;&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker 機構零件&lt;/a&gt;&lt;/h1&gt;
- 
-&lt;h2&gt;Nutcracker機構組裝影片:&lt;/h2&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150931846" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- 
-&lt;a href="https://vimeo.com/150932966"&gt;BASE&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150927520"&gt;HINGE&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150927515"&gt;ADJUSTER BASE&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150927519"&gt;CYLINDER&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150927521"&gt;PISTON&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150933506"&gt;ADJUSTER&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150927526"&gt;CONNECTION&lt;/a&gt;
-
-&lt;a href="https://vimeo.com/150927524"&gt;HANDLE&lt;/a&gt;
-
-
-</t>
 <t tx="leo.20160107143449.1">@language xml
 @tabwidth -4
 @others
