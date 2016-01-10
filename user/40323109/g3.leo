@@ -551,7 +551,7 @@ OnShape組裝圖
 
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
 
-和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
+和以前在使用SolidWorks沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
 
 &lt;br /&gt;
 
