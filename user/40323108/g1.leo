@@ -42,7 +42,7 @@
 </v>
 <v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151210143206.3"><vh>@clean g1_w11_1.md</vh>
+<v t="leo.20151210143206.3" a="E"><vh>@clean g1_w11_1.md</vh>
 <v t="leo.20151210143206.4"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160111131841.1"><vh>@clean g1_w12_1.md</vh>
@@ -268,7 +268,7 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151210143206.1"></t>
 <t tx="leo.20151210143206.2"></t>
 <t tx="leo.20151210143206.3">@language md
-Title: 2015 電腦輔助設計實習 CADPa W11 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W11 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
@@ -391,7 +391,7 @@ ctx.fill()
 {% notebook g9999/g9999_u9999_w13.ipynb %}
 </t>
 <t tx="leo.20160110204112.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W13 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W13 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
@@ -420,7 +420,7 @@ href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/
 零件八: handle     負責人:邱君洛 40323124
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/82VvZ6Vp7I4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20160111131841.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W12 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W12 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
@@ -449,7 +449,7 @@ href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/
 零件五: piston     負責人:邱君洛 40323124
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/RBO70iEtT8k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20160111131936.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W14 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W14 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
@@ -580,7 +580,7 @@ ctx.fill()
 {% notebook g9999/g9999_u9999_w13.ipynb %}
 </t>
 <t tx="leo.20160111132000.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W15 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W15 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
@@ -711,7 +711,7 @@ ctx.fill()
 {% notebook g9999/g9999_u9999_w13.ipynb %}
 </t>
 <t tx="leo.20160111132018.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W16 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W16 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
@@ -842,7 +842,7 @@ ctx.fill()
 {% notebook g9999/g9999_u9999_w13.ipynb %}
 </t>
 <t tx="leo.20160111132040.1">@language md
-Title: 2015 電腦輔助設計實習 CADPa W17 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W17 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
