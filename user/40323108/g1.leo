@@ -40,9 +40,9 @@
 <v t="leo.20151210143156.4"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
+<v t="leo.20151210143206.1"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151210143206.3" a="E"><vh>@clean g1_w11_1.md</vh>
+<v t="leo.20151210143206.3"><vh>@clean g1_w11_1.md</vh>
 <v t="leo.20151210143206.4"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160111131841.1" a="E"><vh>@clean g1_w12_1.md</vh>
@@ -409,14 +409,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 <t tx="leo.20160110204112.2">creo零件繪製
 
 零件六: connection   負責人:江宜臻 40323101
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/connection.stl"&gt;&lt;/script&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/-yfnmrtdxGk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件七: adjuster      負責人:林宛儒 40323102
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/adjuster.stl"&gt;&lt;/script&gt;
 &lt;iframe src="https://player.vimeo.com/video/151217350" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 零件四: cylinder        負責人:林意欣 40323103
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/cylinder.stl"&gt;&lt;/script&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/TxzWM7th-o4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件六: connection  負責人:謝馨慧 40323108
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/connection.stl"&gt;&lt;/script&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/_sx42hyy1Hw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件八: handle        負責人:邱君洛 40323124
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/handle.stl"&gt;&lt;/script&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/82VvZ6Vp7I4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20160111131841.1">@language md
 Title: 2015 電腦輔助設計實習 CADPa W12 G1.
@@ -437,14 +442,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 <t tx="leo.20160111131841.2">creo零件繪製
 
 零件一: adjuster_base   負責人:江宜臻 40323101
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/adjuster_base.stl"&gt;&lt;/script&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/VrAWEZfZsCw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件二: hinge      負責人:林宛儒 40323102
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/hinge.stl"&gt;&lt;/script&gt;
 &lt;iframe src="https://player.vimeo.com/video/151217351" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 零件三: base        負責人:林意欣 40323103
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/base.stl"&gt;&lt;/script&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y32gcqsgEJI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件四: cylinder  負責人:謝馨慧 40323108
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/cylinder.stl"&gt;&lt;/script&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w9SqOIPhWwU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 零件五: piston     負責人:邱君洛 40323124
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/piston.stl"&gt;&lt;/script&gt;
 &lt;iframe width="854" height="480" src="https://www.youtube.com/embed/RBO70iEtT8k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20160111131936.1">@language md
 Title: 2015 電腦輔助設計實習 CADPa W14 G1.
